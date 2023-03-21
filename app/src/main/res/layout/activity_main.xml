@@ -1,7 +1,10 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_centerVertical="true"
+    android:background="#101843"
     android:gravity="center">
 
 
@@ -10,29 +13,46 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
+        android:background="#0064FFDA"
+        android:foregroundTint="#64FFDA"
         android:paddingTop="50dp"
         android:paddingBottom="50dp"
+        android:shadowColor="#000000"
+        android:shadowDx="5"
+        android:shadowDy="5"
+        android:shadowRadius="10"
+        android:text="WORD HERE"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="#448AFF"
+        android:textColorHighlight="#64FFDA"
+        android:textIsSelectable="false"
         android:textSize="50sp"
         android:textStyle="bold"
-        android:text="WORD HERE" />
+        android:typeface="normal"
+        app:drawableTint="#64FFDA" />
 
     <TextView
         android:id="@+id/wordsTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:gravity="center"
         android:layout_below="@+id/wordTextView"
         android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text="5 WORDS HERE"
+        android:textColor="#40C4FF"
         android:textSize="24sp"
-        android:text="5 WORDS HERE" />
+        android:typeface="normal" />
 
     <Button
         android:id="@+id/nextButton"
+        style="@style/Widget.AppCompat.Button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/wordsTextView"
-        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:background="@color/teal_200"
+        android:text="Next"
         android:textSize="24sp"
-        android:text="Next" />
+        android:translationY="50dp" />
 
 </RelativeLayout>
