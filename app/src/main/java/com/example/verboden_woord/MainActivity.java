@@ -10,11 +10,16 @@ import java.util.Arrays;
 
 public class MainActivity extends AppCompatActivity {
 
+    int beg = 1, end = 5;
     private TextView wordTextView;
     private TextView wordsTextView;
+    private String[] currentWords = {"GUESS_WORD", "TABOO_WORD1", "TABOO_WORD2", "TABOO_WORD3", "TABOO_WORD4", "TABOO_WORD5"};
 
-    private String[] currentWords = {"Evie", "Schatje", "Leuk", "Knap", "Slim", "Lieffie"};
-    int beg = 1, end = 5;
+    // Generic method to get subarray of a non-primitive array
+    // between specified indices
+    public static <T> T[] subArray(T[] array, int beg, int end) {
+        return Arrays.copyOfRange(array, beg, end + 1);
+    }
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -53,15 +58,9 @@ public class MainActivity extends AppCompatActivity {
         return stringBuilder.toString();
     }
 
-    // Generic method to get subarray of a non-primitive array
-    // between specified indices
-    public static<T> T[] subArray(T[] array, int beg, int end) {
-        return Arrays.copyOfRange(array, beg, end + 1);
-    }
-
     private String[] generateRandomWords() {
         // TODO: Implement random words generation logic
-        return new String[]{"NEW WORD1", "NEW WORD2", "NEW WORD3", "NEW WORD4", "NEW WORD5", "NEW WORD6"};
+        return new String[]{"NEW GUESS WORD", "NEW WORD1", "NEW WORD2", "NEW WORD3", "NEW WORD4", "NEW WORD5"};
     }
 }
 
