@@ -29,20 +29,28 @@ public class MainActivity extends AppCompatActivity {
 
             // Update TextViews
             wordTextView.setText(currentWords[0]);
-            String[] tabooWords = subArray(currentWords, beg, end);
-            StringBuilder stringBuilder = new StringBuilder();
-            for (int i = 0; i < tabooWords.length; i++) {
-                stringBuilder.append(tabooWords[i]);
-                stringBuilder.append("\n");
-            }
-            String tabooWordsConcat = stringBuilder.toString();
-            wordsTextView.setText(tabooWordsConcat);
+            setTabooWords(currentWords);
         });
+
         // Set default word and set of words
         // TODO: extract function
         wordTextView.setText(currentWords[0]);
+        setTabooWords(currentWords);
+    }
+
+    private void setTabooWords(String[] currentWords) {
         String[] tabooWords = subArray(currentWords, beg, end);
-        wordsTextView.setText(Arrays.toString(tabooWords));
+        String tabooWordsConcat = concatString(tabooWords);
+        wordsTextView.setText(tabooWordsConcat);
+    }
+
+    private String concatString(String[] stringArray) {
+        StringBuilder stringBuilder = new StringBuilder();
+        for (int i = 0; i < stringArray.length; i++) {
+            stringBuilder.append(stringArray[i]);
+            stringBuilder.append("\n\n");
+        }
+        return stringBuilder.toString();
     }
 
     // Generic method to get subarray of a non-primitive array

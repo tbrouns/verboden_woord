@@ -1,22 +1,29 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:layout_centerVertical="true"
+    android:gravity="center">
+
 
     <TextView
         android:id="@+id/wordTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:textSize="30sp"
+        android:paddingTop="50dp"
+        android:paddingBottom="50dp"
+        android:textSize="50sp"
+        android:textStyle="bold"
         android:text="WORD HERE" />
 
     <TextView
         android:id="@+id/wordsTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:gravity="center"
         android:layout_below="@+id/wordTextView"
         android:layout_centerHorizontal="true"
-        android:textSize="20sp"
+        android:textSize="24sp"
         android:text="5 WORDS HERE" />
 
     <Button
@@ -25,6 +32,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/wordsTextView"
         android:layout_centerHorizontal="true"
+        android:textSize="24sp"
         android:text="Next" />
 
 </RelativeLayout>
