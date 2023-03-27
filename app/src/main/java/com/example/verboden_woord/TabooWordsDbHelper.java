@@ -1,3 +1,17 @@
+package com.example.verboden_woord;
+
+import static java.security.AccessController.getContext;
+
+import android.content.ContentValues;
+import android.database.Cursor;
+import android.database.sqlite.SQLiteDatabase;
+import android.database.sqlite.SQLiteOpenHelper;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+
 public class TabooWordsDbHelper extends SQLiteOpenHelper {
     private static final String DATABASE_NAME = "taboo_words.db";
     private static final int DATABASE_VERSION = 1;
@@ -16,7 +30,7 @@ public class TabooWordsDbHelper extends SQLiteOpenHelper {
 
     private SQLiteDatabase database;
 
-    public TabooWordsDbHelper(Context context) {
+    public TabooWordsDbHelper(MainActivity context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
     }
 
@@ -48,14 +62,14 @@ public class TabooWordsDbHelper extends SQLiteOpenHelper {
         // Handle upgrades to the database schema
     }
 
-    public List<String> getTabooWordsForGuessWord(String guessWord) {
-        List<String> tabooWords = new ArrayList<>();
+    public String[] getTabooWordsForGuessWord(String guessWord) {
+        String[] tabooWords = new String[];
 
         database = getReadableDatabase();
         Cursor cursor = database.query(TABLE_NAME, new String[]{COLUMN_TABOO_WORDS}, COLUMN_GUESS_WORD + "=?", new String[]{guessWord}, null, null, null);
         if (cursor.moveToFirst()) {
             String tabooWordsString = cursor.getString(cursor.getColumnIndex(COLUMN_TABOO_WORDS));
-            tabooWords = Arrays.asList(tabooWordsString.split(","));
+            String[] tabooWords = Arrays.asList(tabooWordsString.split(","));
         }
         cursor.close();
 
