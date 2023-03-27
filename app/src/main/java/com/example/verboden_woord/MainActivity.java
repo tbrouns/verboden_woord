@@ -10,6 +10,8 @@ import java.util.Arrays;
 
 public class MainActivity extends AppCompatActivity {
 
+    private TabooWordsDbHelper dbHelper;
+
     int beg = 1, end = 5;
     private TextView wordTextView;
     private TextView wordsTextView;
@@ -23,28 +25,29 @@ public class MainActivity extends AppCompatActivity {
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
 
+        // Get the database
+        dbHelper = new TabooWordsDbHelper(this);
+
+        // Set layout stuff
+        setContentView(R.layout.activity_main);
         wordTextView = findViewById(R.id.wordTextView);
         wordsTextView = findViewById(R.id.wordsTextView);
         Button nextButton = findViewById(R.id.nextButton);
         nextButton.setOnClickListener(v -> {
-            // Generate new word and set of words
-            currentWords = generateRandomWords();
-
-            // Update TextViews
-            wordTextView.setText(currentWords[0]);
-            setTabooWords(currentWords);
+            setNewWords()
         });
 
-        // Set default word and set of words
-        // TODO: extract function
-        wordTextView.setText(currentWords[0]);
-        setTabooWords(currentWords);
+        setNewWords()
     }
 
-    private void setTabooWords(String[] currentWords) {
-        String[] tabooWords = subArray(currentWords, beg, end);
+    private void setNewWords() {
+        // Get a random guess word from the database
+        String guessWord = getRandomGuessWord();
+        // Get the taboo words for the guess word from the database
+        List<String> tabooWords = dbHelper.getTabooWordsForGuessWord(guessWord);
+        // Update TextViews
+        wordTextView.setText(guessWord);
         String tabooWordsConcat = concatString(tabooWords);
         wordsTextView.setText(tabooWordsConcat);
     }
@@ -58,9 +61,20 @@ public class MainActivity extends AppCompatActivity {
         return stringBuilder.toString();
     }
 
-    private String[] generateRandomWords() {
-        // TODO: Implement random words generation logic
-        return new String[]{"NEW GUESS WORD", "NEW WORD1", "NEW WORD2", "NEW WORD3", "NEW WORD4", "NEW WORD5"};
+    private String getRandomGuessWord() {
+        // Get a random guess word from the database
+        SQLiteDatabase database = dbHelper.getReadableDatabase();
+        Cursor cursor = database.query("taboo_words", new String[]{"guess_word"}, null, null, null, null, "RANDOM()", "1");
+        cursor.moveToFirst();
+        String guessWord = cursor.getString(cursor.getColumnIndex("guess_word"));
+        cursor.close();
+        return guessWord;
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        dbHelper.close();
     }
 }
 
