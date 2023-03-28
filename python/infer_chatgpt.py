@@ -13,7 +13,7 @@ import openai
 import time
 from tqdm import tqdm
 
-from utils import parse_txt
+from utils import parse_txt, convert_to_dict, convert_dict_to_txt
 
 n_cards = 20
 
@@ -30,7 +30,7 @@ with open("categories.csv", "r") as f:
     reader = csv.reader(f, delimiter=';')
     for line in reader:
         n_samples_for_category, category = line
-        category_dict[category] = n_samples_for_category
+        category_dict[category] = int(n_samples_for_category)
 categories = list(category_dict.keys())
 n_categories = len(categories)
 
@@ -39,21 +39,41 @@ for category_index in tqdm(range(n_categories)):
     category = categories[category_index]
     n_samples_for_category = category_dict[category]
     txt_path = os.path.join(data_dir, f"{category}.txt")
-    n_samples = 0
+
+    n_samples_old = -n_cards
+
+    print(f"\nProcessing '{category}'...")
+
+    # Get existing words
+    if os.path.isfile(txt_path):
+        data_dict_existing = parse_txt(txt_path)
+    else:
+        data_dict_existing = None
 
     while True:
 
-        # Get existing words
-        if os.path.isfile(txt_path):
-            data_dict = parse_txt(txt_path)
-            taboo_words = list(data_dict.keys())
+        if data_dict_existing is not None:
+            taboo_words = list(data_dict_existing.keys())
             n_samples = len(taboo_words)
             taboo_words = ", ".join(taboo_words)
         else:
+            data_dict_existing = {}
+            n_samples = 0
             taboo_words = None
 
-        if n_samples >= n_samples_for_category:
+        if n_samples >= n_samples_for_category or n_samples <= n_samples_old + n_cards // 2:
+            print(
+                "\n"
+                f"Stopped processing...\n"
+                f"Samples in current step: {n_samples}\n"
+                f"Samples in previous step: {n_samples_old}\n"
+                f"Total samples: {n_samples_for_category}"
+            )
             break
+        else:
+            print(f"Progress: {n_samples} / {n_samples_for_category}")
+
+        n_samples_old = n_samples
 
         content = (
             f"Genereer {n_cards} speelkaartjes voor het spel 'Taboo' in de categorie: '{category}'.\n\n"
@@ -89,5 +109,24 @@ for category_index in tqdm(range(n_categories)):
 
         if response is not None:
             output = response.choices[0].message.content
-            with open(txt_path, "a") as f:
-                f.write(output.strip())
+            lines = output.split("\n")
+            data_dict_existing = data_dict_existing | convert_to_dict(lines)
+
+    # Save to file
+    lines = convert_dict_to_txt(data_dict_existing)
+    with open(txt_path, "w") as f:
+        for line in lines:
+            line = line.strip()
+            f.write(line)
+            f.write("\n")
+
+# Convert txt files
+txt_file_list = glob.glob(os.path.join(data_dir, "*.txt"))
+with open("words.txt", 'w') as f:
+    data_dict = {}
+    for txt_path in txt_file_list:
+        data_dict = data_dict | parse_txt(txt_path)
+    lines = convert_dict_to_txt(data_dict)
+    for line in lines:
+        f.write(line)
+        f.write("\n")
