@@ -1,78 +1,97 @@
 package com.example.verboden_woord;
 
-import static java.security.AccessController.getContext;
-
 import android.content.ContentValues;
+import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
+import android.util.Log;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.List;
 
 public class TabooWordsDbHelper extends SQLiteOpenHelper {
     private static final String DATABASE_NAME = "taboo_words.db";
     private static final int DATABASE_VERSION = 1;
+    private final Context context;
 
-    private static final String TABLE_NAME = "taboo_words";
-    private static final String COLUMN_ID = "_id";
-    private static final String COLUMN_GUESS_WORD = "guess_word";
-    private static final String COLUMN_TABOO_WORDS = "taboo_words";
-
-    private static final String CREATE_TABLE_QUERY = "CREATE TABLE " + TABLE_NAME +
-            "(" + COLUMN_ID + " INTEGER PRIMARY KEY AUTOINCREMENT, " +
-            COLUMN_GUESS_WORD + " TEXT, " +
-            COLUMN_TABOO_WORDS + " TEXT);";
-
-    private static final String INSERT_WORD_QUERY = "INSERT INTO " + TABLE_NAME + " (" + COLUMN_GUESS_WORD + ", " + COLUMN_TABOO_WORDS + ") VALUES (?, ?)";
-
-    private SQLiteDatabase database;
-
-    public TabooWordsDbHelper(MainActivity context) {
+    public TabooWordsDbHelper(Context context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
+        this.context = context;
     }
 
-    @Override
     public void onCreate(SQLiteDatabase db) {
-        db.execSQL(CREATE_TABLE_QUERY);
+        db.execSQL("CREATE TABLE taboo_words (guess_word TEXT, taboo_word_1 TEXT, taboo_word_2 TEXT, taboo_word_3 TEXT, taboo_word_4 TEXT, taboo_word_5 TEXT)");
 
-        // Read taboo words from file in assets folder and insert them into the database
         try {
-            InputStream inputStream = getContext().getAssets().open("taboo_words.txt");
+            // Open the file containing the words
+            InputStream inputStream = context.getAssets().open("words.txt");
             BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
             String line;
+
+            // Read each line of the file
             while ((line = reader.readLine()) != null) {
+                // Split the line into the guess word and taboo words
                 String[] words = line.split(",");
-                if (words.length == 6) {
-                    ContentValues contentValues = new ContentValues();
-                    contentValues.put(COLUMN_GUESS_WORD, words[0]);
-                    contentValues.put(COLUMN_TABOO_WORDS, words[1] + "," + words[2] + "," + words[3] + "," + words[4] + "," + words[5]);
-                    db.insert(TABLE_NAME, null, contentValues);
-                }
+                String guessWord = words[0];
+                String tabooWord1 = words[1];
+                String tabooWord2 = words[2];
+                String tabooWord3 = words[3];
+                String tabooWord4 = words[4];
+                String tabooWord5 = words[5];
+
+                // Insert the words into the database
+                ContentValues values = new ContentValues();
+                values.put("guess_word", guessWord);
+                values.put("taboo_word_1", tabooWord1);
+                values.put("taboo_word_2", tabooWord2);
+                values.put("taboo_word_3", tabooWord3);
+                values.put("taboo_word_4", tabooWord4);
+                values.put("taboo_word_5", tabooWord5);
+                db.insert("taboo_words", null, values);
             }
+
+            reader.close();
+            inputStream.close();
         } catch (IOException e) {
-            e.printStackTrace();
+            Log.e("TabooWordsDbHelper", "Error reading words file", e);
         }
     }
 
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
-        // Handle upgrades to the database schema
+        // Upgrade logic goes here
     }
 
-    public String[] getTabooWordsForGuessWord(String guessWord) {
-        String[] tabooWords = new String[];
-
-        database = getReadableDatabase();
-        Cursor cursor = database.query(TABLE_NAME, new String[]{COLUMN_TABOO_WORDS}, COLUMN_GUESS_WORD + "=?", new String[]{guessWord}, null, null, null);
+    public List<String> getTabooWordsForGuessWord(String guessWord) {
+        SQLiteDatabase database = getReadableDatabase();
+        String[] columns = {"taboo_word_1", "taboo_word_2", "taboo_word_3", "taboo_word_4", "taboo_word_5"};
+        String selection = "guess_word = ?";
+        String[] selectionArgs = {guessWord};
+        Cursor cursor = database.query("taboo_words", columns, selection, selectionArgs, null, null, null);
+        List<String> tabooWords = new ArrayList<>();
         if (cursor.moveToFirst()) {
-            String tabooWordsString = cursor.getString(cursor.getColumnIndex(COLUMN_TABOO_WORDS));
-            String[] tabooWords = Arrays.asList(tabooWordsString.split(","));
+            for (int i = 0; i < cursor.getColumnCount(); i++) {
+                tabooWords.add(cursor.getString(i));
+            }
         }
         cursor.close();
-
         return tabooWords;
     }
+
+    public String getRandomGuessWord() {
+        SQLiteDatabase db = getReadableDatabase();
+        Cursor cursor = db.rawQuery("SELECT guess_word FROM taboo_words ORDER BY RANDOM() LIMIT 1", null);
+        String guessWord = null;
+        if (cursor.moveToFirst()) {
+            guessWord = cursor.getString(0);
+        }
+        cursor.close();
+        return guessWord;
+    }
+
 }
