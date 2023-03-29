@@ -1,0 +1,2767 @@
+Koe,Melk,Vlees,Hoorns,Weide,Agrarisch
+Akkerbouw,Oogsten,Grond,Planten,Gewassen,Zaaien
+Hooiberg,Hooi,Stal,Boerderij,Brandbaar,Opstapel
+Tractor,Landbouw,Ploeg,Boer,Aanhanger,Gras
+Schuur,Opbergruimte,Boerderij,Gereedschap,Dakpan,Muur
+Maïs,Kolf,Gewas,Zoet,Oogst,Geluid
+Bijen,Honing,Zwerm,Angel,Koningin,Steek
+Weidegang,Grazende dieren,Gras,Uitloop,Kantine,Raster
+Mest,Dung,Bemesten,Bodem,Natuurlijk,Geurig
+Stro,Vulling,Dierverblijf,Kachel,Balen,Drogen
+Boer,Dieren,Gewassen,Landbouw,Trekker,Oogst
+Schapen,Wol,Lammeren,Herder,Hoeder,Slachten
+Kuilgras,Bewaren,Voederen,Conserveren,Inkuilen,Nattigheid
+Grasmaaier,Werktuig,Gazon,Robuust,Motor,Maaien
+Kippen,Eieren,Scharrel,Kippenhok,Snavelkapje,Broeden
+Ploeg,Tractor,Akker,Bewerking,Grond,Voorbereiden
+Vee,Hoornloos,Graseren,Verzorging,Dierenarts,Kalf
+Tuinbouw,Kassen,Groente,Fruitteelt,Plantenkwekerij,Vers
+Landerijen,Weilanden,Heide,Natuurgebied,Overstromingsgevaar,Randstedelijke bebouwing.
+Melk,Koe,Zuivel,Room,Kaas,Boter
+Oogst,Akkerbouw,Maïs,Graan,Tarwe,Opbrengst
+Gieter,Tuinieren,Water,Gieten,Bloemen,Plant
+Landbouwmachine,Tractor,Ploegen,Mest,Oogst,Machine
+Boerderij,Dieren,Graan,Ploegen,Warehousing,Stallen
+Landbouwer,Boer,Veehouder,Akkerbouwer,Tuinder,Grondwerker
+Dorsmachine,Graan,Oogst,Machine,Tarwe,Kaf
+Hark,Stro,Bladeren,Gras,Tuinieren,Glad maken
+Kippenhok,Kippen,Eieren,Nest,Hok,Pluimvee
+Tuinkas,Tuinieren,Planten,Serre,Kas,Kweek
+Fruitboom,Appel,Peer,Fruit,Boom,Oogst
+Mesthoop,Mest,Vee,Stal,Compost,Bodem
+Silo,Graan,Oogst,Opslag,Silage,Voeden
+Tuinslang,Water,Tuinieren,Besproeien,Gieter,Tuinsproeier
+Gewas,Plant,Oogst,Akkerbouw,Tuinieren,Gras
+Hooimijt,Hooiberg,Stro,Oogst,Vee,Gras
+Eg,Landbouwmachine,Bewerking,Grond,Voorbereiden,Akker
+Biologische landbouw,Kunstmatige meststoffen,GMO,Pesticiden,Bestrijdingsmiddelen,Voedselproductie
+Gier,Mest,Vloeistof,Stank,Bodem,Composteerbaar.
+Kaas,Melk,Rund,Geit,Ooi,Room
+Sinaasappel,Fruit,Sap,Schil,Vitamine C,Smoothie
+Kreeft,Zee,Scharen,Staart,Delicatesse,Garnaal
+Blikvoer,Conserve,Ingeblikt,Houdbaar,Voedsel,Emergency
+Noten,Boom,Eetbaar,Vruchten,Schil,Pinda
+Biefstuk,Vlees,Rood,Gebakken,Mals,Grillen
+Brood,Bakker,Tarwe,Graan,Wit,Meel
+Honing,Bij,Zoet,Geel,Pot,Kruiden
+Saus,Dressing,Kruiden,Dip,Vleugels,Tomaten
+Bakolie,Vet,Frituurpan,Brander,Zonnebloem,Bakken
+Sinaasappelsap,Vrucht,Glas,Drinken,Sinaasappel,Versgeperst
+Rijst,Graan,Oost-Azië,Schelpen,Voedsel,Paddies
+Koffie,Drank,Warm,Cafeïne,Espresso,Cappuccino
+Yoghurt,Zuivel,Lepel,Bakje,Bevroren,Vrucht
+IJs,Bevroren,Dessert,Schep,Slagroom,Leuk
+Peper,Kruid,Scherp,Groen,Zout,Pittig
+Pannenkoeken,Beslag,Pan,Stroop,Klein,Spek
+Gehakt,Runder,Kneed,Bolletjes,Kruiden,Bakken
+Chocolade,Zoet,Cacao,Smeltend,Dessert,Bonbons
+Broccoli,Groen,Gezond,Bloemkool,Vitaminen,Vezels
+Aandelen,Beleggen,Dividend,Balans,Koers,Markt
+Bank,Geld,Lenen,Financiën,Teller,Spaarrekening
+Belasting,Fiscus,Toeslagen,Box 3,Inkomsten,Aangifte
+Budget,Uitgaven,Inkomsten,Begroting,Planning,Salaris
+Cryptocurrency,Digitaal geld,Blockchain,Bitcoin,Wallet,Transactie
+Diefstal,Gestolen,Plunderen,Roof,Inbreken,Illegaal
+Economie,Groei,Ongelijkheid,Marktwerking,Handelsoorlog,Monopolie
+Faillissement,Insolventie,Schulden,Curator,Boedel,Crediteur
+Garantie,Service,Reclame,Reparatie,Klacht,Verzekering
+Huisvesting,Woningmarkt,Hypotheekrente,Huurprijs,Woningbouw,Huisbaas
+Inflatie,Prijsstijging,Valuta,Koopkracht,Monetair beleid,Jaarlijkse verhoging
+Investering,Rendement,Risico,Kapitaal,Aandelen,Beurs
+Kapitaal,Vermogen,Bezittingen,Investering,Geld,Bedrijfskapitaal
+Lenen,Rentetarief,Banklening,Schulden,Aflossing,Financiering
+Monopolie,Marktcontrole,Oligopolie,Kartelvorming,Concurrentie,Marktsegment
+Pensioen,AOW,Sparen,Leeftijd,Pensioenfonds,Uitbetaling
+Recessie,Werkloosheid,Krimp,Economische malaise,Begrotingsproblemen,Vermogensverlies
+Schuld,Krediet,Aflossen,Incassobureau,Renteverhoging,Wanbetaling
+Spaarrekening,Rente,Bank,Geld opnemen,Inleggen,Vermogen
+Vastgoed,Huis,Woning,Grond,Verhuur,Makelaar
+Boekhouding,Balans,Audit,Accountant,Winst- en verliesrekening,Schattingen
+Beurs,Handel,Aandelen,Koers,Index,Effecten
+Onderhandelen,Deal,Overleg,Compromis,Overeenkomst,Discussiëren
+Fiscaal,Belasting,Aangifte,Boete,Heffing,Controleur
+Ondernemer,Zakenman,Vrouwelijk,Startup,Financiering,Bedrijfsplan
+Pensioenfonds,AOW,Verzekeringsmaatschappij,Pensioenregeling,Fondsen,Uitkering
+Dividend,Uitkering,Winst,Aandeel,Rendement,Belegging
+Belastingdienst,Controle,Boete,Teruggave,BTW,Inspecteur
+Obligatie,Lenen,Schuld,Rentevergoeding,Looptijd,Belegging
+Solvabiliteit,Faillissement,Kapitaal,Vermogen,Balans,Liquiditeit
+Audit,Controle,Accountant,Rapport,Financiën,Rekening
+Incasso,Schuldenaar,Betaling,Wanbetaler,Vordering,Rechtszaak
+Verzekering,Schade,Premie,Risico,Vergoeding,Polis
+Kapitaalmarkt,Rente,Beurs,Aandelen,Geldmarkt,Beleggingen
+Boete,Straf,Overtreding,Verkeersboete,Penalty,Sanctie
+Wisselkoers,Euro,Dollar,Pond,Valuta,Wisselen
+Fusie,Samensmelting,Overname,Overlapping,Synergie,Integratie
+Financiering,Geld,Investering,Krediet,Subsidie,Kapitaal
+Lening,Geld,Bank,Terugbetalen,Rente,Schulden
+Creditcard,Betaling,Lening,Schuld,Krediet,Aankoop
+Hypotheek,Lening,Bank,Rentetarief,Onderpand,Aflossing
+Belastingaangifte,Fiscaal,Belastingdienst,Aangifte,Heffing,Belastingtarief
+Fiscale vrijstelling,Belasting,Verdienen,Loon,Aftrekpost,Inkomsten
+Beleggen,Aandelen,Rendement,Risico,Markt,Waarde
+Onderneming,Bedrijf,Winst,Management,Marketing,Klanten
+Bruto inkomen,Netto inkomen,Belasting,Loonheffing,Salaris,Inkomsten
+Economische groei,Recessie,Krimp,Handelsoorlog,Werkloosheid,Bruto nationaal product
+IFRS,Jaarrekening,Boekhouding,Financieel verslag,International,Standaard
+Handelsbeurs,Expo,Stand,Netwerken,Handelsrelaties,Bezoekersaantallen
+Credit rating,Financiering,Kredietwaardigheid,Schulden,Betalingsachterstand,Investeerders
+Vreemde valuta,Wisselkoers,Euro,Dollar,Valutahandel,Handelsoorlog
+Balans,Financieel overzicht,Jaarrekening,Winst,Verlies,Boekhouding
+Financiële crisis,Recessie,Beurscrash,Faillissement,Schulden,Bankencrisis
+Crowdfunding,Investeringen,Financiering,Geldschieters,Start-up,Alternatieve financiering
+Octrooi,Intellectueel eigendom,Patent,Innovatie,Uitvinding,Bescherming
+Fairtrade,Eerlijke handel,Duurzaamheid,Consument,Producent,Sociale verantwoordelijkheid
+Chirurg,Opereren,Medisch,Ziekenhuis,Mes,Hechten
+Brandweerman,Brand,Vlammen,Blussen,Ladder,Rook
+Leraar,Klas,Onderwijs,Les,Leren,School
+Piloot,Vliegtuig,Luchtvaart,Vliegen,Bestemming,Cockpit
+Politieagent,Arrestatie,Uniform,Wet,Boeven,Strijd
+Bouwvakker,Werktuig,Beton,Helm,Bouwen,Stenen
+Kok,Recept,Koken,Keuken,Ingrediënten,Restaurant
+Verpleegkundige,Ziekenhuis,Patiënt,Medicatie,Operatie,Wond
+Ingenieur,Constructie,Techniek,Bouwen,Ontwerp,Machines
+Advocaat,Rechtbank,Pleiten,Gerechtigheid,Documenten,Klaagster
+Fotograaf,Camera,Beeld maken,Schieten,Lens,Fotografie
+Musicus,Optreden,Muziekinstrument,Compositie,Noten,Zanger
+Schrijver,Boek,Verhaal,Literatuur,Woorden,Papier
+Journalist,Persvrijheid,Interview,Nieuws,Melding,Krant
+Profvoetballer,Scoren,Doelen,Wedstrijd,Medespelers,Sport
+Kapitein,Schip,Varen,Stuur,Zee,Anker
+Tuinier,Planten,Gras,Grasmaaier,Snoeien,Tuingereedschap
+Zakenman,Onderneming,Handel,Investeringen,Vergadering,Klanten
+Muziekdocent,Notenbalk,Gitaar,Zang,Dirigeren,Conservatorium
+Dierenarts,Huisdieren,Diergeneeskunde,Ziekte,Dierenasiel,Vaccinaties.
+Manager,Leider,Begeleiding,Verantwoordelijkheid,Taken,Werknemer
+Stylist,Mode,Kleding,Haar,Make-up,Stijl
+Architect,Ontwerp,Gebouw,Constructie,Bouwwerk,Blauwdruk
+Kokkin,Eten,Koken,Restaurant,Keuken,Gerecht
+Schilder,Verf,Kwast,Kunst,Kunstschilder,Beeldhouwer
+Tuinarchitect,Landschap,Bloemen,Planten,Gras,Bomen
+Fysiotherapeut,Behandeling,Genezen,Patiënt,Blessure,Spieren
+Psycholoog,Gedachten,Gevoelens,Therapie,Ziekte,Probleem
+Receptionist,Gasten,Check-in,Uitchecken,Reserveren,Hotel
+Politicus,Regering,Verkiezing,Wet,Debat,Ambt
+Schilderes,Kunst,Verf,Kwast,Doek,Galerie
+Illustrator,Tekening,Boek,Karakter,Cartoon,Schets
+IT-specialist,Computer,Programmeren,Software,Hardware,Internet
+Drummer,Muziek,Band,Instrument,Ritme,Slagwerk
+Adviseur,Raadgever,Advies,Begeleiding,Klant,Consultatie
+Verkoper,Klanten,Verkopen,Winkel,Product,Dienst
+Decorateur,Interieur,Meubilair,Ontwerp,Stijl,Gordijnen
+Therapeut,Patiënt,Genezen,Behandeling,Psycholoog,Gevoelens
+Model,Modellering,Lopen,Catwalk,Make-up,Modebewustzijn
+Kapster,Knippen,Haar,Kapsel,Kleuren,Salon
+Postbode,Pakket,Post,Envelop,Afleveren,Brievenbus
+Juf,Klas,Onderwijzen,Lesgeven,Schoolbord,Scholier
+Fotomodel,Poseren,Foto,Shoot,Catwalk,Mode
+Fietskoerier,Fiets,Bezorgen,Koerier,Pakketje,Straten
+Kleermaker,Naaien,Stof,Kleding,Patronen,Zoom
+Brandweercommandant,Brand,Vuur,Blussen,Hulpverlening,Station
+Secretaresse,Notuleren,Assisteren,Agendabeheer,Telefoon,Post
+Sous-chef,Keuken,Koken,Aansturen,Gerecht,Kwaliteit
+Installateur,Loodgieter,Waterleiding,Elektriciteit,Leiding,Klusjesman
+Verpleegster,Ziekenhuis,Medicijnen,Verzorgen,Patiënt,Arts
+Bankier,Financiën,Lenen,Geld,Rente,Investering
+Beveiliger,Bewaking,Veiligheid,Inbraak,Toegangscontrole,Alarm
+Bouwtekenaar,Ontwerpen,Tekenen,Gebouw,Constructie,Plattegrond
+Webdeveloper,Programmeren,Website,HTML,Code,Ontwerp
+Redacteur,Tekst,Schrijven,Correctie,Publicatie,Uitgever
+Eventmanager,Organiseren,Feest,Evenement,Locatie,Gasten
+Pedagoog,Kinderen,Onderwijs,Opvoeding,Gedrag,Ontwikkeling
+Slager,Vlees,Dieren,Mes,Rund,Pluimvee
+Kapelaan,Gebed,Godsdienst,Kerk,Preek,Geloof
+Juwelier,Sieraden,Diamanten,Goud,Edelstenen,Verlovingsring
+Schoonmaker,Stofzuiger,Emmer,Dweil,Toilet,Vloer
+Bibliothecaris,Boeken,Lezen,Stilte,Bibliotheek,Lening
+Chauffeur,Bus,Taxi,Stuur,Passagier,Rijbewijs
+Tandartsassistent,Boor,Tandheelkunde,Mondhygiënist,Verdoving,Vulling
+Fotolaborant,Ontwikkelen,Negatief,Afdruk,Camera,Filmrol
+Loodgieter,Lekkage,Buis,Kraan,Water,Afvoer
+Tolk,Vertaling,Taal,Gebarentaal,Woordenboek,Tolkbureau
+Choreograaf,Dans,Ballet,Repetitie,Beweging,Danspartner
+Callcentermedewerker,Telefoon,Klant,Service,Probleem,Callcenter
+Weerkundige,Regen,Zon,Wind,Klimaat,Voorspelling
+Grafisch ontwerper,Ontwerp,Kleur,Lettertype,Beeldmerk,Vormgeving
+Binnenhuisarchitect,Meubels,Interieur,Ontwerp,Decoratie,Verbouwing
+Notaris,Akte,Testament,Erfenis,Executeur,Bemiddeling
+Fitnessinstructeur,Fitness,Sportschool,Training,Spieren,Gewicht
+Meteoroloog,Klimaat,Wolken,Zon,Luchtmassa,Extremiteiten
+Parketlegger,Hout,Vloer,Lijm,Zaag,Hamer
+Drukker,Pers,Inkt,Drukwerk,Offset,Oplage
+Bakker,Brood,Deeg,Oven,Gebak,Banket
+Timmerman,Hout,Spijker,Hamer,Bouwen,Constructie
+Rechter,Uitspraak,Vonnis,Gerechtigheid,Zitting,Beroep
+Soldaat,Militair,Leger,Uniform,Land,Oorlog
+Kapper,Haar,Knippen,Stylen,Knopen,Salon
+Stewardess,Vliegen,Vliegtuig,Service,Passagiers,Luchtvaart
+Bakkerijmedewerker,Brood,Deeg,Gebak,Taart,Banket
+Danser,Ballet,Beweging,Pasjes,Choreografie,Uitvoeren
+Kledingontwerper,Fashion,Kleding,Stof,Patronen,Couture
+Concierge,Sleutel,Deur,Gebouw,Entree,Bewaking
+Drukkerijmedewerker,Drukken,Papier,Inkt,Printen,Oplage
+Grafisch vormgever,Ontwerp,Beeld,Lay-out,Logo,Design
+Sportinstructeur,Beweging,Training,Sport,Fitness,Oefening
+Kleermaakster,Naald,Stof,Rits,Knoop,Kleding
+Fietsenmaker,Band,Rem,Stuur,Spaken,Wiel
+Dansdocent,Dansen,Passen,Ritme,Choreografie,Bewegen
+Pedicure,Voet,Nagels,Verzorgen,Eelt,Likdoorn
+Schoenmaker,Zool,Leer,Veters,Repareren,Hak
+Bankmedewerker,Bank,Geld,Klant,Transactie,Pinpas
+Coach,Begeleiden,Motiveren,Advies,Training,Sturing
+Tatoeëerder,Naald,Kunst,Huid,Lichaam,Permanente inkt
+Reisagent,Vakantie,Boeken,Bestemming,Ticket,Hotel
+Visser,Net,Hengel,Water,Boot,Vangst
+Psychiater,Therapie,Patiënt,Analyse,Advies,Geest
+Journalistieke onderzoeker,Onderzoek,Interview,Bron,Enquête,Feiten
+Beeldhouwer,Vormen,Steen,Beitel,Creatie,Hakken
+Sommelier,Wijn,Smaken,Druiven,Fles,Glas
+Schoonheidsspecialist,Huid,Massage,Verzorging,Make-up,Gezicht
+Visagist,Make-up,Kwast,Oogschaduw,Lippenstift,Foundation
+Boeddhisme,Oosters,Meditatie,Nirvana,Verlichting,Zen
+Katholiek,Kerk,Paus,Mis,Heilige,Biecht
+Islam,Allah,Moskee,Koran,Ramadam,Mekka
+Existentialisme,Zinloosheid,Vrijheid,Angst,Dood,Bestaan
+Hindoeïsme,India,Goden,Karma,Reïncarnatie,Yoga
+Boek der Dood,Egypte,Oudheid,Mummificatie,Anubis,Osiris
+Epicurisme,Genot,Zelfbeheersing,Vrienden,Rust,Plezier
+Atheïsme,God,Hemel,Religie,Geloof,Kerk
+Confucianisme,Wijsheid,Deugd,Hiërarchie,Familie,Riten
+Jodendom,Torah,Hebreeuws,Synagoge,Messias,Kosjer
+Humanisme,Menselijke waardigheid,Verantwoordelijkheid,Solidariteit,Redelijkheid,Empathie
+Taoïsme,Yin en Yang,Tai Chi,Wu Wei,Qi Gong,Feng Shui
+Sikhisme,Khalsa,Granth Sahib,Langar,Gurdwara,Turban
+Zoroastrisme,Dualiteit,Vuurtempel,Ahura Mazda,Ahriman,Faravahar
+Stoïcisme,Deugd,Eudaimonia,Passies,Lot,Logos
+Shintoïsme,Kami,Shrines,Torii-poorten,Miko,Matsuri
+Calvinisme,Predestinatie,Gereformeerd,TULIP,Heiligen,Verbond
+Zen,Koan,Zazen,Satori,Rinzai,Hakuin
+Transcendentalisme,Intuïtie,Natuur,Oversoul,Selbst,Walden
+Mormonisme,Joseph Smith,Gouden platen,Zending,Eeuwige huwelijk,Salt Lake City
+Kerk,Godsdienst,Altaar,Priester,Kruis,Bidden
+Ethiek,Goed en kwaad,Moreel,Rechtvaardigheid,Deugdzaam,Geweten
+Boeddha,Verlichting,Religieus leider,meditatie,Nirvana,Boeddhisme
+Evolutie,Natuurlijke selectie,Darwins,Soort,Mutatie,Adaptatie
+Wijsheid,Kennis,Verstandig,Oordeel,Intellectueel,Gevatheid
+Bijbel,Heilige Schrift,Nieuwe en Oude Testament,Apostelen,Goddelijk,Evangelie
+Vrijheid,Onderdrukking,Beperking,Autonomie,Tiran,Dictator
+Wonder,Bovennatuurlijk,Goddelijk ingrijpen,Genezing,Onverklaarbaar,Wondertjes
+Ziel,Innere zelf,geest,onsterfelijkheid,spiritualiteit,etherisch wezen
+Yoga,Positie,Ademhaling,Rust,Flexibiliteit,Ontspanning
+Heilige Geest,Drie-eenheid,Trooster,Goddelijk,Zegen,Pinksteren
+Oecumene,Eenheid,gelijke religies,dialoog,samenwerking,katholiek
+Dogma,Geloof,Leerstelling,Autoriteit,Traditie,Gebod
+Waarheid,Eerlijkheid,feit,betrouwbaarheid,juistheid,objectiviteit
+Karma,Hindoeïsme,Reïncarnatie,acties,kosmische wet,Punya en Papp
+Profetie,Toekomstige gebeurtenissen,Goddelijke openbaring,sterrenwichelarij,Vaticaanse wetenschap,Visionairs
+Dualiteit,Yin en Yang,Tegenstellingen,Dualisme,Complementaire,Gezamenlijke
+Hel,Vuuroven,Eeuwigheid,Satan,Straf,Veroordeling
+Verlichting,Zen,Boeddha,Nirvana,Wijsheid,Zelfrealisatie
+Tolerantie,Respect,Geduld,Hoogachting,Verschillen,Open-minded
+God,Heer,Schepper,Hemel,Jezus,Geestelijk
+Engelen,Hemels,Gevleugeld,Boodschapper,Goed,Kwaad
+Hellevuur,Verdoemenis,Eeuwige straf,Hellepoort,Beeldspraak,Brandstapel
+Reïncarnatie,Hinduïsme,Karma,Wedergeboorte,Transmigratie,Boeddhistisch
+Schepping,Ontstaan,Evolutie,Oorsprong,Universum,Begin
+Hemel,Paradijs,Onsterfelijkheid,Engelen,Goddelijk,Eeuwig
+Mystiek,Occult,Esoterisch,Boventijdelijk,Ondoorgrondelijk,Transcendent
+Wederopstanding,Verrijzenis,Leven,Dood,Graf,Jezus
+Boek der Levenden,Boek des levens,Levenslijst,Hemel,Vergeving,Gerechtigheid
+Transcendentie,Goddelijkheid,Verhevenheid,Bovenmenselijk,Onuitsprekelijk,Onverklaarbaar
+De Tien Geboden,Wetten,Geboden,Thou shall not,God,Sinaï
+Zonde,Fout,Slecht,Verkeerd,Afvalligheid,Verdoemenis
+Kruisiging,Jezus,Golgotha,Romeinen,Spijkers,Lijden
+Meditatie,Stilte,Concentratie,Mindfulness,Zen,Ademhalen
+Psalmen,Loflied,Gezang,Poëzie,Heilig,Davids
+Vergeving,Genade,Boetedoening,Rechtvaardigheid,Compensatie,Verzoening
+Socrates,Atleet,Filosoof,Leerling,Grote stad,Gift
+Dalai Lama,Buddhism,Tibet,Nobel Peace Prize,Spiritual leader,Compassion
+Adam en Eva,Bijbel,Zondeval,Paradijs,Eva,Verboden vrucht
+Golden Rule,Omgang met anderen,Ethiek,Behandelen,Die u wil,Doet aan u
+Agnosticisme,God,Atheïsme,Geloven,Kennis,Zekerheid
+Vatican City,Paus,Heilige stoel,Katholiek,Sint-Pietersbasiliek,Sixtijnse Kapel
+The Dark Ages,Middeleeuwen,Vooruitgang,Ignorantie,Barbarisme,Wetenschap
+De Verlosser,Jezus Christus,Kruisiging,Heiland,Bergrede,Kerk
+Filosofie,Ethiek,Metafysica,Ideeën,Rationaliteit,Dialectiek
+Sharia,Islam,Moslim,Koran,Rechtssysteem,Vrouwenrechten
+Lao Tzu,Tao Te Ching,Yin en Yang,Boeddhistisch,Oosterse filosofie,Chinese filosofie
+Sterke en Zwakke Punten,Positieve kanten,Negatieve kanten,Persoonlijke evaluatie,Competenties,Feedback
+Protestantisme,Kerkhervorming,Luther,Calvijn,Protestanten,Reformatie
+Boeddhistische Tempel,Boeddha,Verlichting,Boeddhistisch,Mediteren,Wezenloze plaats
+Moralist,Deugd,Karakter,Nut,Ethiek,Oordeel
+Euthanasie,Zelfmoord,Palliatieve zorg,Ethiek,Levensbeëindiging,Arts
+Vrijmetselarij,Geheime genootschap,Loge,Rituelen,Inwijding,Broederschap
+Heilige Graal,Arthuriaanse Legende,Tempeliers,Koning Arthur,Schat,Zoektocht
+Tempel,Geloof,Gebed,Boeddhistisch,Hindoestaans,Monnik
+Moraal,Goed en fout,Ethiek,Deugd,Keuzes,Normen
+Universele wetten,Natuurwetten,Fysica,Zen,Meditatie,Pantheïsme
+Aalmoezenier,Priester,Geestelijke,Kapelaan,Mis,Kerk
+Mysterie,Onzichtbaar,Verborgen,Ondoorgrondelijk,Raadselachtig,Intrigerend
+Filosoferen,Diepgang,Idee,Kritisch,Oordeel,Redeneren
+Heilige plaats,Bidden,Offer,Ceremonie,Heilig,Altaar
+Boek der veranderingen,I Tjing,Orakel,Gooien,Voorspelling,Interpretatie
+Pelgrim,Bedevaart,Heiligdom,Offer,Gelofte,Devotie
+Onthechting,Loslaten,Verwachtingen,Bezittingen,Minimaal,Ascetisme
+Menselijke conditie,Lijden,Sterfelijkheid,Transformatie,Essentie,Verlossing
+Feniks,Vuur,Reïncarnatie,Mythe,Legende,Opstanding
+Zonden,Kwaad,Verleiding,Verderfelijk,Hartstocht,Boetedoening
+Gnosticisme,Godskennis,Dualiteit,Onthulling,Zelfkennis,Oorsprong
+Nirvana,Verlichting,Vervulling,Boeddhisme,Rust,Hemels
+Vrije wil,Bestemming,Determinisme,Autonomie,Keuze,Lot
+Verwondering,Versteld staan,Fabelachtig,Excentriek,Paradigma,Bizar
+Zin van het leven,Doel,Betekenis,Vergankelijkheid,Erfenis,Levensfilosofie
+Kruis,Jezus,God,Christendom,Lijden,Opstanding
+Gaza,Palestina,Conflict,Grens,Bezetting,Oorlog
+Confucius,Filosoof,Oost-Azië,Leermeester,Oudheid,Deugd
+Boeddhistische Monnik,Tempel,Meditatie,Geloften,Boeddha,Verlichting
+Pelgrimstocht,Bedevaart,Religieus,Doel,Reis,Processie
+De Schepping,God,Bijbel,Genesis,Evolutionisme,Natuur
+Humanitaire hulp,Oorlog,Ramp,Slachtoffer,Vluchteling,Nood
+De Filosofie van Plato,Ideeën,Grot,Waarheid,Deugd,Metafysica
+Verlicht Denken,Dogma,Theologie,Façade,Superstitie,Bijgeloof
+Feng Shui,Uitlijning,Harmonie,Qi,Energie,Ontwerp
+Deo Gratias,Psalm,Lofprijzing,Priesterschap,Zegen,Dank
+Positieve psychologie,Geluk,Optimalisme,Focus,Welzijn,Groei
+Conflicttheorie,Marxisme,Sociale verandering,Structurele ongelijkheid,Hegemonie,Ideologie
+De Abstrakte Kunst,Vlak,Symboliek,Figuratie,Representatie,Illusie
+Logica,Deductie,Redenering,Begrip,Paradox,Premisse
+De Metafysische Gedachte,Natuur,Bestaan,Overschrijding,Bovennatuurlijk,Esoterisch
+De Beeldcultuur,Digitaal,Consumptie,Visie,Merkrecht,Mediakanaal
+Tank,Oorlogswapen,Militair voertuig,Canon,Onderstel,Pantser
+Commando,Elite-eenheid,Speciale operaties,Geheime missie,Verkenning,Infiltratie
+Generaal,Commandant,Leider,Strategie,Troepen,Plannen
+Vliegtuig,Vliegmachine,Cockpit,Opstijgen,Landen,Passagier
+Bommelding,Expeditie,Gevaarlijk,Alarm,Ontruiming,Veiligheidsmaatregelen
+Krijgsgevangene,Gevangen,Oorlog,Bewaker,Onvrijheid,Doden
+Radar,Detectie,Signaal,Militaire communicatie,Antenne,Elektronica
+Marine,Zee,Oorlogsschip,Commandant,Zeehaven,Zeemacht
+Grens,Barrière,Grenspost,Immigratie,Controlepunt,Beveiliging
+Raket,Lanceerplatform,NASA,Brandstof,Atoomkern,Ruimtevaart
+Sergeant,Gradatie,Rangorde,Onderofficier,Befehlshaber,Leidinggevende
+Kogelvrij vest,Bescherming,Kogelregen,Plaatstaal,Rugpantser,Tactical
+Observatiepost,Verkenningspost,Spotters,Wacht houden,Camouflage,Uitkijkpunt
+Mijnenveld,Bom,Explosie,Waarschuwingssysteem,Ontmijning,Oorlogsgebied
+Communicatiesatelliet,Signaalontvangst,Radiogolf,Linkschip,Wetenschapper,Technologie
+Artillerie,Geschut,Bruut geweld,Bombarderen,Vuurkracht,Explosieven
+Militaire basis,Kamp,Training,Geheime locatie,Handhaving,Bevoorrading
+Vredesmissie,VN,Humanitaire hulp,Conflict,Stabilisatie,Diplomatie
+Munitie,Patronen,Buskruit,Ammunitie,Krachtbron,Magazijn
+Uniform,Kleding,Soldaat,Leger,Camouflage,Dienstkleding
+Barricade,Blokkade,Afsluiting,Versperring,Versperren,Omheining
+Strategie,Plan,Tactiek,Opzet,Doelstelling,Strategisch
+Bunker,Oorlog,Verstopt,Geheim,Verdediging,Bescherming
+Mortier,Projectiel,Artillerie,Afvuurinstallatie,Granaatwerper,Explosoormiddel
+Infanterie,Soldaten,Militair,Gevechtseenheid,Bebakeningstroepen,Troupes
+Radarinstallatie,Communicatie,Verbinding,Signalen,Detectie,Apparatuur
+Vesting,Fort,Citadel,Vest,Bolwerk,Verdedigingslinie
+Marinefregat,Oorlogsschip,Vaartuig,Commandoschip,Vloot,Mijnenjager
+Missie,Opdracht,Doel,Taak,Actie,Opzet
+Loopgraaf,Loopgraafsysteem,Gracht,Communicatietransmissielijn,Verschansing,Tunnelsysteem
+Lans,Wapen,Middeleeuws,Pikhouweel,Zwaard,Langoor
+Verkenning,Scouting,Uitkijken,Onderzoeken,Spioneren,Toezicht
+Militaire gezagsdrager,Officier,Generaal,Sergeant,Krijgsheer,Korpsmaarschalk
+Silent Drill Team,Soldaten,Parades,Terechtstellingen,Militaire drumband,Muziek
+Munitiedepot,Munitieopslagplaats,Munitiefabriek,Munitiebunker,Voorraadopslag,Kruitopslag
+Tactisch operatiecentrum,Commandopost,Tactisch bevelcentrum,Bestuurscentrum,Organisatie,Strategische afdeling
+Vrijheidsstrijd,Revolutie,Opstand,Opstandelingen,Guerrillastrijders,Bevrijdingsbeweging
+Onderzeeboot,Duikboot,Waterboot,Diepzeevaartuig,Marine,Strijdmacht
+Defensie,Leger,Marine,Luchtvaart,Wapens,Landmacht
+Kazerne,Brandweer,Soldaat,Tank,Oefenen,Wapens
+Helm,Hoofd,Bescherming,Leger,Materiaal,Hard
+Bootcamp,Training,Militair,Fysiek,Uithoudingsvermogen,Groepsactiviteiten
+Grenscontrole,Paspoort,Controle,Beveiliging,Immigratie,Douane
+Parachute,Springen,Luchtmacht,Val,Hoogte,Vliegtuig
+Fort,Vesting,Oude,Muur,Belegering,Historisch
+Pantserwagen,Leger,Bescherming,Zwaar,Rijden,Voertuig
+Medaille,Beloning,Soldaat,Eer,Prijzen,Presteren
+Commandocentrum,Strategie,Beslissingen,Bevel,Coördinatie,Missie
+Marinehaven,Schepen,Haven,Onderhoud,Marine,Oorlogsschip
+Schietbaan,Wapens,Pistool,Schieten,Doel,Concentratie
+Schild,Bescherming,Leger,Materiaal,Valt,Zwaar
+Patriot,Liefde,Trots,Geschiedenis,Moraal,Nationaal
+Militaire academie,Opleiding,Officieren,Theorie,Training,Collega's
+Marineuniform,Kleding,Marine,Kostuum,Bescherming,Herkenning
+Tankstation,Brandstof,Voertuig,Leger,Tankstation,Olie
+Luchtafweergeschut,Wapen,Luchtafweer,Bescherming,Vliegtuig,Gevaar
+Gevechtssluipweg,Strategie,Onzichtbaar,Plaats,Geheime,Verbergen.
+Cirkel,Ronde,Radius,Omtrek,Bol,Diameter
+Gelijkheid,Rechtvaardigheid,Discriminatie,Racisme,Sekse,Diversiteit
+Driehoek,Hoeken,Zijden,Puntig,Rechthoekig,Gelijkbenig
+Pythagoras,Stelling,Driehoek,Wiskunde,Hypotenusa,Zijde
+Grafiek,Druktechniek,Kunst,Beeld,Prent,Etser
+Sinus,Cosinus,Tanget,Hoek,Goniometrie,Functie
+Decimaal,Breuk,Procent,Getal,Komma,Notatie
+Meetkunde,Vormen,Rechte lijnen,Hoeken,Ruimte,Dimensie
+Statistiek,Correlatie,Regressie,Distributie,Steekproef,Kansverdeling
+Vergelijking,Gelijkheid,Variabele,Onbekende,Oplossen,Balanceren
+Exponent,Machtsverheffen,Grondtal,Macht,Logaritme,Rekenregel
+Differentiaal,Afgeleide,Functie,Gradient,Helling,Calculus
+Getaltheorie,Priemgetal,Deler,GCD,LCM,Modulair
+Algebra,Variabele,Vergelijking,Combinatie,Coëfficiënt,Term
+Limiet,Oneindig,Benaderen,Tegenwaarde,Grens,Continuïteit
+Vector,Kracht,Magnitude,Richting,Eenheid,Resultant
+Puzzel,Sudoku,Schaken,Rubik's Cube,Moeilijk,Oplossen
+Matrix,Rij,Kolom,Determinant,Inverse,Transponeren
+Kromme,Parabool,Hyperbool,Ellips,Asymptoot,Raaklijn.
+Kansrekening,Gokken,Winnen,Verliezen,Weddenschap,Casino
+Tangens,Sinus,Cosinus,Goniometrie,Driehoek
+Breuken,Teller,Noemer,Eenvoudige vorm,Decimaal
+Logaritme,Exponentieel,Machtsverheffing,Logboek,Basis
+Cirkelomtrek,Diameter,Straal,Pi,Oppervlakte
+Statistieken,Gemiddelde,Mediaan,Modus,Histogram
+Rijen,Aritmetisch,Meetkundig,Oneindig,Limiet
+Integraal,Afgeleide,Oppervlakte onder de kromme,Definitie,Rekenregels
+Parameters,Onafhankelijk,Afhankelijk,Variabelen,Input,Output
+Stereometrie,Ruimtefiguren,Vormen,Volumes,Oppervlakten
+Binomiale verdeling,Bernoulli,Succes,Trial,Waarschijnlijkheid
+Coördinaten,X-as,Y-as,Grafiek,Plot
+Getallenreeksen,Fibonacci,Priemgetallen,Rekenkundig,Meetkundig
+Sinuscurve,Goniometrie,Frequentie,Amplitude,Faseverschuiving
+Congruentie,Gelijke vorm,Gelijkzijdige driehoek,Symmetrie,Translatie
+Differentiëren,Ableiten,Exacte differentiaal,Functie,Regel van Leibniz
+Stelling van Pythagoras,Rechthoekige driehoek,Schuine zijde,Hoeken
+Rationele getallen,Irrationeel,Decimaal,Breuk,Geheeltallig
+Vierkantsvergelijkingen,Kwadratisch,Ontbinden in factoren,Discriminant,Nulpunten
+Matrixrekenen,Vermenigvuldiging,Determinant,Transponeren,Diagonaliseren.
+Rekenmachine,Calculator,Berekening,Getallen,Cijfers,Optellen
+Kubus,Vierkant,Driehoek,Vorm,Oppervlak,Zes
+Procent,Percentage,Deel,Breuk,Verhouding,Honderd
+Tafels,Vermenigvuldigen,Getallen,Wiskunde,Rekenen,Cijfers
+Formule,Vergelijking,Berekening,Getallen,Theorie,Afleiden
+Ontbinden,Factoren,Verwerken,Wiskunde,Opsplitsen,Uitgeschreven
+Cijfer,Getal,Nummer,Wiskunde,Tellen,Rekenen
+Hoek,Graden,Meetkunde,Scherp,Stomp,Punt
+Rechte lijn,Lijn,Wiskunde,Meetkunde,Punt,Curve
+Priemgetal,Deler,Even,Oneven,Samenstelling,Breuken
+Parabool,Bol,Kegel,Hyperbool,Snijvlak,Focus
+Oppervlakte,Gebied,Berekening,Getallen,Theorie,Vierkant
+Omtrek,Lijn,Cirkel,Wiskunde,Meetkunde,Afstand
+Radians,Hoeken,Graden,Sinus,Cosinus,Tan
+Symmetrie,Spiegeling,Grafiek,Eigenschap,Wiskunde,Meetkunde
+Decimaal getal,Breuk,Verhouding,Cijfer,Getal,Tellen
+Coördinaat,X-as,Y-as,Punten,Assenstelsel,Grafiek
+Kansberekening,Waarschijnlijkheid,Statistiek,Getallen,Breuken,Roulette
+Rekenregels,Bewerkingen,Wiskunde,Uitkomst,Theorie,Regel
+Inhoud,Volume,Berekening,Kubus,Theorie,Getallen
+Booreiland,Olie,Boren,Zee,Platform,Energie
+Gereedschapskist,Hamer,Schroevendraaier,Tang,Zaag,Boormachine
+Sloopkogel,Sloop,Gebouw,Kraan,Bouwterrein,Demolitie
+Plattegrond,Blauwdruk,Ontwerp,Tekening,Architect,Gebouw
+Bouwhelm,Veiligheid,Hoofd,Bescherming,Helm,Werknemer
+Cement,Beton,Mortel,Bouwmateriaal,Molen,Gieten
+Steiger,Bouwplaats,Werkplatform,Klimmen,Ladder,Hoogte
+Heftruck,Transport,Magazijn,Goederen,Vork,Verplaatsen
+Grondverzetmachine,Graafmachine,Bulldozer,Ontgraven,Grondwerk,Zware machine
+Scharnier,Deur,Kast,Beweging,Bevestigen,Draaien
+Kraan,Bouw,Hijskraan,Lading,Hijswerktuig,Torenkraan
+Muur,Baksteen,Betonblok,Fundering,Gemetseld,Scheidingswand
+Dakpan,Dakbedekking,Pannendak,Regen,Dakgoten,Huis
+Ladder,Klimmen,Stellage,Hoogte,Werknemer,Platform
+Isolatiemateriaal,Schuim,Hitte,Koud,Materiaal,Huis
+Klinker,Medeklinker,Vocaal,Uitgesproken,Taal,Klank
+Bouwdoos,Bouwen,Poppetjes,Constructie,Speelgoed,Kinderen
+Fundering,Ondergronds,Stevigheid,Beton,Grondwerk,Constructie
+Bouwsteiger,Toren,Ondersteuning,Veiligheid,Klimmen,Platform
+Baksteen,Muur,Gevel,Gemetseld,Steen,Constructie
+Aardrijkskunde,Landkaart,Wereldbol,Kompas,Atlas,Reizen
+Hoofdrekenen,Rekenmachine,Optellen,Aftrekken,Vermenigvuldigen,Delen
+Natuurkunde,Kracht,Zwaartekracht,Energie,Golven,Elektriciteit
+Biologie,Anatomie,Evolutie,Cellen,DNA,Genetica
+Spelling,Woordenboek,Grammatica,Fonetiek,Letters,Taal
+Geschiedenis,Oorlog,Tijdlijn,Politiek,Monarchie,Revolutie
+Literatuur,Boek,Taal,Schrijver,Verhaal,Roman
+Scheikunde,Molecuul,Kristal,Periodiek Systeem,Atomen,Analyse
+ICT,Software,Hardware,Besturingssystemen,Code,Netwerk
+Muziek,Zanger,Gitaar,Concert,Ritme,Tekst
+Kunst,Galerie,Verf,Ezel,Schilder,Creativiteit
+Gymnastiek,Turnen,Brug,Balk,Radslag,Sprong
+Talen,Vertaling,Grammatica,Uitspraak,Woordenlijst,Schrijven
+Geometrie,Meetkunde,Coördinaten,Vectors,Omtrek,Oppervlakte
+Natuur,Planten,Dieren,Geologie,Weer,Klimaat
+Sociologie,Cultuur,Identiteit,Sociologie,Structuur,Gemeenschap
+Psychologie,Therapie,Depressie,Persoonlijkheid,Analyse,Gedrag
+Fysica,Newton,Einstein,Kracht,Natuurkunde,Experiment
+School,Klaslokaal,Leraar,Studeren,Onderwijs,Boeken
+Pauze,Kantine,Eten,Drinken,Ontspanning,Tijd
+Examen,Toetsen,Scores,Graad,Beoordeling,Diplomering
+Experiment,Wetenschap,Proef,Lab,Chemie,Resultaat
+Rijtje,Volgorde,Reeks,Successie,Alphabet,Getallen
+Grondwet,Staatsinrichting,Rechtsstaat,Rechtspraak,Staten-Generaal,Monarchie
+Synoniem,Betekenis,Vervanger,Woordenschat,Taal,Dictionair
+Bacterie,Ziekteverwekker,Infectie,Micro-organisme,Schimmel,Parasiet
+Franse Revolutie,Napoleon,Jacobijnen,Gelijkenis,Onrust,Volk
+Gravitatie,Zwaartekracht,Newton,Aantrekkingskracht,Maan,Planeten
+Magnetisme,Elektromagnetisch,Polen,Magneetveld,Ferromagnetisch,Wervelstroom
+Planeten,Sterren,Gravitatie,Zonnestelsel,Rond,Jupiter
+Energieniveau,Elektronen,Orbitalen,Schillen,Veranderingen,Atomen
+Regenwoud,Jungle,Tropisch bos,Afbraak,Ontbossing,Biodiversiteit
+Oorlog,Geweld,Conflict,Militair,Vrede,Slagveld
+Chromosoom,DNA,Genetica,Mutatie,Cel,Abstractie
+Pencil,Papier,Schrijven,Schetsen,Notitie,Potlood
+Klaslokaal,Lesgeven,Studenten,Schoolbord,Tafels,Bureaus
+Lezen,Boeken,Tekst,Letters,Woorden,Bibliotheek
+Onderzoek,Studie,Analyse,Gegevens,Statistieken,Theorie
+Handboek,Lesmateriaal,Tekstboek,Gids,Onderwijs,Instructies
+Schoolexamen,Toets,Beoordeling,Cijfer,Diploma,Studeren
+Schrijven,Pen,Papier,Noteren,Tekenen,Woorden
+Docent,Leraar,Instructeur,Onderwijzer,Academisch,Cursus
+Computer,Laptop,Toetsenbord,Monitor,Muis,Internet
+Boekentas,Rugzak,Dragen,Materialen,Studie,Boeken
+Experimenteel,Nieuw,Onconventioneel,Origineel,Innovatief,Modern
+Woordenschat,Taal,Letters,Grammatica,Spelling,Betekenis
+Presentatie,Slides,Show,Publiek,Powerpoint,Demonstration
+Huiswerk,Opdrachten,Taken,Studie,Leerwerk,Lesmateriaal
+Schoolbus,Transport,Kinderen,Reizen,Schoolvervoer,Chauffeur
+Collegezaal,Universiteit,Hoger onderwijs,Faculteit,Auditorium,Wetenschap
+Lesplanning,Lesrooster,Schema,Onderwijsplan,Leerplan,Activiteit
+Studieboeken,Handboeken,Studiemateriaal,Referentie,Geleerdheid,Vakliteratuur
+Schooldirecteur,Bestuur,Administratie,Leider,Beheerder,Hoofd van de school
+Tennis,Racket,Bal,Net,Smash,Serve
+Volleybal,Net,Bal,Smash,Block,Zand
+Basketbal,Ring,Bal,Dunk,Hoop,Spelregels
+Voetbal,Bal,Schieten,Doel,Penalty,Champions League
+Honkbal,Bal,Home Run,Pitcher,Veld,Slagman
+Zwemmen,Baantjes,Zwembad,Duiken,ademhaling,Slag
+Schaken,Bord,Stukken,Toren,Koningin,Strategie
+Atletiek,Sprinten,Marathon,Polsstokhoogspringen,Discuswerpen,Startblokken
+Golf,Club,Bal,Fairway,Putten,Green
+Boksen,Ring,Handschoenen,Jab,Bokser,Uitdaging
+Turnen,Balk,Ringen,Brug,Sprong,Jury
+Cricket,Bal,Gazon,Score,Wicket,Vangen
+Wielrennen,Fiets,Peloton,Finish,Beklimmingen,Ronde van Frankrijk
+Skateboarden,Ollie,Deck,Wielen,Fakie,Halfpipe
+Alpinisme,Berg,Top,Klimmen,Touw,Gletsjer
+Rugby,Bal,Scrum,Tackle,Try,Spelregels
+Zeilen,Boot,Water,Wind,Kapitein,Navigeren
+Snowboarden,Board,Snowpark,Sprong,Trick,Halfpipe
+Karate,Kick,Stoot,Gi,Dojo,Leermeester
+Skaten,Tricks,Inline,Freestyle,Rolstoel,Helling
+Hardlopen,Sprinten,Joggen,Marathon,Fitness,Bewegen
+Kamperen,Tent,Vuur,Slaapzak,Natuur,Buiten
+Dansen,Beweging,Muziek,Ritme,Feest,Choreografie
+Wandelen,Stappen,Bezienswaardigheid,Buitenlucht,Beweging,Wandelschoenen
+Fitness,Gewichten,Training,Spieren,Lichaam,Gezondheid
+Zweten,Transpiratie,Hitte,Zweetdruppel,Uitdrogen,Deodorant
+Jagen,Schieten,Dieren,Wapen,Buiten,Vergunning
+Surfen,Golven,Board,Waxen,Strand,Branding
+Schaatsen,IJs,Kür,Glijden,Schaatsbaan,Beenbeweging
+Fietsen,Wiel,Snelheid,Tour,Pedalen,Beweging
+Klimmen,Berg,Touw,Klimgordel,Hoogte,Abseilen
+Vissen,Oceaan,Zee,Aquarium,Roeien,Visgerei
+Schieten,Geweer,Doel,Afvuren,Kogel,Schutter
+Fotografie,Foto,Cameralens,Zwart-wit,Acteur,Flits
+Schilderen,Stijl,Verf,Doek,Kunst,Creativiteit
+Theater,Toneelstuk,Acteren,Publiek,Podium,Decor
+Vliegen,Vliegtuig,Piloten,Lucht,Hoogte,Parachute.
+Skiën,Sneeuw,Berg,Stokken,Lift,Afdaling
+Judo,Band,Grond,Worp,Pak,Judoka
+Boogschieten,Boog,Pijl,Doelwit,Schutter,Schieten
+Golfen,Putten,Clubs,Green,Par,Caddie
+Kajakken,Stroomversnelling,Paddle,Kayak,Water,Kajakker
+Rennen,Marathon,Track,Finish,Adem,Tempo
+Bodybuilding,Gym,Zweet,Gewichten,Fitness,Krachttraining
+Wandelschoenen,Wandelen,Voeten,Schoenen,Buiten,Natuur
+Roeien,Boot,Water,Oefening,Spieren,Peddelen
+Kanoën,Water,Paddelen,Boot,Natuur,Kajakken
+Karten,Snelheid,Competitie,Voertuig,Race,Stuur
+Yoga-mat,Ontspanning,Ademhaling,Oefening,Zweet,Flexibiliteit
+Parachutespringen,Vliegen,Hoogte,Avontuur,Skydiven,Landing
+Trampoline,Springen,Lucht,Bounce,Rebound,Gymnastiek
+Windsurfen,Water,Zeilen,Board,Golf,Wind
+Boxing-ring,Boksen,Doek,Vechten,Trainer,Handschoenen
+Acroyoga,Partner,Balans,Yoga,Driehoek,Ademhaling
+Tai Chi,Ademhaling,Beweging,Martial arts,Rust,Ontspanning
+Kanopolo,Kano,Sport,Bal,Paddelen,Wedstrijd
+Skateboard,Wielen,Board,Freestyle,Stunt,Skatepark
+Bergbeklimmen,Klimmen,Hoogte,Touw,Avontuur,Berg
+Aerobics,Oefening,Muziek,Fitness,Zweet,Dansen
+Wandelstok,Wandelen,Buiten,Steun,Lopen,Bergen
+Pilates,Core-strength,Flexibiliteit,Balans,Fitness,Oefening
+Reizen,Vliegtuig,Bestemming,Ticket,Koffer,Avontuur
+Tafeltennis,Pingpong,Batje,Rally,Serve,Net
+Watersport,Zeilen,Surfen,Duiken,Kajakken,Zwemvest
+Puzzelen,Vraagstuk,Oplossing,Aanwijzing,Rij,Kolom
+Tuinieren,Planten,Aarde,Schoffelen,Water,Tuingereedschap
+Ballet,Dans,Ballerina,Tutu,Sprong,Choreografie
+Handbal,Werpen,Doel,Penalty,Schieten,Keepen
+Film,Acteur,Regisseur,Productie,Verhaal,Scènes
+Joggen,Rennen,Sportschoenen,Ademhaling,Afstand,Warming-up
+Boeken,Roman,Schrijver,Verhaal,Taal,Literatuur
+Koken,Recept,Ingrediënten,Kookboek,Pan,Ovenschaal
+Badminton,Racket,Shuttlecock,Net,Tennis,Volleybal
+Zwembad,Water,Zwemmen,Duiken,Badkleding,Plons
+Vliegeren,Wind,Vliegen,Lucht,Draad,Tuien
+Skiër,Sneeuw,Skiën,Berg,Kabelbaan,Piste
+Basket,Hoepel,Bal,Scoren,Basketbal,Slam Dunk
+Jogging,Renen,Schoenen,Sweatshirt,Ademhaling,Fitness
+Escalatie,Klimmen,Berg,Net,Touw,Veiligheidsharnassen
+Surfplank,Surfen,Zee,Water,Wind,Golf van Mexico
+Taekwondo,Vechten,Trappen,Slagen,Karate,Judoka
+Golfer,Bal,Club,Score,Green,Tee
+Boulderen,Klimmen,Rots,Crashpad,Touwen,Veiligheid
+Skateboardtrucs,Ollie,Kickflip,Ramp,Skate,Grind
+Fiets,Tweewieler,Trappers,Rijwiel,Stuur,Fietser
+Jiu-jitsu,Vechten,Grappling,Worpen,Kruising,Kung Fu
+Tennisracket,Bal,Veld,Slag,Speler,Wedstrijd
+Gymzaal,Apparatuur,Sporten,Fitness,Gewichten,Cardio
+Picknick,Mand,Eten,Kleed,Buiten,Zonnig
+Arcade,Spelletjes,Munten,Knipperlichten,Competitief,Hoogscorelijst
+Karaoke,Zingen,Microfoon,Muziek,Bar,Lied
+Thermen,Sauna,Jacuzzi,Relaxen,Warmte,Masseren
+Filmavond,Bioscoop,Popcorn,Scherm,Acteur,Uitnodiging
+Spelletjesavond,Kaarten,Bordspellen,Dobbelen,Strategie,Lachen
+Skatepark,Skateboard,Halfpipe,Tricks,Rollen,Helm
+Parkwandeling,Bankje,Bomen,Groen,Rustig,Lente
+Pretpark,Attracties,Achtbaan,Entree,Suikerspinnen,Glijbanen
+Kookles,Ingrediënten,Recept,Kok,Proeven,Keuken
+Tuinfeest,Barbecue,Tafeldekken,Zomernacht,Buiten,Vrolijk
+Basketbalveld,Hoepel,Bal,Scoren,Dribbelen,Wedstrijd
+Museum,Kunst,Historisch,Exposities,Schilderijen,Beelden
+Fietsroute,Fiets,Kilometers,Pauze,Wegwijzers,Landschap
+Concert,Band,Muziek,Podium,Publiek,Tickets
+Robot,Kunstmatig,Kunstmatige intelligentie,Beweging,Autonoom,Programmeerbaar
+Staal,Ijzer,Metaal,Gietijzer,Roest,Constructie
+Chemie,Fysica,Biologie,Wetenschap,Experiment,Reactie
+Lasersnijder,Plasma-snijder,CNC-snijder,Branden,Metaalbewerking,Precisie
+Luchtvaart,Cockpit,Vleugels,Piloot,Luchthaven,Passagiers
+Nanotechnologie,Micrometers,Nano-deeltjes,Quantumfysica,Materiaalwetenschappen,Biomedisch
+Bouwkunde,Architectuur,Constructie,Bouwvakker,Materialen,Ontwerpen
+Procesindustrie,Fabriek,Productie,Grondstoffen,Assemblage,Verwerking
+Hightech,Innovatie,Futuristisch,Geavanceerd,Elektronica,Robotica
+Duurzame energie,Fossiele brandstoffen,Verbranding,Kernenergie,Elektriciteit,Windmolen
+Kunststof,Plastic,Polymeren,Recycling,Extrusie,Petrochemie
+Landbouwtechnologie,Voedselproductie,Gewassen,Machines,Irrigatie,Genetische modificatie
+Satelliet,Ruimtevaart,Communicatie,GPS,Orbit,Signaal.
+Automatisering,Robotica,Software,Productielijnen,Sensoren,Intelligente systemen
+Olie- en gasindustrie,Boorplatform,Boring,Reservoir,Pomp,Raffinage
+Elektrotechniek,Elektronica,Stroom,Kabels,Transformatoren,Schakelingen
+Medische technologie,Chirurgie,Diagnostiek,beeldvorming,Implantaten,Geneeskunde
+Transportband,Assemblage,Productie,Verpakking,Material handling,Industrieel
+Chemische behandeling,Oplosmiddel,Analyse,Faseovergang,Extraheren,Filtratie
+Lopende band,Fabriek,Transportband,Continu,Productie,Verpakking
+Windmolen,Duurzame energie,Alternatieve energie,Windturbine,Groene energie,Hernieuwbare energie
+Domotica,Huisautomatisering,Smart home,Sensor,Schakelaar,Programmeren
+Draaibank,Verspanen,Metaalbewerking,Frezen,Houtbewerking,Spin
+Hydrauliek,Vloeistofdruk,Pomp,Cilinder,Olie,Kracht
+Roetfilter,Uitlaat,Diesel,Schadelijk,Milieu,Fijnstof
+Stoommachine,Industrieel,Damp,Druk,Historisch,Verbranding
+Elektrische motor,Aandrijving,Molen,Magnetisme,Rotatie,Energie
+Ventilator,Circulatie,Koeling,Blower,Wind,Luchtstroom
+Kernenergie,Radioactief,Uranium,Reactor,Energie,Splijtstof
+Waterkrachtcentrale,Dam,Hydro-elektrisch,Turbine,Duurzaam,Elektriciteit
+3D-printer,Printen,Technologie,Object,Plastic,Laag
+Vierkante wielen,Montage,Uitvinding,Alternatief,Vormen,Straat
+Solar panel,Zonne-energie,Zonnepaneel,Licht,Stroom,Duurzaam
+Luchtfilter,Zuurstof,Stof,Adem,Lucht,Schonere lucht
+Zonnecollector,Warm water,Energie,Pijp,Verwarming,Zonlicht
+Satelliet navigatie,GPS,Locatie,Mondiaal,Satelliet,Coördinaten
+Zonnecel,Fotovoltaïsch,Energie,Groen,Paneel,Stroom
+Windturbine,Groene stroom,Windmolenpark,Wieken,Energie,Duurzaam
+Röntgenstraling,Straling,Diagnostiek,Elektromagnetisch,Medische apparatuur,Gevaarlijk
+Generator,Elektriciteit,Brandstof,Dynamo,Motor,Energie
+Asfalt,Wegdek,Bitumen,Straten,Verkeer,Weg
+Boor,Olieboring,Mijnbouw,Tandwiel,Machine,Tunnel
+Brug,Water,Oversteken,Vervoer,Verbinding,Verkeer
+Boei,Watermerk,Drijvend,Zeemerken,Maritiem,Richtingaanwijzer
+Graafmachine,Grondverzet,Gereedschap,Uitrustingen,Bouwplaats,Baggerschip
+Schuurmachine,Elektrisch gereedschap,Oppervlaktebewerking,Machine,Schuren,Slijpen
+Stoomboot,Stoomkracht,Cruiseschip,Rondvaart,Water,Brandstof
+Mijnkarretje,Koolmijn,Ondergronds,Locomotief,Transport,Wagentje
+Schoorsteen,Rookgas,Open haard,Verbranding,Emissie,Luchtverontreiniging
+Betonmixer,Bekisting,Grondwerken,Industrie,Bouwplaats,Cement
+Windwijzer,Windmeter,Meteorologie,Temperatuur,Instrument,Windmolen
+Schroevendraaier,Gereedschap,Bevestigingsmiddel,Montage,Bout,Moer
+Hijskraan,Bouw,Kabel,Hijsen,Multiplex,Versteviging
+Aandrijfas,Autotechniek,Verbinding,Onderdeel,Autosport,Versnellingsbak
+Ophaalbrug,Verkeer,Water,Voetgangers,Openen,Sluiten
+Onderzeeër,Duikboot,Marine,Diepzee,Apparatuur,Sonar
+Warmtepomp,Verwarming,Energiezuinig,Installatie,Airconditioner,Duurzaamheid.
+Lady Gaga,Zangeres,Born This Way,Bradley Cooper,Poker Face,Chromatica
+George Clooney,Acteur,The Ocean's Eleven,ER,Nespresso,Casamigos
+Princess Diana,Koninklijk,Charles,William,Harry,Charity
+Donald Trump,Amerikaans,President,Twitter,Witte Huis,Impeachment
+Angelina Jolie,Brad Pitt,Tomb Raider,Adoptie,Actrice,Humanitarisme
+Rihanna,Umbrella,Diamonds,Chris Brown,Work,Barbados
+David Beckham,Manchester United,Victoria Beckham,LA Galaxy,Real Madrid,Football
+Marilyn Monroe,Actrice,The Seven Year Itch,Blonde haren,JFK,Norma Jeane
+Oprah Winfrey,The Oprah Winfrey Show,Harpo Productions,OWN,The Color Purple,Philanthropy
+Taylor Swift,Shake It Off,Lover,Kanye West,1989,Red
+Princess Kate,Hertogin,Moeder,The Duchess of Cambridge,William,Kensington Palace
+Tom Cruise,Acteur,Mission Impossible,Scientology,Risky Business,Top Gun
+Beyoncé,Zangeres,Destiny's Child,Lemonade,Jay-Z,Tour
+Ryan Reynolds,Deadpool,Blake Lively,Green Lantern,Van Wilder,Vancouver
+Jennifer Aniston,Actrice,Friends,Rachel Green,Hollywood,Justin Theroux
+Justin Bieber,Zanger,Baby,Yummy,Selena Gomez,Purpose
+Johnny Depp,Acteur,Pirates of the Caribbean,Tim Burton,Winona Ryder,Amber Heard
+Scarlett Johansson,Black Widow,Avengers,Vrouwelijke Superheld,Actrice,Marriage Story
+Prince,Muzikant,Purple Rain,The Revolution,Paisley Park,Minnesota
+Will Smith,Acteur,The Fresh Prince of Bel-Air,Men in Black,Jada Pinkett-Smith,The Pursuit of Happyness
+Brad Pitt,Fight Club,Mr. & Mrs. Smith,Angelina Jolie,Troy,Ocean's Eleven
+Albert Einstein,Wetenschap,Relativiteitstheorie,Nobelprijs,Beroemdheid,Zwitserland
+Jennifer Lawrence,Katniss,Mystique,The Hunger Games,Silver Linings Playbook,American Hustle
+Barack Obama,President,Witte Huis,Verenigde Staten,Democratie,Michelle Obama
+Queen Elizabeth II,Koningin,Engeland,Buckingham Palace,Koninginmoeder,Corgi's
+Michael Jordan,Basketbal,Chicago Bulls,The Last Dance,Air Jordan,Scottie Pippen
+Serena Williams,Tennis,Wimbledon,Grand Slam,Nummer 1,Zusters
+Elvis Presley,Zanger,Rock-'n-roll,Memphis,Gitaar,"The King"
+Bill Gates,Microsoft,Windows,Billionair,Seattle,Philanthropist
+Audrey Hepburn,Actrice,Breakfast at Tiffany's,Givenchy,Roman Holiday,My Fair Lady
+Steve Jobs,Apple,Innovatie,IPhone,Pixar,NeXT
+Princess Leia,Star Wars,Carrie Fisher,Galactic Empire,The Force,Jabba the Hut
+Muhammad Ali,Boksen,The Greatest,Rumble in the Jungle,Parkinson,Float like a Butterfly,sting like a bee
+Demi Lovato,Zangeres,Disney Channel,Camp Rock,Sobriety,Skyscraper
+Lionel Messi,Barcelona,Argentinië,Ronaldo,Gouden Bal,Voetbal
+Kobe Bryant,Basketbal,Los Angeles Lakers,MVP,Black Mamba,LeBron James
+J.K. Rowling,Schrijfster,Harry Potter,Toverstaf,Hogwarts,Fantasie
+Roger Federer,Tennis,Swiss Maestro,Wimbledon,Grand Slam,Rafael Nadal
+Ellen DeGeneres,Talkshow,Stand-up,Finding Dory,Coming Out,Degeneres
+Muzikant,Zanger,Gitaar,Optreden,Band,Hit
+Actrice,Film,Rol,Oscar,Rood tapijt,Hollywood
+Sporter,Olympiër,Wereldkampioen,Kampioenstitel,Medaille,Spelen
+Comedian,Lach,Grap,Stand-up,Cabaret,Comedy
+YouTuber,Abonnees,Vlog,Influencer,Advertentie,TikTok
+Kunstenaar,Schilderij,Sculptuur,Kunstwerk,Galerie,Verf
+Chef-kok,Restaurant,Keuken,Michelinster,Recept,Kookboek
+Mode-ontwerper,Catwalk,Modellen,Kledinglijn,Stoffen,Naaien
+Astronaut,Ruimte,Maan,ISS,Raket,Zwaartekracht
+Schaatser,Medaille,Snelheid,Slijpen,Baan,IJs
+Wiskundige,Berekening,Formule,Getal,Logica,Algebra
+Filmregisseur,Acteur,Set,Camera,Filmen,Montage
+Opera-zanger,Stem,Opera,Muziek,Theater,Zang
+Advocat,Rechtszaak,Rechtbank,Wetsvoorstel,Jurist,Gerechtigdheid
+Natuuronderzoeker,evolutie,Galapagos,Beagle,Origin of Species,apen
+Ijsdanseres,Kunstrijden,Medaille,Kostuum,Muziek,Dansen
+Balletdanser,Klassiek,Spitzen,Tutu,Choreografie,Dansen
+Tom Hanks,Forrest Gump,Cast Away,Philadelphia,Acteur,Oscars
+Tiger Woods,Golf,Masters,Caddy,Scandal,PGA Tour
+Federico Fellini,Italiaans,Regisseur,La Dolce Vita,Nino Rota,Roma
+Michelle Obama,First Lady,Becoming,Barack Obama,White House,Let's Move!
+Frida Kahlo,Mexicaanse kunstenaar,Vrouw,Surrealisme,Polio,Diego Rivera
+Julia Roberts,Actrice,Pretty Woman,Erin Brockovich,Hollywood,Richard Gere
+Leonardo da Vinci,Kunstenaar,Uitvinder,Mona Lisa,Renaissance,Anatomie
+Michael Phelps,Zwemmer,Olympische Spelen,Medailles,The Most Decorated Olympian,Speedo
+Jimi Hendrix,Electric guitar,Purple Haze,Woodstock,Voodoo Child,Purple Velvet
+Coco Chanel,Mode-ontwerper,Chanel No. 5,Parijs,Kleding,Accessoires
+Nelson Mandela,Apartheid,Robbeneiland,Anti-apartheid,ANC,Rechtvaardigheid
+Eminem,Lose Yourself,Stan,Rap God,The Real Slim Shady,Detroit
+Emma Watson,Hermione Granger,Harry Potter,UN Women,HeForShe,Belle
+Ellen Page,Juno,X-Men,Actress,LGBT,Inception
+Freddie Mercury,Zanger,Queen,Bohemian Rhapsody,Legende,We will rock you
+Greta Thunberg,Climate change,Activist,Sweden,Fridays for Future,United Nations
+Jack Nicholson,The Shining,Joker,Actor,Academy Awards,One Flew Over the Cuckoo's Nest
+Jennifer Lopez,Zangeres,Actrice,Bronx,Alex Rodriguez,Selena
+Kanye West,Rapper,Kim Kardashian,Fashion,El Gordo,Album
+Katherine Johnson,NASA,Hidden Figures,Mathematician,John Glenn,Langley Research Center
+Keanu Reeves,John Wick,The Matrix,Point Break,Sad Keanu,Canada
+Lin-Manuel Miranda,Schauspieler,Hamilton,In the Heights,Moana,Puerto Rico
+Malala Yousafzai,Nobel Prijs,Vrouwenrechten,Taliban,Vedergewicht,Pakistaans
+Mark Zuckerberg,Facebook,Harvard,Silicon Valley,The Social Network,Privacy
+Neil Armstrong,Maanlanding,Astronaut,Apollo 11,Ruimtevaart,Armstrong Effect
+Stephen Hawking,A Brief History of Time,Lou Gehrig's disease,black holes,The Theory of Everything,cosmology
+Steven Spielberg,Jaws,E.T.,Jurassic Park,Schindler's List,Hollywood
+Usain Bolt,World Records,Jamaica,Olympics,Sprinting,Puma
+Arnold Schwarzenegger,Terminator,California Governor,Bodybuilding,Kindergarten Cop,Austria
+Emma Stone,La La Land,Easy A,The Help,Birdman,Academy Awards
+LeBron James,Miami Heat,Los Angeles Lakers,Kobe Bryant,Space Jam,NBA
+Julia Child,Chef,Koken,Boeuf Bourguignon,Franse keuken,Bechamelsaus
+Ryan Gosling,Acteur,The Notebook,La La Land,Canada,Dancing
+Cristiano Ronaldo,Voetballer,Real Madrid,Champions League,Portugal,Goals
+Barrack Obama,President,Witte Huis,Change,Michelle Obama,Democratie
+Jackie Chan,Acteur,Drunken Master,Rush Hour,Martial Arts,Hong Kong
+Billie Eilish,Bad Guy,When We All Fall Asleep,Ocean Eyes,Finneas O'Connell,Grammy Awards
+Sofia Vergara,Modern Family,Colombia,America's Got Talent,Pepsi,Actress
+Adele,Hello,Someone Like You,Rolling in the Deep,British,Grammy
+Elon Musk,Ondernemer,Tesla,SpaceX,PayPal,Neuralink
+Justin Timberlake,*NSYNC,Trolls,Bye Bye Bye,Sing,Mirrors
+Queen,Bohemian Rhapsody,Freddie Mercury,We Will Rock You,British,Rock band
+Michael Jackson,Popmuziek,Zanger,Danser,Billie Jean,Thriller
+Kim Kardashian,Reality-ster,Familie,Kanye West,Social media,Mode
+Tom Hardy,Acteur,Venom,The Dark Knight Rises,Mad Max: Fury Road,Peaky Blinders
+Freddie Prinze Jr.,Acteur,She's All That,Scooby-Doo,Buffy the Vampire Slayer,Sarah Michelle Gellar
+Billie Holiday,Jazz,Strange Fruit,Lady Sings the Blues,Singer,Harlem
+Emma Roberts,Actrice,American Horror Story,Scream Queens,Aquamarine,Nerve
+Martin Luther King Jr.,Burgerrechten,Vrijheid,Leider,Discriminatie,Racisme
+Ryan Seacrest,American Idol,Live with Kelly and Ryan,E! News,Host,Ryan's Roses
+Joaquin Phoenix,Joker,Acteur,Veganisme,Gladiator,Walk the Line
+Steve Irwin,Crocodile Hunter,Animal Planet,Australia,Wildlife,Conservation
+Kate Winslet,Titanic,The Reader,British,Academy Awards,Revolutionary Road
+Dwayne Johnson,The Rock,Professional Wrestling,Jumanji,Furious 7,Baywatch
+Cardi B,Rapper,Bodak Yellow,WAP,Bronx,Offset
+Selena Gomez,Zangeres,Wizards of Waverly Place,The Weeknd,Revival,Rare
+Kim Jong-Un,Noord-Korea,Dictator,Kernwapens,Propaganda,Zuid-Korea
+Simone Biles,Turnster,Olympische Spelen,Floor Exercise,Balance Beam,Gold Medals.
+Tony Stark,Iron Man,Robert Downey Jr.,Avengers,Billionaire,Superhero
+Wonder Woman,Gal Gadot,Lasso,Themyscira,Amazon,Diana Prince
+Katy Perry,Zangeres,Teenage Dream,Witness,American Idol,Firework
+Vladimir Poetin,Rusland,Geheime dienst,Krim,Oorlog,Dictator
+Meghan Markle,Suits,Prince Harry,Royal Family,Duchess of Sussex,Hollywood
+David Bowie,Zanger,Ziggy Stardust,Space Oddity,Gitaar,Glamrock
+Tom Brady,New England Patriots,Tampa Bay Buccaneers,Super Bowl,Gisele,Quarterback
+Kamala Harris,Vice President,Joe Biden,California,Prosecutor,Howard University
+Harry Styles,Zanger,One Direction,Watermelon Sugar,Fine Line,Sign of the Times
+George Michael,Popster,Last Christmas,Wham!,Careless Whisper,Faith
+Winnie Harlow,Model,Canada,Anti-pigmentatie,America's Next Top Model,Werkzaam met Tyra Banks
+Jamie Oliver,Koken,Naked Chef,Engels,Voeding,Restaurant
+Justin Trudeau,Canada,Premier,Politiek,Fietsie,Liberal Party
+Gigi Hadid,Model,Zayn Malik,Victoria's Secret,Kendall Jenner,IMG
+Dua Lipa,Zangeres,New Rules,Future Nostalgia,Grammy,IDGAF
+Benedict Cumberbatch,Acteur,Dr. Strange,Sherlock,Imitation Game,Emmy
+Viola Davis,Actrice,How to Get Away With Murder,The Help,Fences,Emmy
+Selena,Como La Flor,Bidi Bidi Bom Bom,Yolanda Saldivar,Texas,The Queen of Tejano Music
+Michelle,Obama,politicians,White House,first lady,Barrack
+Leonardo,Da Vinci,The Revenant,Titanic,Inception,Hollywood
+David,Beckham,Soccer,former athlete,Victoria,Los Angeles
+Joaquin,Phoenix,Joker,Gladiator,Walk the line,Hollywood
+Michael,Jordan,Space Jam,Chicago Bulls,Athlete,Wizards
+Katy,Perry,Singer,California girl,Roar,Super Bowl
+Benedict,Cumberbatch,Sherlock,Smaug,Dr. Strange,London
+Ellen,DeGeneres,Talkshow,stand-up comedy,Finding Nemo,Lifestyle
+Vladimir,Putin,Russia,Politician,President,Moscow
+Emma,Watson,Harry Potter,The Circle,Little Women,Actress
+Jamie,Oliver,Chef,Cooking,Food revolution,London
+Arnold,Schwarzenegger,Terminator,Governor,Bodybuilder,Austria
+Gigi,Hadid,Model,Fashion,Runway,Tommy Hilfiger
+Dua,Lipa,Singer,New Rules,London,Grammy
+Meghan,Markle,Duchess of Sussex,Royal Family,Suits,British
+Tony,Stark,Iron Man,Avengers,Robert Downey Jr.,Marvel
+Harry,Styles,One Direction,Dunkirk,Sign of the Times,Singer
+Simone,Biles,Gymnastics,Olympics,Gold medal,USA
+Viola,Davis,Actress,How to Get Away with Murder,The Help,Tony Award
+Leonardo DiCaprio,Acteur,Titanic,The Revenant,Gatsby,Oscar
+David Attenborough,Natuurdocumentaire,Planet Earth,Life,Sir David Attenborough,Dinosaurussen
+Vladimir Putin,President,Rusland,KGB,Oekraïne,annexatie
+Madonna,Popmuziek,Material Girl,Like a Virgin,Vogue,Zangeres
+George Lucas,Star Wars,Indiana Jones,Lucasfilm,Skywalker Ranch,THX
+Jonah Hill,Schauspieler,Superbad,Wolf of Wall Street,Seth Rogen,Komödie
+Jennifer Hudson,Sängerin,American Idol,Dreamgirls,Beyoncé,Weight Watchers
+Mahershala Ali,Acteur,Moonlight,True Detective,Green Book,House of Cards
+Lizzo,Sängerin,Flute,Truth Hurts,Body Positivity,Juice
+Dave Chappelle,Komiker,Chappelle's Show,Netflix,Stand-up,Half Baked
+Lupita Nyong'o,Schauspielerin,Us,12 Years a Slave,Black Panther,Kenia
+Chrissy Teigen,Model,Kochbuch,Twitter,John Legend,Lip Sync Battle
+John Boyega,Schauspieler,Star Wars,Attack the Block,London,Nigeria
+Mindy Kaling,Schauspielerin,The Office,The Mindy Project,Buchautorin,Indien
+Issa Rae,Schauspielerin,Insecure,The Misadventures of Awkward Black Girl,Buchautorin,Awkward
+Ken Jeong,Komiker,Community,The Hangover,Dr. Ken,Arzt
+Maisie Williams,Schauspielerin,Game of Thrones,The New Mutants,England,Arya Stark
+John Legend,Sänger,All of Me,The Voice,Chrissy Teigen,EGOT
+Phoebe Waller-Bridge,Schauspielerin,Fleabag,Killing Eve,Buchautorin,Britisch
+Rami Malek,Schauspieler,Bohemian Rhapsody,Mr. Robot,Ägypten,Oscar
+Tom Holland,Acteur,Spider-Man,Spider-Man: No Way Home,The Impossible,British
+Awkwafina,Schauspielerin,Crazy Rich Asians,Ocean's 8,Rapperin,Komikerin
+Prince William,Kate Middleton,Prins,Koninklijk,Duke of Cambridge,Diana
+Natalie Portman,Actrice,Black Swan,Star Wars,V voor Vendetta,Harvard
+Eiffeltoren,Parijs,Frankrijk,Monument,Staal,Bouwkunde
+Flatgebouw,Appartementen,Hoog,Wolkenkrabber,Lift,Trappenhuis
+Kasteel,Middeleeuws,Gracht,Koninklijk,Belegering,Ridder
+Bibliotheek,Boeken,Uitlenen,Stilte,Lezen,Overheid
+Bioscoop,Film,Scherm,Popcorn,Acteur,Première
+Fabriek,Productie,Machines,Stank,Arbeid,Industrie
+Winkelcentrum,Winkels,Koopjes,Parkeergarage,Slaatjes,Dranken
+Basisschool,Kinderen,Leerkracht,Klassen,Rust,Groepen
+Brandweerkazerne,Blussen,Brandweerwagen,Vuur,Helm,Brandalarm
+Circus,Acrobatiek,Clowns,Dieren,Optreden,Tribune
+Supermarkt,Winkel,Boodschappen,Kassa,Producten,Karretje
+Stadion,Sport,Publiek,Voetbal,Tribunes,Wedstrijd
+Universiteit,Studeren,Diploma,Onderzoek,Professor,Bibliotheek
+Paleis,Koninklijk,Historisch,Portier,Trappen,Vorst
+Ziekenhuis,Arts,Patiënt,Infuus,Operatie,Medicatie
+Wolkenkrabber,Hoog,Kantoren,Lift,Glas,Top
+Luchthaven,Vliegtuig,Terminal,Bagage,Piloot,Inchecken
+Vuurtoren,Zee,Navigatie,Licht,Bakens,Kust
+Moskee,Islam,Gebed,Minaret,Koepel,Allah
+Jachthaven,Boten,Dock,Zeilen,Zee,Kade
+Kantoorgebouw,Werk,Bureau,Vergadering,Koffiepauze,Computer
+Villa,Huis,Tuin,Familie,Zwembad,Veranda
+Molen,Wind,Maïs,Meel,Draaien,Boeren
+Parlementsgebouw,Politiek,Wet,Besluit,Stemmen,Democratie
+Kunstgalerij,Schilderijen,Sculpturen,Kunstenaars,Expositie,Vernissage
+Vuilnisbelt,Afval,Stortplaats,Milieu,Stinken,Vliegen
+Hotel,Inchecken,Slaapkamer,Reservering,Receptionist,Bagage
+Klooster,Monniken,Bidden,Stilte,Zusters,Kruisigen
+Moskou Kremlin,Regering,Fort,Poort,Torens,Kathedraal
+Woonboot,Water,Anker,Roeien,drijven,Zonnedek
+Hoofdkwartier,Leger,Oorlog,Strategie,Geheim,Generaals
+Opera,Zingen,Klassiek,Theater,Aria,Wagner
+Villa Savoye,Architectuur,Modern,Woongebouw,Terras,Ramen
+Verlaten gebouw,Spookachtig,Kraken,Achtergelaten,Verwoest,Gevaarlijk
+Fabrieksschoorsteen,Rook,Industrie,Emissies,Vervuiling,Schoonmaak
+Kanaalhuisjes,Water,Amsterdam,Boottocht,Fietsen,Grachten
+Graansilo,Opslag,Voedsel,Silocomplex,Verwerking,Oogsten
+Brandtoren,Brandweer,Bos,Natuur,Waarschuwing,Blussen
+Gevangenis,Criminaliteit,Bewakers,Celstraf,Veroordeling,Recidive
+Fakkel,Vuur,Olympische spelen,Symbolisch,Ceremonie,Estafette
+Pagode,Azië,Boeddhisme,Tempel,Dakpannen,Bouwstijl
+Vuurtorenwachter,Zee,Licht,Schip,Veiligheid,Zeilen
+IJssalon,Dessert,Smaken,Room,Waterijs,Chocola
+Moskee minaret,Islam,Bidden,Gebedshuis,Allah,Dagelijks
+Telecommunicatietoren,Antennes,Radio,Internet,Verbinding,Hoogte
+Boogbrug,Verkeer,Water,Voetgangers,Boogvorm,Pijlers
+Heuvelwoonhuis,Natuurlijk,Uitzicht,Vrijstaand,Rustiek,Wonen
+Skihut,Skiën,Sneeuw,Vakantieoord,Après ski,Warmte
+Observatorium,Sterren,Telescoop,Onderzoek,Planeten,Galaxie
+Zwaartekracht,Aantrekking,Massa,Val,Gewicht,Natuurkunde
+Elektrische stroom,Stroom,Spanning,Kabel,Elektronen,Lading
+Lichtsnelheid,Einstein,Relativiteit,C,Snelheid,Fotonen
+Thermodynamica,Energie,Entalpie,Entropie,Warmteleer,Eerste wet van de thermodynamica
+Radioactiviteit,Straling,Kernenergie,Halfwaardetijd,Isotopen,Geiger
+Zwaartekrachtsgolven,Einsteins theorie,LIGO,Deformatie,Ruimtetijd,Zwaartekracht
+Optica,Licht,Breking,Reflectie,Lens,Natuurkunde
+Moleculen,Atomen,Bindingsenergie,Chemische reacties,Waterstof,Koolstof
+Elektromagnetisch spectrum,Radiogolven,Microgolven,Infrarood,Ultraviolet,Röntgenstraling
+Relativiteitstheorie,Atoombom,Tijdreizen,Zwaartekracht,Snelheid,Gravitatie
+Quantumfysica,Deeltjes,Schrödinger,Superpositie,Entanglement,Energie
+Vloeistofdynamica,Vloeistof,Stroom,Turbulentie,Pomp,Stuwkracht
+Elektromotor,Magneetveld,Stroomspoel,Kracht,Commutator,Rotatie
+Kinematica,Snelheid,Versnelling,Afstand,Tijd,Traject
+Kwantummechanica,Schrödinger,Deeltjesgolf,Uncertainty,Superpositie,Spin
+Relativistische massa,Tijd,Ruimte,Lichtsnelheid,Energie,Verstrengeling
+Deeltjesfysica,Quarks,Higgs Boson,CERN,Neutrino,Massa
+Magnetische resonantie,MRI,Scanner,Kernen,Magnetisch veld,Spins
+Laserstraling,Fotonen,Cohérentie,Optica,Lasersnijden,Fluorescentie
+Radio,Muziek,Zender,Frequentie,Geluid,Antenne
+Telescoop,Sterren,Galileo,Refractor,Ørsted,Lenzenstelsel
+Appel,Beroep,Hogere instantie,Rechtbank,Rechtszaak,Juridisch
+Camcorder,Camera,Beelden,Video,Opnemen,User Interface
+Oscilloscoop,Elektronica,Signaal,Golfvorm,Scherm,Voltage
+Champagne,Wijn,Cava,Brubbelen,Kurk,Feestelijk
+Teer,Shell,Bitumen,Kolen,Pek,Zwart
+Polariserende bril,Zon,Licht,Glare,Anti-reflectie,Buiging
+Kompas,Oriëntatie,Noorden,Magneet,Navigatie,Naald
+Waterdamp,Water,Stoom,Verdamping,Vochtigheid,Gas
+Koelkast,Koude,Opslag,Diepvriezer,Temperatuur,Vleeswaren
+Oktoberfest,Bier,Feest,München,Brezels,Lederhosen
+Luchtballon,Ballonvaart,Gasvlam,Mand,Piloot,Hoogte
+Lawine,Sneeuw,Berg,Gevaarlijk,Verschuiven,Skiën
+Gitarenversterker,Versterker,Muziek,Toonregeling,Gitaar,Speaker
+Schroevedraaier,Gereedschap,Schroeven,Bevestigen,Draaien,Bits
+Elektron,Ladingsdrager,Schil,Atoom,Valentie,Kern
+Foton,Licht,Elektromagnetisch,Energie,Golf,Deeltje
+Kracht,Massa,Impuls,Koppel,Gewicht,F = ma
+Kinetische energie,Energie,Beweging,Potentiële energie,Wet van behoud van energie,Snelheid
+Golven,Frequenties,Amplitude,Trillingen,Geluid,Licht
+Brekingsindex,Breking,Optica,Licht,Prisma,Snell's Law
+Zuurgraad,Neutralisatie,pH,Basen,Indicator,Buffer
+Ohm,Elektrische weerstand,Spanning,Stroomsterkte,Wet van Ohm,Elektriciteitswetten
+Koudemiddel,Koelmachine,Verdampen,Compressor,Warmtewisselaar,Koeling
+Magnetisatie,Magnetisme,Elektromagnetische golven,Ferromagnetisme,Hystersis,Kromme van magnetisatie
+Molecuul,Atomen,Binding,Structuur,Chemisch,Samenstelling
+Atmosfeer,Lucht,Dampkring,Ozonlaag,Gas,Atmosferische
+Krachtveld,Magnetische kracht,Elektrostatische kracht,Coulomb,Lorentz-kracht,Velden
+Torsie,Draaikracht,Torsiemoment,Stijfheid,Verdraaiing,Buiging
+Oscillatie,Trilling,Slag,Periode,Trillingsfrequentie,Resonantie
+Dichtheid,Massa,Volume,Drijven,Archimedes' principe,Waterverplaatsing
+Ionisatie,Elektronen,Straling,Energie,Atoom,Ionisatie-energie
+Snelheid,Afstand,Tijd,Beweging,Traject,Versnelling
+Blackbox,Onbekend,Informatie,Systeem,Input,Output
+Zonne-energie,Stroom,Zonnepaneel,Energie,Verlichting,Zonlicht
+Kogel,Geweer,Schieten,Munitie,Pistool,Projectiel
+Tijd,Klok,Seconde,Uur,Dag,Jaar
+Glas,Doorzichtig,Raam,Zichtbaarheid,Beeldschermpje,Kristal
+Elektrocutie,Elektriciteit,Schok,Spanning,Stroom,Stopcontact
+Anatomie,Orgaan,Lichaamsdeel,Cellen,Weefsels,Fysiologie
+Gravitatieveld,Zwaartekracht,Aantrekkingskracht,Massa,Sterrenstelsels,Orbit
+Topologie,Ruimte,Vorm,Grenzen,Continu,Verbinding
+Kineticiteit,Snelheid,Beweging,Energie,Massa,Traject
+Materiaalkunde,Materiaal,Eigenschappen,Structuur,Keuze,Ontwerp
+Optometrie,Ogen,Gezichtsvermogen,Lens,Bril,Laseroperatie
+Mechanica,Beweging,Krachten,Snelheid,Traject,Werk
+Geluidsgolven,Geluid,Frequentie,Sterkte,Dopplereffect,Akoestiek
+Elektromagnetische interferentie,Straling,Golflengtes,Storing,Interactie,Antenne
+Zuur-base evenwicht,pH,Neutraliseren,Protonen,Buffer,Titratie
+Extremofiel,Leven,Organisme,Habitat,Extreme omstandigheden,Adaptatie
+Wrijving,Wrijven,Wrijvingscoëfficiënt,Glijden,Slijtage,Vloeistofweerstand
+Quantum-tunnelling,Tunnel,Barrier,Potentiaal,Deeltje,Verschuiving
+Kernfusie,Fusie,Reactor,Brandstof,Protonen,Neutronen
+Zon,Ster,Licht,Warmte,Heliosfeer,Plasma
+Zwarte gaten,Gravitatieveld,Licht,Zwaartekracht,Singulariteit,Event horizon
+Bliksem,Donder,Elektrisch,Onweer,Flits,Storm
+Foto-elektrisch effect,Einstein,Foton,Frequentie,Elektron,Energieniveaus
+Tijdreizen,Paradox,Wormgat,Snelheid,Toekomst,Vergangenheitsbewältigung
+Waterstof,Gas,Combineerbare,Element,Atomaire massa,Enkelvoudig
+Plaatsbepaling,GPS,Daltonisme,Vooruitgang,Navigatie,Astronomie
+Supergeleiding,Nulweerstand,Koeling,BCS-theorie,Elektronen,Kritische temperatuur
+Hoogteziekte,Acute mountain ziekte,Hypoxie,Hoogte,Ademhaling,Cognitieve beperking
+Zwaartepunt,Balans,Evenwicht,Hevel,Moment,Krachtveld
+Kristalstructuur,Eenheidscel,Overgangskristal,Kristalstelsel,Eigenschappen,Kristallisatie
+Optische vezel,Glasvezel,Lichtgolf,Trog,Lasers,Muzieksignaal
+Katalysator,Activeringsenergie,Chemisch evenwicht,Enzym,Versnelling,Reactie
+Laser,Fotonen,Monochroom,Laserdiode,Spiegels,Lichtversterking
+Stroomkring,Seriekoppeling,Spanning,Weerstanden,Schakelaar,Parallelle weerstand.
+Elektronica,Circuit,Batterij,Soldeerbout,Weerstand,Microcontroller
+Atoom,Elektron,Kern,Molecuul,Chemie,Neutron
+Energie,Brandstof,Vermogen,Kracht,Potentieel,Verbruik
+Straling,Radioactief,Radiotherapie,Scintigrafie,CT-scan,Chemotherapie
+Magnetron,Microgolven,Keuken,Verhitting,Draaiplateau,Ontdooien
+Beweging,Snelheid,Afstand,Traject,Verplaatsing,Acceleratie
+Elektriciteit,Stroomkring,Spanning,Weerstand,Schakelaar,Generator
+Licht,Golflengte,Optica,Foton,Refractie,Natuurkunde
+Druk,Compressie,Expansie,Atmosfeer,Barometer,Pascal
+Warmte,Thermodynamica,Energie,Verbranding,Temperatuur,Warmtegeleiding
+Radiogolven,Frequentie,Zender,Antenne,Elektromagnetisch spectrum,Radarsysteem
+Drijfvermogen,Dicht,Archemedes,Drijven,Onderdompeling,Vlot
+Politiek,Verkiezingen,Partij,Rechtse,Linkse,Stemmen
+Wereldreligies,God,Gebed,Tempel,Boek,Spiritualiteit
+Liefde,Verliefd,Relatie,Huwelijk,Kus,Romantiek
+Discriminatie,Racisme,Seksisme,Vooroordeel,Segregatie,Bevooroordeeld
+Werkloosheid,Banen,Werkgelegenheid,Arbeid,Loon,Economie
+Geweld,Mishandeling,Oorlog,Wapens,Terrorisme,Moord
+Ouderen,Bejaarden,Rusthuis,Zorg,Dementie,Pensioen
+Migratie,Asielzoeker,Vluchteling,Immigrant,Grens,Integratie
+Familiestructuur,Ouders,Broers,Zussen,Stamboom,Erfenis
+Criminaliteit,Misdaad,Dealer,Moord,Geweld,Criminaliteit
+Homoseksualiteit,Lesbisch,Homofoob,Pride,Regenboog,Tolerantie
+Arm en rijk,Inkomensongelijkheid,Welvaart,Armoede,Kapitalisme,Belastingen
+Gender,Man,Vrouw,Non-binair,Genderidentiteit,Feminisme
+Gezondheid,Ziekte,Geneeskunde,Medicijnen,Fitness,Obesitas
+Onderwijs,School,Leraren,Studenten,Kennis,Lesgeven
+Natuurbehoud,Behoud,Bescherming,Soortenrijkdom,Milieu,Biodiversiteit
+Sociale media,Facebook,Twitter,Instagram,Likes,Hashtags
+Verslaving,Alcoholisme,Roken,Drugs,Gokken,Ontwenning
+Seksualiteit,Seks,Condoom,Anticonceptie,Masturbatie,Seksuele voorlichting
+Vrijheid van meningsuiting,Censuur,Persvrijheid,Haatzaaien,Belediging,Blasfemie
+Bouw,Hamer,Sloop,Cement,Aannemer,Stelling
+Alcohol,Drank,Bier,Barman,Kater,Wijn
+Mode,Catwalk,Ontwerper,Kledingstuk,Trends,Model
+Roken,Sigaret,Tabak,Nicotine,Asbak,Longen
+Voeding,Dieet,Supermarkt,Boerderij,Gezondheid,Restaurant
+Technologie,Computer,Internet,iPad,Smartphone,Apparaten
+Taal,Grammatica,Woordenboek,Lezen,Schrijven,Vertaling
+Feestdag,Kerstman,Paashaas,Halloween,Verjaardag,Cadeau
+Relatie,Huwelijk,Echtscheiding,Liefde,Partner,Romance
+Sport,Stadion,Bal,Wedstrijd,Team,Scoren
+Wetenschap,Experiment,Onderzoek,Theorie,Ontdekking,Laboratorium
+Geloof,Kerk,God,Bijbel,Gebed,Spiritualiteit
+Gezinsleven,Opvoeden,Kind,Echtscheiding,Kinderopvang,Baby
+Lichaam,Anatomie,Gezondheid,Orgaan,Ziekte,Zintuig
+Verkeer,File,Fiets,Vertraging,Station,Trein
+Onderdak,Huur,Verhuizen,Woning,Dakloos,Interieur
+Festival,Muziek,Dansen,Kunst,Kamperen,Publiek
+Baby,Zuigeling,Luier,Kinderwagen,Huilen,Fles
+Huwelijk,Bruiloft,Ring,Bruid,Bruidegom,Ceremonie
+Vriendschap,Beste vriend(in),Vertrouwen,Geheim,Samen,Band
+Scheiding,Extraheren,Destilleren,Filteren,Centrifugeren,Uitzuiveren
+Puberteit,Hormonen,Acne,Onzekerheid,Giechelen,Groeispurt
+Verjaardag,Cadeau,Kaarsjes,Taart,Feest,Ouder worden
+Adoptie,Biologische ouders,Pleegkind,Adoptieouders,Familie,Identiteit
+Bevolkingsgroei,Overbevolking,Geboortebeperking,Migratie,Vergrijzing,Invloed op milieu
+Globalisering,Grenzen,Cultuur,Handel,Multinationale bedrijven,Wereldwijde communicatie
+Stereotypen,Vooroordelen,Discriminatie,Groepsdenken,Karakterisering,Rolpatronen
+Religieus extremisme,Fanatici,Terrorist,Fundamentalisme,Radicalisme,Geweld
+Vrijwilligerswerk,Onbetaald,Goed doel,Hulp,Aandacht,Zinvol
+Politiegeweld,Mishandeling,Wapen,Rassenprofilering,Onrechtmatigheid,Protesten
+Mensenrechten,Vrijheid,Gelijke behandeling,Burgerrechten,Activisme,Diversiteit
+Dakloosheid,Vernedering,Armoede,Koud,Daklozenopvang,Uitgesloten
+Demonstraties,Protesten,Mars,Demonstranten,Politie,Rechten
+Vertrouwen,Integriteit,Onbetrouwbaar,Geheimhouding,Verantwoordelijkheid,Oprechtheid
+Gewetensbezwaren,Militaire dienst,Persoonlijke overtuiging,Vrijheid van godsdienst,Wapen,Geweldloosheid
+Stalking,Obsessie,Onrust,Indringing,Achtervolging,Angst
+Tatoeage,Naald,Inkt,Hoofd,Rug,Arm
+Advocatenkantoor,Advocaat,Jurist,Factureren,Recherche,Cliënt
+Voedselbank,Armoede,Voeding,Donatie,Gratis,Hulpbehoevend
+Sociale ongelijkheid,Rijkdom,Armoe,Onrechtvaardigheid,Kans,Afkomst
+Bedrijfsleven,Winst,Samenwerking,Markt,Productie,Bedrijfscultuur
+Asielzoekers,Vluchteling,Grens,Opvangcentrum,Nationaliteit,Oorlog
+Gehandicaptenzorg,Beperking,Zorginstelling,Handicap,Hulpmiddel,Therapie
+Kinderopvang,Oppas,Speelgoed,Peuter,Spel,Buitenspelen
+Pensioenstelsel,AOW,Verzekeringsmaatschappij,Geld,Ouderdom,Uitkering
+Rouwproces,Verdriet,Overlijden,Herinnering,Graf,Crematie
+Pesten,Uitsluiting,Vernedering,Slachtoffer,Geweld,Klasgenoten
+Lichaamstaal,Gebarentaal,Houding,Mimiek,Taal,Uitdrukking
+Openbaar vervoer,Trein,Bus,Metro,Halte,Tickets
+Kinderbescherming,Melding,Bedreigd,Verwaarloosd,Adoptie,Mishandeling
+Gezinshereniging,Immigratie,Gezin,Partner,Visum,Integratie
+Huiselijk geweld,Misbruik,Slachtoffer,Partner,Aangifte,Mishandeling
+Mantelzorg,Ouderen,Zorg,Hulpbehoevend,Ziekte,Familie
+Vakantie,Reis,Zon,Strand,Vliegtuig,Hotel
+Stress,Druk,Spanning,Werk,Ontspanning,Zorgen
+Mensenhandel,Slavernij,Prostitutie,Werven,Uitzetten,Illegaliteit
+Extremisme,Terrorisme,Radicaal,Ideologie,Fanatisme,Geweld
+Vruchtbaarheid,Zwanger,Onvruchtbaar,IVF,Bevruchting,Baarmoeder
+Ouderschap,Kinderen,Opvoeding,Verantwoordelijkheid,Erfelijkheid,Adoptie
+Arbeidsmarkt,Werkloosheid,Loon,Concurrentie,Opleiding,Werkgelegenheid
+Gezondheidszorg,Ziekenhuis,Artsen,Geneesmiddelen,Operatie,Gezondheid
+Eenzaamheid,Alleen,Sociale isolatie,Vrienden,Emoties,Gesprekken
+Valsspelen,Bedrog,Oneerlijkheid,Fraude,Spelregels,Onrechtmatigheid
+Veiligheid,Gevaar,Risico,Criminaliteit,Onveiligheid,Beveiliging
+Verhuizen,Emigreren,Woning,Veranderen,Spijt,Nieuwe omgeving
+Relatieproblemen,Communicatie,Ruzie,Vertrouwen,Vreemdgaan,Huwelijksproblemen
+Liefdadigheid,Goed doel,Donatie,Non-profit,Vrijwilligerswerk,Welzijn
+Gebrek aan empathie,Gevoelloos,Ongevoelig,Egoïsme,Narcisme,Onverschilligheid
+Overbevolking,Demografie,Milieuvervuiling,Bevolkingsdichtheid,Vluchtelingen,Voeding
+Jeugdcriminaliteit,Jeugdgevangenis,Delinquenten,Strafbare feiten,Minderjarigen,Rechterlijke macht.
+Drugs,Verslaving,Verdovende middelen,Joint,Cocaïne,Heroïne
+Maatschappij,Samenleving,Cultuur,Normen,Waarden,Tradities
+Geboorte,Baby,Kraamzorg,Zwangerschap,Moeder,Bevalling
+Relaties,Liefde,Huwelijk,Vriendschap,Monogaam,Scheiding
+Gemeenschap,Stad,Dorp,Sociaal,Buurt,Samenwerking
+Ouderdom,Leeftijd,Rusthuis,Gehuldigd,Gepensioneerd,Verzorging
+Ziekte,Kanker,Hartziekte,Depressie,Pijn,Medicijnen
+Religie,Godsdienst,Geloof,Kerk,Moskee,Tempel
+Voedsel,Dieet,Eten,Vlees,Groente,Fruit
+Seks,Intiem,Passie,Seksualiteit,Orgasme,Liefde
+Cultuur,Kunst,Muziek,Toneel,Film,Literatuur
+Communicatie,Overleg,Contact,Interactie,Feedback,Dialoog
+Armoede,Geld,Arm,Bijstand,Voedselbank,Rijkdom
+Werk,Carrière,Salaris,Baan,Kantoor,Collega's
+Familie,Ouders,Broers,Zussen,Kinderen,Familiedrama
+Magazijn,Opslagruimte,Voorraad,Logistiek,Distributie,Pallets
+Verpakking,Doos,Pakken,Verzenden,Transport,Bubble wrap
+Exporteren,Uitvoeren,Internationaal,Zending,Handel,Verscheping
+Handelaar,Verkoper,Ondernemer,Zakenman,Groothandelaar,Importeur
+Voorraadbeheer,Inventaris,Opslag,Magazijn,Bestellen,Budgetteren
+Detailhandel,Winkel,Consumenten,Verkopen,Klantenservice,Winstdoelstellingen
+Distributeur,Levering,Distributiecentrum,Tussenpersoon,Zending,Pallets
+Inventaris,Voorraad,Magazijn,Beheer,Bestellingen,Audit
+Groothandel,Bulk,Inkoop,Verkopen,Distributie,Orderverwerking
+B2B,Zakelijk,Verkoop,Klantenservice,Consumenten,winstgevendheid
+Distributiecentrum,Opslag,Zending,Magazijn,Distributeur,Levering
+Retailer,Winkel,Verkopen,Klantenservice,Consumenten,Voorraadbeheer
+Importeren,Invoer,Internationaal,Douane,Handel,Verscheping
+Bestelsysteem,Bestelling,Voorraadbeheer,Levering,Magazijn,Inkoop
+Verzendkosten,Levering,Pakketten,Post,Magazijn,Logistiek
+Dropshipping,Bestelling,Voorraad,Verzenden,Distributeur,Kleine inventaris
+Handelsbalans,Import,Export,Economie,Handelsoorlog,Overheidstekort
+Inkoper,Aankopen,Magazijn,Voorraad,B2B,Verkopen
+Logistiek,Distributie,Voorraadbeheer,Transport,Levering,Magazijn
+Verspreiding,Distributie,Levering,Logistiek,Magazijn,Groothandel
+Verboden woorden: Zeevracht,Filet,Vissen,Schaal- en schelpdieren,Oceaan
+Verboden woorden: Auteur,Lezen,Roman,Klassiek,Bladzijde
+Verboden woorden: Winkel,Stijl,Modieus,Naald en draad,Mode
+Verboden woorden: Tafelblad,Zitplaats,Woonplaats,Inrichting,Interieur
+Verboden woorden: Maaltijd,Supermarkt,Recept,Ingrediënten,Keuken
+Verboden woorden: Technologie,Scherm,Computer,Smartphone,Gadget
+Verboden woorden: Bier,Cocktail,Wijn,Frisdrank,Alcohol
+Verboden woorden: Kwekerij,Boeket,Tuinieren,Planten,Botanie
+Verboden woorden: Edelstenen,Ontwerper,Sieraden,Ring,Oorbellen
+Verboden woorden: Vuil,Allergie,Reinigingsmiddel,Sterilisatie,Hygiëne
+Verboden woorden: Kind,Verbeelding,Bal,Spelen,Kinderen
+Verboden woorden: Lippenstift,Parfum,Make-up,Gezichtsverzorging,Huid
+Verboden woorden: Gespierd,Bal,Training,Bewegen,Fitheid
+Verboden woorden: Tuingereedschap,Buitenplaats,Plant,Gazon,Bloempot
+Verboden woorden: Hond,Kat,Voeren,Dierenarts,Dier
+Verboden woorden: Concert,Gitaar,Muziekles,Noten,Orkest
+Verboden woorden: Schilderij,Sculptuur,Creatief,Kunstwerk,Museum
+Verboden woorden: Bakken,Brood,Gebakken,Deeg,Pan
+Verboden woorden: Juwelen,Ketting,Oorbel,Armband,Glans
+Verboden woorden: Pannen,Messen,Koken,Onderhoud,Fornuis
+Factuur,Nota,Betaling,Rekening,Kwitantie,Bon
+Winkelwagen,Karretje,Boodschappen,Warehouse,Mandje,Transport
+Geld,Valuta,Munten,Bankbiljetten,Financiën,Kapitaal
+Aankoop,Inkoop,Investering,Uitgaven,Transactie,Bestelling
+Klantenservice,Helpdesk,Klacht,Feedback,Service,Garantie
+Marketing,Promotie,Advertentie,Marktanalyse,Verkoop,Merk
+Levering,Verzending,Bezorging,Transport,Distributie,Vervoer
+Factoring,Financiering,Debiteuren,Incassobureau,Lenen,Krediet
+Inventarisatie,Voorraad,Stock,Magazijnbeheer,Opbergmethode,Registratie
+Marketingmix,Product,Prijs,Promotie,Plaats,Consument
+Handelsregister,Kamer van Koophandel,Inschrijving,Zakelijke gegevens,Bedrijfsprofiel,Statuten
+Handelsmissie,Exporteren,Handel,Internationaal,Handelsrelaties,Winst maken
+Orderverwerking,Orderpicking,Verzamelen,Bestelproces,Orderbevestiging,Verwerkingstijd
+Ondernemersplan,Businessplan,Strategie,Doelstellingen,Marktanalyse,Financieel plan
+Verkopen,Omzet,Verkoopgesprek,Acquisitie,Commerciële vaardigheden,Deal
+Commissie,Percentage,Provisie,Beloning,Verkoopbonus,Vergoeding
+Distributienetwerk,Distributiekanalen,Distributeur,Overeenkomst,Samenwerking,Verkoopregio's
+Voorraadrotatie,Uitverkoop,Haltbarkeit,Houdbaarheid,Seizoensgebonden,Vervangende producten
+Gedicht,Vers,Rijm,Woorden,Dichter,Stijl
+Boekwinkel,Literatuur,Lezen,Boeken,Schrijver,Roman
+Letterlijk,Figuurlijk,Beeldspraak,Betekenis,Spreekwoord,Uitdrukking
+Uitspraak,Uitdrukking,Stem,Woorden,Taal,Betekenis
+Leesteken,Punt,Komma,Vraagteken,Uitroepteken,Aanhalingsteken
+Omslag,Boek,Kaft,Cover,Illustratie,Design
+Grammatica,Zin,Werkwoord,Taal,Spelling,Schrijven
+Verhaal,Plot,Personages,Roman,Schrijver,Hoofdstuk
+Woordenboek,Taal,Synoniem,Definitie,Verklarende,Woordenschat
+Vertaalmachine,Taal,Woordenboek,Vertalen,Online,Computer
+Dichter,Poëzie,Gedicht,Vers,Rijm,Schrijver
+Proza,Poëzie,Rijm,Taal,Schrijver,Literatuur
+Taalkundige,Taal,Grammatica,Woordenboek,Synoniem,Vertaling
+Lettergreep,Uitspraak,Woord,Klank,Taal,Betekenis
+Uitgever,Publicatie,Boek,Schrijver,Redacteur,Uitgeefproces
+Tekstverwerker,Woord,Document,Schrijven,Online,Computer
+Citaten,Quote,Taal,Schrijver,Uitspraak,Inspirerend
+Roman,Boek,Fictie,Literatuur,Verhaallijn,Schrijver
+Gedachte,Denken,Hersenen,Idee,Mening,Intuïtie
+Hoofdstuk,Boek,Schrijven,Titel,Verhaal,Pagina
+Ironie,Sarcasme,Humor,Grappig,Tweezijdigheid,Literatuur
+Boodschap,Bericht,Communicatie,Informatie,Praten,Verklaring
+Televisie,Scherm,Beeld,Programma,Serie,Film
+Personage,Karakter,Verhaal,Acteur,Rol,Scenario
+Komma,Punt,Zin,Grammatica,Taalregels,Interpunctie
+Poëzie,Vers,Rijm,Dichter,Lied,Gevoel
+Uitleg,Verklaring,Begrijpen,Vertellen,Toelichten,Instructies
+Schrift,Pen,Papier,Handschrift,Typen,Gedachten
+Interpretatie,Betekenis,Analyse,Aannames,Uitleg,Perspectief
+Artikel,Krant,Schrijven,Informatie,Schrijver,Onderwerp
+Anagram,Woorden,Lettergrepen,Spelling,Taal,Schrijven
+Dialog,Gesprek,Acteren,Toneel,Schrijver,Karakter
+Limerick,Gedicht,Rijm,Vers,Humoristisch,Poëzie
+Pen,Schrijven,Inkt,Papier,Potlood,Vulpen
+Gedachten,Hersenen,Idee,Inzicht,Inspiratie,Hoofd
+Shakespeare,Schrijver,Klassiek,Romeo en Julia,Hamlet,Theater
+Woordspeling,Grap,Humor,Taal,Dubbelzinnig,Woordgrap
+Lettertype,Opmaak,Tekst,Schrijfstijl,Font,Letter
+Bestseller,Populair,Verkoop,Boek,Succes,Auteur
+Enigma,Geheim,Mysterie,Raadsel,Ontcijferen,Code
+Vertaling,Taalbarrière,Bijbel,Woordenboek,Communicatie,Cultuur
+Metafoor,Vergelijking,Beeldspraak,Taal,Figuurlijk,Betekenis
+Taalbarrière,Communicatie,Cultuurverschil,Vertaling,Engels,Nederlands
+Boek,Bladzijde,Lezen,Schrijven,Literatuur,Papier
+Taart,Bakken,Zoet,Feest,Slagroom,Kaarsjes
+Krant,Kop,Schrijven,Nieuws,Uitgever,Artikel
+Telefoon,Bellen,Smartphone,Tekst,Gesprek,Nummer
+Lied,Zanger,Muziek,Refrein,Album,Tekst
+Bibliotheekboek,Laatste,Gast,Boekenkast,Reserveren,Uitlenen
+Stift,Kleur,Schrijven,Tekenen,Balpen,Markeerstift
+Rijm,Poëzie,Gedicht,Lied,Woorden,Vers
+Schrijfmachine,Typen,Papier,Toetsen,Oud,Mechanisch
+Krabbelen,Tekenen,Papier,Schetsen,Kladblok,Kunst
+Kruiswoordpuzzel,Spel,Vullen,Vakje,Woorden,Omschrijving
+Kalligrafie,Handschrift,Pen,Kunst,Schrijven,Schoonschrift
+Woordenloos boek,Tekst,Verhaal,Schrijver,Beeld,Pagina
+Ode,Lofzang,Dichter,Gedicht,Inspiratie,Liefde
+Kantoormeubilair,Bureau,Stoel,Tafel,Lade,Computer
+Vergadering,Notulen,Agenda,Bespreking,Presentatie,Discussie
+Management,Coördineren,Besluitvorming,Verantwoordelijkheid,Organisatie,Toezicht
+Prestaties,Cijfers,Beoordeling,Concurrentie,Doelstellingen,Kritiek
+Teamwerk,Samenwerking,Groep,Taakverdeling,Communicatie,Vertrouwen
+Innovatie,Vernieuwing,Creativiteit,Ideeën,Ontwikkeling,Technologie
+Zakelijk reizen,Vlucht,Hotel,Koffer,Reservering,Afstand
+Productontwikkeling,Innovatie,Ontwerp,Marktanalyse,Ontwikkeling,Productieproces
+Bedrijfsethiek,Integriteit,Normen,Waarden,Mores,Deontologie
+Human Resource Management,Rekruteren,Training,HR,Opleiding,Arbeidscontract
+Feedback,Evalueren,Tips,Verbetering,Kritiek,Beoordeling
+Bedrijfsfinanciën,Begroting,Cashflow,Financiële resultaten,Belastingen,Kapitaal
+Projectmanagement,Budget,Planning,Planning,Scope,Stakeholders
+CEO,Leider,Baas,Directeur,Manager,Top
+Conferentie,Event,Vergadering,Samenkomen,Workshop,Seminar
+Doelstelling,Resultaat,Ambitie,Doelen,Richtlijn,Focus
+Onderhandeling,Concessies,Compromis,Stakeholders,Strategie,Cijfers
+Rendement,Winstgevendheid,Opbrengst,ROI,Terugverdientijd,Investeringen
+Start-up,Nieuw bedrijf,Jong bedrijf,Onderneming,Opstarten,Innoveren
+Stakeholder,Belanghebbende,Invloed,Interactie,Machtspositie,Verantwoordelijkheid
+Outsourcing,Uitbesteding,Werk uitbesteden,Buitenland,Offshore,Externe leverancier
+Risicomanagement,Uitdagingen,Bedreigingen,Kansen,Mogelijke problemen,Werkende processen
+Concurrentievoordeel,Uniek zijn,Sterktes,Voordeel,Anders dan anderen,Waardetoevoeging
+Verkoopcijfers,Omzet,Verkoopresultaten,Aantal verkopen,Statistieken,Marketingcampagne
+Organisatiestructuur,Hiërarchie,Functionele structuur,Divisies,Toegevoegde waarde,Synergie
+Bedrijfscultuur,Normen,Waarden,Gedrag,Cultivatie,Identiteit
+Innovatieve ideeën,Vernieuwing,Creatief,Uniek,Beter dan de rest,Origineel
+Groei,Uitbreiding,Ontwikkeling,Uitdaging,Versterking,Progressie
+Productlancering,Nieuw product,Introduceren,Productontwikkeling,Marketingplan,Succesfulle aanpak
+Een afspraak,Vergadering,Planning,Tijd,Notitie,Klant
+Contract,Overeenkomst,Handtekening,Onderhandeling,Juridisch,Voorwaarden
+Spreadsheet,Werkblad,Gegevens,Formules,Computer,Getallen
+Reorganisatie,Veranderingen,Nieuwe structuur,Afdelingen,Groei,Krimp
+Omzet,Winst,Inkomsten,Cijfers,Financiën,Targets
+Netwerken,Contacten,Relaties,Zakelijk,Evenementen,Sociale media
+Marketingcampagne,Advertenties,Promotie,Merkbekendheid,Doelgroep,Product
+Klanttevredenheid,Feedback,Beoordeling,Kritiek,Service,Compliment
+Zakelijke etiquette,Protocol,Gedrag,Normen,Respect,Cultuur
+Handelspartners,Leveranciers,Afzetmarkt,Internationaal,Import,Export
+Exitgesprek,Omstandigheden,Arbeidsvoorwaarden,Ontslag,Feedback,Carrière
+Budgettering,Financieren,Uitgaven,Planning,Management,Investering
+Werk/privébalans,Stress,Tijdmanagement,Vakantiedagen,Gezondheid,Sociaal leven
+Zelfmanagement,Discipline,Motivatie,Focus,Doelen,Productiviteit
+Leiderschap,Visie,Charisma,Richting,Autoriteit,Inspiratie
+Zakelijke verzekering,Vergoeding,Schade,Polisvoorwaarden,Risico,Verzekeraar
+Toegevoegde waarde,Extra,Uitleg,Relevantie,Klant,Kwaliteit
+Website,Webpagina,URL,Internet,Online,Browser
+Online winkelen,Webwinkel,E-commerce,Bestellen,Levering,Betaling
+Programmeren,Code,Software,Ontwikkeling,Taal,Debuggen
+Wifi,Draadloos,Netwerk,Verbinding,Router,Signaal
+Beveiliging,Firewall,Encryptie,Antivirus,Hacken,Bescherming
+Cloudopslag,Online opslag,Google Drive,Dropbox,Bestanden,Back-up
+Social media,Facebook,Twitter,Instagram,Sociaal netwerk,Delen
+Smartphone,Telefoon,Apparaat,Draadloos,Touchscreen,Bericht
+Cyberpesten,Online pesten,Trollen,Kwetsen,Sociale media,Aanval
+Bloggen,Blogger,Online journal,Posts,Schrijven,Delen
+E-mail,Elektronische post,Inbox,Verzenden,Ontvangen,Bijlage
+Zoekmachine,Google,Bing,Zoeken,Resultaten,Ranking
+Hacken,Cybercrime,Inbreken,Beveiliging,Computervredebreuk,Wachtwoord
+Virtual reality,3D,Headset,Simulatie,Virtueel,Immersie
+IT-afdeling,Helpdesk,Technische ondersteuning,Infrastructuur,Servers,Netwerk
+Big data,Grote gegevens,Data-analyse,Business intelligence,Computerprogramma's,Data mining
+Programmatuur,Software,Computercode,Programma's,Ontwikkeling,Taal
+Cyberaanval,Hacken,Malware,Virus,DoS-aanval,Phishing
+Robotica,Kunstmatige intelligentie,Machine learning,Robot,Besturingssysteem,Automatisering
+Tablet,Computer,Draagbaar,Scherm,App,Internet
+Printer,Papier,Inkt,Afdrukken,Kopiëren,Scanner
+Internet,Verbinding,Netwerk,Browser,Downloaden,Uploaden
+Toetsenbord,Typen,Toetsen,Computer,Tekstinvoer,QWERTY
+Router,Internet,Netwerk,WiFi,Verbinding,Adres
+USB-stick,Opslag,Bestand,Gegevens,USB-poort,Extern
+Firewall,Beveiliging,Internet,Inbraak,Netwerk,Blokkade
+Browser,Internet,Zoeken,Tabblad,URL,Chrome
+CPU,Processor,Snelheid,Computer,RAM,Geheugen
+Spam,Ongevraagd,E-mail,Bericht,Reclame,Filter
+Schijf,Opslag,Harde,SSD,Station,Computer
+VPN,Verbinding,Netwerk,Veiligheid,IP-adres,Anoniem
+Linux,Besturingssysteem,Open source,Terminal,Ubuntu,Debian
+Wifi-extender,Draadloos,Router,Signaal,Repeater,Netwerk
+HTML,Taal,Website,Opmaak,Code,CSS
+Malware,Virus,Trojaans paard,Beveiliging,Inbraak,Schadelijk
+Bluetooth,Draadloos,Verbinding,Apparaat,Koptelefoon,Speakers
+Blockchain,Cryptocurrencies,Veiligheid,Transactie,Ledger,Slimme contracten
+Code,Programmeren,Taal,Debuggen,Script,Syntax
+RAM,Geheugen,Computer,Snelheid,Opstarten,Capaciteit
+E-reader,Lezen,Boek,Scherm,Elektronica,Batterij
+Algoritme,Berekening,Analyse,Data,Computer,Code
+Spamfilter,Ongevraagde mail,Bescherming,Filteren,Veiligheid,Malware
+Applicatie,Software,Toepassing,Programma,Downloaden,Besturingssysteem
+Glasvezel,Internet,Verbinding,Snelheid,Kabel,Breedband
+Cloud computing,Opslag,Internet,Platform,Afstand,Dienst
+Touchscreen,Aanraakscherm,Interactie,Display,Beeldscherm,Input
+Keyboard,Toetsen,Tekstinvoer,Typen,Computeraccessoire,Draadloos
+Browserextensie,Plug-in,Browser,Download,Toevoeging,Internet
+Microcontroller,Apparaat,Programmeren,Elektronica,Besturing,Chip
+Routering,Netwerk,Verzenden,Adressering,Verwijsmechanisme,Internet
+Gebruikersinterface,Grafische afbeelding,Interactie,Scherm,Ontwerp,Beheersing
+RAM-geheugen,Geheugen,Computer,Tijdelijke opslag,Chips,Bytes
+Netwerkprotocol,Communicatie,Internet,Protocol,Norm,Jargon
+Bestandscompressie,Verkleinen,Archiveren,Data,Opslaan,Software
+Datacenter,Opslag,IT,Veiligheid,Server,Locatie
+Programmeertaal,Script,Syntax,Compileren,Objectgeoriënteerd,Codebewerker
+Pizza,Deeg,Tomatensaus,Kaas,Toppings,Italiaans
+Frietjes,Aardappel,Frituren,Vet,Snacks,Ketchup
+Donut,Zoet,Gebak,Ring,Glasuur,Koffie
+Sushi,Rauw,Zeewier,Sojasaus,Rijst,Vis
+Kippenvleugels,Gefrituurd,Pittig,BBQ-saus,Been,Pluimvee
+Banaan,Geel,Schil,Monkey,Fruit,Vitamines
+Limonade,Citroen,Zoet,Frisdrank,Glas,Dorstlesser
+Hamburger,Broodje,Vlees,Kaas,Sla,Ketchup
+Appeltaart,Gebakken,Kaneel,Zoet,Appel,Taart
+Cola,Koolzuurhoudend,Frisdrank,Blikje,Amerikaans,Dorstlesser
+Olijven,Groen,Zout,Pit,Mediterraans,Tapenade
+Thaise curry,Rijst,Pittig,Kokosmelk,Groenten,Aziatisch
+Aardbeien,Zoet,Rood,Klein,Fruit,Zomer
+Bier,Gerst,Hop,Schaum,Pint,Alcohol
+Lasagne,Deeg,Gehakt,Kaas,Bechamelsaus,Italiaans
+Smoothie,Gemixt,Gezond,Fruit,Drinken,Vitamines
+Spaghetti,Pasta,Tomatensaus,Gehakt,Parmezaanse kaas,Italiaans
+Pindakaas,Noten,Broodbeleg,Crunchy,Smeerbare,Peanut Butter
+Tomaat,Groente,Saus,Salade,Ketchup,Pasta
+Ananas,Fruit,Zoet,Tropisch,Bladeren,Hawaïaans
+Pistache,Noot,Groen,Ijs,Dessert,Zout
+Hummus,Dip,Kikkererwten,Midden-Oosten,Stokbrood,Vegan
+Meloen,Fruit,Zomer,Zoet,Schil,Pitjes
+Quiche,Hartig,Taart,Eieren,Bladerdeeg,Feta
+Asperges,Groente,Seizoen,Wit,Peper,Saus
+Guacamole,Avocado,Dip,Mexicaans,Chips,Pittig
+Rozijnen,Gedroogd fruit,Ontbijt,Zoet,Gebak,Krentenbrood
+Tiramisu,Dessert,Koffie,Mascarpone,Lepelgebak,Italiaans
+Venkel,Groente,Knol,Anijs,Salade,Rauwkost
+Zalm,Rivier,Roze,Kieuwen,Kama Sutra,Smaak
+Kokosnoot,Fruit,Tropisch,Melk,Schil,Boom
+Gember,Specerij,Thee,Wok,Pickles,Peper
+Kiwi,Fruit,Schil,Groen,Nieuw-Zeeland,Smoothie
+Artisjok,Groente,Blad,Hart,Dip,Oven
+Zwarte bes,Fruit,Jam,Tros,Fris,Struik
+Thaise soep,Soep,Pittig,Kokosmelk,Lemongrass,Tom Yum
+Boterham,Brood,Beleg,Lunch,Snack,Kaas
+Frikandel,Snack,Vlees,Kroket,Patat,Mayonaise
+Kersen,Fruit,Rood,Pit,Zoet,Nagerecht
+Kip curry,Indiaas,Pittig,Rijst,Saus,Naan
+Stamppot,Aardappels,Groente,Winter,Nederlands,Stampen
+Gehaktbal,Vlees,Rond,Stoofpot,Ballen,Jus
+Aspergesoep,Groente,Romig,Soep,Hollandse keuken,Wit
+Zuurkool,Kool,Stamppot,Winter,Zuur,Hollands
+Fruitsalade,Gezond,Lekker,Zomer,Vers,Mix
+Pindasoep,Surinaams,Pittig,Soep,Pinda's,Ei
+Spekkoek,Indonesisch,Laagjes,Zoet,Kruidig,Gebak
+Pestosaus,Saus,Groen,Pasta,Knoflook,Basilicum
+Ice tea,Frisdrank,Thee,Zomer,Koud,Lemon
+Kimchi,Koreaans,Pittig,Gefermenteerd,Groente,Rode peper
+Quinoa,Superfood,Graan,Gezond,Eiwitrijk,Salade
+Crepes,Frans,Dun,Pannekoek,Zoet,Fruit
+Courgettesoep,Groente,Romig,Soep,Zomer,Geel
+Tzatziki,Saus,Grieks,Knoflook,Yoghurt,Komkommer
+Appelmoes,Fruit,Potje,Lepel,Dessert,Maaltijd
+Rib-eye,Vlees,Grillen,Steak,Restaurant,Mals
+Ravioli,Pasta,Italiaans,Vulling,Tomaat,Kaas
+Kruidenthee,Thee,Munt,Koriander,Kruidentuin,Natuurlijk
+Tonijnsalade,Vis,Mayonaise,Broodje,Lunch,Licht
+Gazpacho,Koude soep,Tomaten,Spaans,Zomer,Komkommer
+Spareribs,Varkensvlees,Ribben,BBQ,Zoet,Geglazuurd
+Rijstpudding,Dessert,Rijst,Melk,Kaneel,Vanille
+Goulash,Stoofpot,Vlees,Paprika,Hongaars,Dik
+Pesto,Saus,Groen,Basilicum,Pasta,Pot
+Tuna melt,Broodje,Vis,Smeltkaas,Oven,American
+Bananenbrood,Bakken,Zoet,Overrijp,Noten,Ontbijt
+Tomatensalsa,Saus,Mexicaans,Ui,Koriander,Pita chips
+Champignonrisotto,Rijst,Paddenstoel,Romig,Parmezaanse kaas,Pan
+Club sandwich,Brood,Bacon,Huisgemaakt,Mayo,Dubbel
+Kokoswater,Drankje,Gezond,Smaakloos,Tropisch,Vocht
+Cannelloni,Pasta,Gevuld,Ovenschotel,Tomatensaus,Groot
+Matcha latte,Groene thee,Zoet,Schuim,Latte art,Ceremonie
+Haring,Vis,Rauw,Hollands,Zout,Graat
+Nachos,Kaas,Chips,Mexicaans,Guacamole,Salsa
+Yakitori,Kip,Japans,Skewers,Soja,Gegrild
+Truffel,Zwart,Delicatesse,Paddestoel,Olie,Aroma
+Oester,Zeevrucht,Rauw,Schelpdier,Zout,Parels
+Falafel,Kikkererwten,Vegetarisch,Balletjes,Midden-Oosten,Hummus
+Roquefort,Kaas,Schimmel,Blauw,Frans,Boterachtig
+Ramen,Noedels,Japans,Vlees,Soep,Ei
+Surimi,Imitatie,Krab,Stokken,Sushi,Wit
+Guiness,Bier,Donker,Iers,Schuim,Stout
+Jenever,Gin,Sterk,Kruiden,Gedistilleerd,Holland
+Aardpeer,Groente,Knol,Aardappel,Zoet,Witlof
+Mortadella,Worst,Italiaans,Varken,Rood,Plakjes
+Peking eend,Duck,Chinees,Vlees,Huid,Eend
+Haricot verts,Boontjes,Frans,Groen,Slank,Snel
+Marmite,Broodbeleg,Vegemite,Brits,Gist,Bitter
+Avocado,Groen,Zacht,Pit,Lepel,Salade
+Marshmallow,Smores,Zoet,Kussen,Schaap,Roosteren
+Kwarteleitjes,Klein,Vogel,Geel,Schil,Frituur
+Geitenkaas,Zacht,Schaap,Brood,Smelten,Kaasplankje
+Tandoori,Indiaas,Rijst,Kip,Kruiden,Oven
+Courgette,Groen,Pasta,Bloem,Vorm,Gevuld
+Pretzel,Deeg,Zout,Knopen,Oktoberfest,Bakken
+Kebab,Vlees,Broodje,Saus,Ui,Turks
+Inktvis,Zout,Zee,Calamares,Tentakels,Gegrild
+Gelatine,Dessert,Snoep,Kleurrijk,Wobbelen,Fruit
+Aardappelkroketjes,Frituur,Rond,Goudbruin,Puree,Bijgerecht
+Tapenade,Olijven,Brood,Spaans,Dip,Spread
+Spekjes,Roze,Blokjes,Varken,Zoet,Snoep
+Pistachenoten,Groen,Schelpen,Zout,Gezond,Midden-Oosten
+Scampi,Garnaal,Zeevruchten,Pellen,Boter,Look
+Haringfilet,Zuur,Rauw,Broodje,Volendam,Visboer
+Gruyère,Kaas,Zwitserland,Fondue,Smelten,Oranje
+Huisgemaakte limonade,Fris,Citrus,Suiker,Glas,Zomers
+Koriander,Kruid,Mexicaans,Groen,Zeep,Citrus
+Gnocchi,Italiaans,Deeg,Rond,Aardappel,Tomatensaus
+Harry Potter,Magie,Toverstaf,Hogwarts,Ron,Hermelien
+De Da Vinci Code,Cryptex,Kerk,Robert Langdon,Priester,Symbolen
+Romeo en Juliet,Verona,Liefde,Shakespeare,Tragedie,Capulet
+De Hobbit,Bilbo,Dwergen,Gandalf,Sauron,Midden-aarde
+Inferno,Ziekte,Florence,Dante,Museum,Crypte
+De GVR,Reus,BFG,Dromenvangers,Sophie,Snozzcumber
+De Vliegeraar,Afghanistan,Vriendschap,Verlossing,Amir,Hassan
+The Catcher in the Rye,Holden,Fonebone,New York City,Censorship,Coming-of-age
+De Avonden,Gerard Reve,Oud en Nieuw,Amsterdam,Verveling,Ironie
+1984,Big Brother,Doublethink,Room 101,Newspeak,Winston
+De Reünie,Sabine,Nijmegen,Stad,Ouderlijk huis,Afgunst
+Het Achterhuis,Anne Frank,Holocaust,Bezetting,Nazi's,Joden
+De Aanslag,Anton,Oorlog,Verzet,Tram,Karakter
+Ender's Game,Bugger,Battle school,Petra,Bonzo,Xenocide
+De Ontdekking van de Hemel,Mulisch,Goddelijke Moeder,Onsterfelijkheid,Filosofie,Auschwitz
+Pride and Prejudice,Jane Austen,Mr. Darcy,Conflicten,Huwelijk,Romantiek
+Moby-Dick,Ahab,Walvis,Pequod,Ishmael,Nantucket
+Stad der Blinden,Epidemie,Quarantaine,Ziekenhuis,Oogarts,Regering
+De Menselijke Maat,Oosterbeek,Moraal,Hedendaagse geschiedenis,Vriendschap,Schuldgevoel
+Het Verdriet van België,Oorlog,Collaboratie,Vlaams-nationalistisch,Noodtoestand,Zeichen.
+Dracula,Vampier,Beroemde,Bloed,Graf,Transsylvanië
+Lord of the Flies,Eiland,Vliegtuigcrash,Leiderschap,Goudhaantje,Survival
+Gone with the Wind,Amerikaanse Burgeroorlog,Geboorte,Tara,Liefde,Georgia
+The Adventures of Huckleberry Finn,Rivier,Zuiden,Slavernij,Jim,Tom Sawyer
+The Great Gatsby,F. Scott Fitzgerald,Roaring Twenties,Grondlegger,Daisy Buchanan,Opulence
+The Lion,the Witch and the Wardrobe,Narnia,Wardrobe,Aslan,Edmund,Tumnus
+To Kill a Mockingbird,Scout,Atticus,Maycomb,Racisme,Boo Radley
+The Hunger Games,Katniss,Peeta,Districts,Capitol,President Snow
+A Tale of Two Cities,Franse Revolutie,Londen,Sydney Carton,Charles Darnay,Madame Defarge
+The Magician's Nephew,Charn,Deur,Polly,Digory,Jadis
+The Catch-22,Wereldoorlog II,Luitsenant,Milo Minderbinder,Yossarian,Majoor Major Major Major
+Little Women,Meg,Jo,Beth,Amy,Liefde
+The Picture of Dorian Gray,Ontbinding,Portret,Narcisme,Basiel Hallward,Lord Henry Wotton
+Heart of Darkness,Congo River,Kurtz,Imperialisme,Donkere ziel,Marlow
+The Sound and the Fury,Compson Family,Jessica Rabbit,Benjy,Quentin,Jason
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,Ruimte,Handdoek,Marvin,Don't Panic
+The Stranger,Maman is dood,Meursault,Arabier,Zonlicht,Rechtbank
+The Bell Jar,Sylvia Plath,Esther Greenwood,Krankzinnigheid,Psychiatrische inrichting,College
+The Old Man and the Sea,Ernest Hemingway,Santiago,Grote vis,Cuba,Joseph Waldmeir
+Frankenstein,Monster,Victor,Robert Walton,Igor,Experiment.
+Game of Thrones,Draken,Stark,Targaryen,Lannister,Westeros
+Hamlet,To be or not to be,Shakespeare,Ghost,Tragedie,Deense prins
+Alice in Wonderland,Konijn,Hoedenmaker,Hartenkoningin,Thee,Rups
+The Lord of the Rings,Hobbit,Gandalf,Midden-aarde,Sauron,Ring
+The Girl on the Train,Trein,Rachel,Tom,Drankprobleem,Megan
+The Adventures of Tom Sawyer,Mississippi,Huck Finn,Picnic,Zakdoekjes,Overstroming
+The Fault in Our Stars,Kanker,Augustus Waters,Amsterdam,Hazel Grace Lancaster,Peter van Houten
+The Color Purple,Celie,Racistisch,Georgia,Mister,Albert
+Jane Eyre,Orphan,Rochester,Thornfield Hall,Bertha,Ingenuity
+The Chronicles of Narnia,Lucy Pevensie,Narnia,Aslan,Toverwereld,Witte Heks
+Wuthering Heights,Earnshaw,Hareton,Moors,Cathy,Linton
+Anna Karenina,Overspel,Spoorlijn,Vronsky,Graaf Karenin,Russische adel
+The Handmaid's Tale,Bevalling,Alleenstaande vrouwen,Elisabeth Moss,Romantiek,Morele plicht
+The Diary of a Young Girl (Anne Frank),Holocaust,Keizersgracht,Joden,Achterhuis,Otto Frank
+The Alchemist,Santiago,Schat,Andalusië,Samuel,Reis
+Pride of Baghdad,Leeuw,Oorlog,Bagdad,Natuur,Zoo
+A Clockwork Orange,Alex,Ultraviolence,Burgess,Droogs,Ludovico Technique
+The Immortal Life of Henrietta Lacks,HeLa-cellen,Ethiek,Henrietta Lacks,Kanker,Genetica
+Boekenwurm,Lezen,Bibliotheek,Pagina’s,Uitlenen,Literatuur
+De Kromme Jongens,Misdaad,Inbrekers,Detective,Boeven,Gevangenis
+De Schaduw van de Wind,Boekhandel,Spanje,Avontuur,Boekenkast,Graf
+De Illusionist,Trucs,Magie,Podium,Assistente,Marionet
+Romeo and Juliet,Liefde,Verona,Rivaliteit,Familie,Schat
+De Vanger in het Graan,Holden Caulfield,Psychologie,Verbanning,J.D. Salinger,Adolescentie
+De Naam van de Roos,Kloosters,Moorden,Umberto Eco,Religie,Mysteries
+De Duivelsverzen,Salman Rushdie,Blasfemie,Islam,India,Boekverbranding
+De Magiër,Fantasy,Boodschapper,Gredin,Alchemist,Schatten
+De Brief voor de Koning,Tiuri,Ridderschap,Geheimen,Menaures,Avontuur
+Moord op de Oriënt-Express,Hercule Poirot,Agatha Christie,Treinreis,Moordenaar,Paniek
+Interview with the Vampire,Vampiers,Anne Rice,Lestat de Lioncourt,Louis de Pointe du Lac,Eeuwigheid
+The Martian,NASA,Mars,Stranding,Mark Watney,Overleven
+De God Delusion,Richard Dawkins,Atheïsme,Godsdienst,Wetenschap,Evolutie
+Stoner,William Stoner,Universiteit,Docent,Tragiek,Reputatie
+De Boekendief,Nazi Duitsland,Dood,Boekdiefstal,Joodse Buren,Literatuur
+Alice,Wonderland,Sprookje,Konijn,Thee,Mad Hatter
+Sherlock Holmes,Detective,Dr. Watson,221B Baker Street,Elementair,Mysterie
+Karel ende Elegast,Middeleeuwen,Belofte,Roofridder,Adel,Woud
+Het Diner,Restaurant,Misdaad,Afrekening,Geheimen,Broers
+Max Havelaar,Multatuli,Koffie,Exploitatie,Nederlandse literatuur,Roman
+De Daad,Politie,Misdaad,Getuige,Hulp,Achtervolging
+De Reiziger,Tijdreizen,Schotland,Liefde,Oorlog,Highlands
+De Koningin,Nederland,Biografie,Beatrix,Troon,Koningshuis
+Dune,Woestijn,Kwisatz Haderach,Spice,Gom Jabbar,Orion
+The Bourne Identity,Geheugenverlies,CIA,Jason Bourne,Wapens,Verraders
+House of Leaves,Angst,Huis,Escher,Duisternis,Waanzin
+Meester van de Zwarte Molen,Tovenarij,Verval,Duister,Dwaasheid,Lotgevallen
+Animal Farm,Dieren,Communisme,Orwell,Revolutie,Parodie
+Water voor olifanten,Circus,Liefde,Grote Depressie,Jacob Jankowski,Rosie
+Het Parfum,Geur,Moordenaar,Geruchsorgan,Jean-Baptiste Grenouille,18e eeuw
+De kleine prins,Asteroid B612,Roos,Vos,Planeet,Le Petit Prince
+The Name of the Wind,Magie,Legende,Kvothe,Luitspeler,Universiteit
+De Koning van Katoren,Torens,Jeugdboek,Eenzaamheid,Stokoud,Maarten Toonder
+De Doelwitclub,Moord,Complot,Club,Spionnen,Aanslag
+De Geheime Tuin,Bloemen,Mary,Tuinman,Sleutel,Yorkshire
+De Hongerspelen,Katniss Everdeen,Peeta Mellark,Spelen,Capitool,Rebellion
+Vals spel,Todd Anderson,Neil Perry,Toneelstuk,Robin Williams,Carpe Diem
+De Smaragden Stad,Oz,Dorothy,Tovenaar,Smaragd,Vogelverschrikker
+De Ilias,Achilles,Troje,Grieken,Hector,Homerus
+Het Verloren Symbool,Robert Langdon,Washington D.C.,Vrijmetselarij,Symbologie,Pyramide
+Winnen of leren,Conor McGregor,MMA,UFC,Ierland,Octagon
+De Vijfde Berg,Elia,Bijbel,God,Koningin,Jezus
+De Duivelse Verbeelding,Cotton Malone,Nikola Tesla,Waarheidsserum,Vergeten Kunsten,Terra Mater
+De Drie Musketiers,Alexandre Dumas,Frankrijk,Athos,Porthos,Aramis
+De Storm,Shakespeare,Prospero,Ariel,Caliban,Miranda
+De Tunnel,Harry Bosch,Michael Connelly,LAPD,Detectieve,Cold Case
+Echt Gebeurd,Ron Simpson,Tortellini,Julia,Big Apple,Omelet
+De Weg,Cormac McCarthy,Post-Apocalypse,Man en Kind,Overleven,Reis
+Het Oude Testament,Mozes,Jozua,Adam,Eva,Abraham
+De Leeuw,de Heks en de Kleerkast,Narnia,Aslan,Edmund,Lucy,Witte Heks
+Giraffe,Langnek,Afrika,Vlekken,Safari,Hoog
+DNA,Genetisch,Chromosomen,Cel,Blauwdruk,Molecuul
+Schildpad,Traag,Huisdier,Schild,Groen,Reptiel
+Fotosynthese,Zonlicht,Koolstofdioxide,Zuurstof,Chlorofyl,Glucose
+Insecten,Vleugels,Zes poten,Antenne,Exoskelet,Zoem
+Haaien,Vin,Vleesetend,Oceaan,Grote witte,Kraakbeenachtig
+Zintuigen,Smaken,Horen,Zien,Ruiken,Tast
+Foto's,Camera,Beelden,Print,Fotograferen,Scherpstellen
+Koraalrif,Oceaan,Kleurrijk,Vis,Kust,Zeeleven
+Mieren,Kolonie,Werker,Blad,Koningin,Zoetigheid
+Menselijk lichaam,Botten,Bloedsomloop,Spieren,Weefsels,Organen
+Oerwoud,Tropisch,Blaadjes,Boomtoppen,Modderig,Vochtig
+Miereneters,Tong,Schubben,Eenzame wezen,Zuid-Amerika,Termieten
+Ziekten,Pathogeen,Besmettelijk,Symptomen,Immuniteit,Epidemie
+Voedselketen,Ecosysteem,Predatie,Prooi,Roofvogels,Herbivoren
+Spinnen,Web,Fobie,Gif,Spinachtige,Veel poten
+Bloemen,Geur,Kleurrijk,Bloemblaadjes,Bestuiving,Stengel
+Raketten,Ruimte,Vliegen,Brandstof,Wetenschap,Sateliet.
+Boom,Bladeren,Takken,Hout,Schors,Bos
+Cel,DNA,Kernen,Membraan,Chromosomen,Organismen
+Zeehond,Vin,Flippers,Water,IJs,Robben
+Virus,Infectie,Ziekte,RNA,Micro-organisme,Vaccin
+Dolfijn,Flipper,Intelligent,Oceaan,Zeezoogdier,Springen
+Voetafdruk,Stappen,Zool,Schoen,Grond,Spoor
+Neuron,Hersenen,Synapsen,Signaal,Zenuwstelsel,Elektrisch
+Grizzlybeer,Grommen,Natuur,Sterk,Warmte,Wilde dieren
+Microscoop,Zien,Vergroting,Lens,Onderzoek,Wetenschap
+Krokodil,Uitgestorven,Sterk,Water,Schubben,Reptiel
+Zonnebloem,Geel,Bloem,Zaad,Groot,Heliotropisme
+Stofwisseling,Enzymen,Katabolisme,Anabolisme,Adenosinetrifosfaat,Energie
+Ecosysteem,Biodiversiteit,Leefgebied,Samenleving,Voedselketen,Habitat
+Haarlok,Kapsel,Hoofd,Kam,Haar,Krullen
+Epidermis,Huid,Dermis,Laag,Bescherming,Zweet
+Plankton,Oceaan,Eencellig,Water,Voedselketen,Drijvend
+Bloedstolsel,Trombose,Aders,Bloed,Bloeding,Stollingsproces.
+Bij,Bloem,Bestuiven,Honing,Vleugels,Zoemen
+Venijn,Slangen,Gif,Tand,Spin,Steek
+Kakkerlak,Kruipen,Vleugels,Voelspriet,Vies,Schuilplaats
+Oceaan,Zee,Walvis,Vis,EB,Vloed
+Vacht,Wol,Haar,Vellen,Bont,Dik
+Cactus,Doornen,Woestijn,Water,Bloem,Mexicaans
+Uil,Nacht,Vogel,Roofdier,Veren,Uilenbal
+Zebra,Gestreept,Afrika,Dier,Wild,Paard
+Vensterbanktuin,Binnen,Pot,Groen,Water,Zomer
+Aardbei,Fruit,Rood,Zomer,Jam,Blad
+Tropisch fruit,Ananas,Mango,Papaja,Kokosnoot,Banaan
+Gazon,Gras,Maaien,Onkruid,Tuin,Grasmaaier
+Zoogdier,Borstvoeding,Melk,Warmbloedig,Vacht,Jong
+Modder,Vies,Water,Troebel,Slecht zicht,Varkens
+Kelk,Bloem,Vaas,Goblet,Bevestigd,Drinken
+Goudvis,Vis,Aquarium,Oranje,Water,Schubben
+Kikker,Springen,Kwaak,Insecten,Groen,Ogen
+Eik,Boom,Noten,Breed,Schors,Herfst
+Honingraat,Bijen,Zoet,Geel,Waskastjes,Bijenwas
+Knoopcel,Batterij,Elektriciteit,Rond,Plat,Lithium-ion
+Napoleon Bonaparte,Frankrijk,Keizer,Oorlog,Verbannen,Waterloo
+Mahatma Gandhi,Geweldloosheid,Leider,India,Onafhankelijkheid,Vrijheidsstrijder
+Cleopatra,Farao,Rome,Julius Caesar,Egypte,Koningin
+Julius Caesar,Rome,Keizer,Schrijver,Politicus,Moord
+Michelangelo,Kunsten,Schilderij,David,Plafond,Beeldhouwer
+Marie Curie,Radioactiviteit,Nobel,Wetenschapper,Chemie,Straling
+William Shakespeare,Toneel,Auteur,Hamlet,Romeo en Julia,Elizabethaans Engeland
+Isaac Newton,Zwaartekracht,Wetenschapper,Appel,Wiskunde,Fysica
+Beethoven,Muziek,Componist,Piano,Symfonie,Doven
+Charles Darwin,Evolutie,Natuurlijke selectie,Wetenschap,On the Origins of Species,Vinken
+Anne Frank,Holocaust,Dagboek,Ondergedoken,Joods,Amsterdam
+Queen Elizabeth I,Engeland,Tudor Dinastie,Koningin,Armada,Maagd Koningin
+Joan of Arc,Heilige,Krijger,Frankrijk,Engeland,Proces
+George Washington,Amerika,Onafhankelijkheid,President,Leger,Cherry Tree
+Genghis Khan,Mongolië,Verovering,Krijgsheer,Steppen,Rijk
+Abraham Lincoln,Burgeroorlog,Emancipatieproclamatie,Gettysburg,1865,Slavernij
+Helen Keller,Doofblind,Activist,Engels,Communicatie,Schrijver
+Tutanchamon,Egypte,Farao,Graf,Goud,Mummie
+Florence Nightingale,Verpleegster,Medicijnen,Hospitaal,Ziekenhuis,Gezondheid
+John F. Kennedy,President,Cuba-crisis,Dood,Amerika,Burgerrechten
+Harriet Tubman,Underground Railroad,Slavernij,Verzet,Activist,Bevrijding
+Johannes Gutenberg,Boekdrukkunst,Bijbel,Letters,Kerk,Uitvinding
+Elizabeth Cady Stanton,Vrouwenrechten,Stemrecht,Feminist,Conventie van Seneca Falls,Susan B. Anthony
+Marco Polo,Reizen,Verkenner,China,Zijderoute,Kublai Khan
+Susan B. Anthony,Vrouwenrechten,Feminist,Activist,Seneca Falls,Kiesrecht
+Galileo Galilei,Telescoop,Heliocentrisme,Ketterij,Wetenschapper,Toscaanse villa
+Johannes Vermeer,Schilder,Meisje met de parel,Gezicht op Delft,Lichte kleuren,Delftse meester
+Amelia Earhart,Piloot,Luchtvaart,Vliegtuig,Bermuda-driehoek,Verdwenen
+Alexander de Grote,Griekenland,Macedonië,Imperium,Conqueror,Slag bij Gaugamela
+Vincent van Gogh,Schilder,Sterrennacht,Oor,Zonnebloemen,Postimpressionisme
+Rosa Parks,Juridische segregatie,Burgerrechten,Activist,Bus,Montgomery
+Wolfgang Amadeus Mozart,Muziek,Componist,Piano,Genie,Oostenrijk
+Marie Antoinette,Franse Revolutie,Versailles,Koningin,Guillotine,Adellijke
+Christopher Columbus,Ontdekking,Kompass,Amerika,Zeeman,Spanje
+Thomas Edison,Gloeilamp,Elektriciteit,Uitvinding,Verlichting,Tesla
+Elizabeth II,Koningin,Verenigd Koninkrijk,Buckingham Palace,Commonwealth,Geboren
+Cleisthenes,Atheense democratie,Tyranny,Aristocraat,Hervorming,Griffioen
+Hernán Cortés,Azteken,Verovering,Meso-Amerika,Spanje,Goud
+Catherine de Medici,Franse koningin,Valois,Hugenoten,Guise,Bloedbruiloft
+William Wallace,Schotse onafhankelijkheid,Braveheart,Film,Krijger,Overwinning
+Wolfgang von Goethe,Duitsland,Faust,Literatuur,Klassiek,Romantiek
+Nikola Tesla,Uitvindingen,Elektriciteit,AC,Edison,Ontdekker
+George III,Koning,Engeland,Amerikaans-Kolonies,Kwaadheid,Psychose
+Ivan de Verschrikkelijke,Rusland,Tsaar,Opritsjniki,Geweld,Kreml
+Harriet Beecher Stowe,Slavernij,Rassenkwesties,Schrijver,Huisje Van Stowe,Feminisme
+Louis Pasteur,Microbiologie,Vaccin,Sterilisatie,Franse wetenschapper,Dranken
+Charlemagne,Frankrijk,Heilige Roomse Rijk,Keizer,Kerstening,Einhard
+Geronimo,Apache,Stammen,Krijger,Westelijke expansie,Verzet
+Anne Boleyn,Henry VIII,Tudor,Koningin,Executie,halsketting
+Karl Marx,Communisme,Theorie,Kapitalisme,Filosoof,Communistisch Manifest
+Sojourner Truth,Slavernij,Vrijheid,Activist,Afro-Amerikaans,Rede
+Louis Braille,Blind,Tactiel,Schrift,Uitvinder,Puntschrift
+Maria Montessori,Onderwijs,Montessori-methode,Pedagoog,Kinderen,Reggio Emilia
+Winston Churchill,Tweede Wereldoorlog,Premier,Sigaret,IJzeren Gordijn,Overwinning
+Elizabeth Blackwell,Eerste vrouwelijke dokter,Geneeskunde,Medisch,Pionier,Verenigde Staten
+Attila de Hun,Invaller,Europa,Mongolië,Woeste,Heerser
+Susan Sontag,Auteur,Essayist,Bewustzijn,Feministisch,SCHAPPELIJK
+Jacques Cousteau,Oceaan,Duiker,Uitvinder,Natuurbehoud,Kalypso
+Calamity Jane,Westen,Buffalo Bill,Scout,Revolverheld,Outlaw
+Marie-Antoinette,Franse Revolutie,Koningin,Let Them Eat Cake,Versailles,Guillotine
+Mao Zedong,Grote Sprong Voorwaarts,Rode Garde,Communistische Partij,Culturele Revolutie,Leider
+Ada Lovelace,Wiskunde,Computer,Analyste,Charles Babbage,Programmable
+Caligula,Romeinse keizer,Waanzin,Brutaliteit,Zustershuwelijk,Paard als senator
+Sam Houston,Texas Revolution,Lone Star State,Hoofdman,Alamo,Gouverneur
+Alexander Graham Bell,Telefoon,Uitvinder,Gehoorapparaat,Bell System,Communicatie
+Napoleon III,Keizer,Frankrijk,Bonaparte,Oorlog,Corsica
+Tutankhamun,Farao,Egypte,Mummie,Graf,Anubis
+Aphra Behn,Schrijver,Vrouw,Toneelstuk,Oprebellen,17e eeuw
+John Locke,Filosoof,Politiek,Mensenrechten,Liberalisme,Verlichting
+John Keats,Dichter,Romantiek,Ode,Nachttegaal,Tuberculose
+Franz Kafka,Schrijver,Praag,Kafkaësk,Proces,Droom
+Che Guevara,Guerrilla,Cuba,Revolutionair,Marxist,Assassination
+John Brown,Abolitionist,Slavernij,Kansas,Harper's Ferry,Geëxecuteerd
+Empress Dowager Cixi,Keizerin,China,Boksen,Verboden Stad,Xi'an
+Ivan Pavlov,Fysioloog,Klassieke conditioneringsleer,Hond,Speeksel,Nobel
+Mary Wollstonecraft,Feminisme,Activist,Schrijver,Gelijke rechten,Frankrijk
+Simon Bolivar,Onafhankelijkheid,Zuid-Amerika,Caracas,Gran Colombia,Staatsman
+Henry David Thoreau,Schrijver,Walden Pond,Burgerlijke ongehoorzaamheid,Natuur,Transcendentalisme
+Mata Hari,Danseres,Spion,Nederland,Eerste Wereldoorlog,Fusillade
+Napoleon's tegenspeler,Wellington,Engeland,Brit,Waterloo,Blücher
+Egyptische vorstin,farao,Nijl,Cleopatra,Caesar,Rome
+Burgerrechtenactivist,segregatie,Amerika,Black,geweldloosheid,racistisch
+Renaissance kunstenaar,Schilder,Mona Lisa,Vitruvian man,Laatste Avondmaal,Florence
+Romeinse generaal,Galliërs,verovering,Senaat,Caesar,Rome
+Wetenschapper en wiskundige,Zwaartekracht,appel,buigen,prisma,Cambridge
+Duitse componist,muzieknoten,symfonie,koor,piano,doof
+Engelse ontdekkingsreiziger,Amerika,wereldbol,kompas,reis,Victoria
+Franse schrijver,literatuur,toneelstukken,Romeo en Juliet,Macbeth,Verona
+Indiaanse leider,Mongoolse rijk,krijgsheer,verovering,nomaden,steppes
+Beroemde schilder,oor,sterrennacht,schilderij,zelfportret,gehoor
+Amerikaanse suffragette,vrouwenkiesrecht,stemrecht,Oregon,Seneca Falls,kiesrecht
+Grote wetenschapper,relativiteit,zwaartekracht,theorie,Duitse,fysica
+Oud-Griekse filosoof,Socratische methode,wijsheid,kennis,Plato,Sofistische
+Engelse verpleegster,Krimoorlog,hospitalen,rode kruis,gezondheid,verpleging
+Amerikaanse politicus,grondwet,onafhankelijkheid,president,rivier,Unie
+Ruimtereiziger,Maan,Apollo,lanceerplatform,astronaut,ruimtevaart
+Mexicaanse schilderes,surrealistisch,zelfportretten,miskraam,Viva la Vida,Kahlo
+Romeinse politicus,senaat,Vestaalse maagden,dictatuur,Galliërs,censuur
+Napoleon's broer,Keizer,Bonaparte,Frankrijk,Strijder,Cursus
+Egyptische farao,Toetanchamon,Groot,Dodenmasker,Thebe,Vallei der Koningen
+Amerikaanse Founding Father,Onafhankelijkheid,Washington,President,Grondwet,Oorlog
+Renaissance schilder,Mona Lisa,Sfumato,Florence,Kunst,Meesterwerk
+Romeinse keizerin,Antoninus,Tuin,Columna,Mantel,Huis
+Middeleeuwse kathedraalbouwer,Notre-Dame,Gargouilles,Glas-in-lood,Paris,Gotisch
+Russische monarch,Tsaar,Anastasia,Sint-Petersburg,Romanov,Revolutie
+Amerikaanse burgerrechtenactivist,I have a dream,Montgomery,Martin Luther,Segregatie,Selma
+Franse revolutionaire leider,Jacobijnen,Sans-culotten,Terreur,Guillotine,Republiek
+Spaanse kunstenaar,Picasso,Guernica,Malaga,Schilder,Kubisme
+Chinese keizer,China,Paleis,Goud,Muur,Yuan
+Britse staatsman,Imperialisme,Eerste Wereldoorlog,Vrede,Churchill,Premier
+Griekse filosoof,Socratische methode,Plato,Ideeënwereld,Aristoteles,Wijsheid
+Russische schrijfster,Anna Karenina,Oorlog en vrede,Moskou,Ivan,Roman
+Japanse keizer,Shogun,Tokyo,Meiji,Samurai,Macht
+Romeinse veldheer,Colosseum,Augustus,Senaat,Legioen,Caesar
+Italiaanse ontdekkingsreiziger,Amerigo Vespucci,Columbus,Navigatie,Nieuwe Wereld,Handel
+Russische dichter,Onegin,St. Petersburg,Liefdesverdriet,Poesjkin,Literatuur
+Spaanse avonturier,Conquistadores,Nieuwe Wereld,Zuid-Amerika,Verovering,Azteken
+Koningin Victoria,Engeland,Monarchie,Koninklijk,Troon,Victoriaanse tijdperk
+Johannes Kepler,Planeten,Banen,Zwaartekracht,Hemellichamen,Rekenen
+Constantijn de Grote,Christendom,Rome,Keizer,Bekeer,Laatste
+Simón Bolívar,Onafhankelijkheid,Vrijheid,Latijns-Amerika,Revolutie,Leider
+Koolstof,Element,Chemie,Organisch,Zes,Verbinding
+Bunsenbrander,Vuur,Gas,Brander,Chemie,Laboratorium
+Enzym,Proteïne,Biologie,Katalysator,Eiwit,Actief centrum
+Zuur,Waterstofionen,Basen,pH,Neutralisatie,Smakelijk
+Elektrolyt,Ion,Dissociatie,Geleiding,Acceptor,Donor
+Periodiek systeem,Elementen,Atomen,Tabel,Groepen,Perioden
+Kristal,Structuur,Molecuul,Raster,Röntgen diffractie,Vaste stof
+Polymeer,Monomeer,Kunststof,Synthese,Chemie,Molecuul
+Redox,Elektrolyse,Oxidatie,Reductie,Elektronen,Halfreactie
+Analyse,Chemie,Cuve,Titratie,Spectrometer,Laboratorium
+Isotoop,Massa,Neutronen,Protonen,Radioactiviteit,Atomaire massa-eenheid
+Derivaten,Alkanen,Functionele groep,Organische chemie,Moleculaire structuur,Reactiviteit
+Zelforganisatie,Complexiteit,Emergentie,Patroon,Chaostheorie,Fysische attractor
+Reactiemechanisme,Organische chemie,Nucleofilie,Elektrofiel,Reactietussenproducten,Chemische reactiesnelheid
+Schaal,Millennium,Nanostructuur,Microscoop,Klasse,Systeemniveau
+Faseovergang,Smelten,Punt,Gefaseerd diagram,Kritisch punt,Superkritisch gas
+Kieming,Samenwerking,Metabolisme,Latente energie,Ontluikend,Hout
+Metabolisch pad,Catabolisme,Anabolisme,Energie,Enzymen,Biosynthese.
+Zout,Natrium,Chloor,Kristal,Ion,Elektrolyt
+Vlam,Verbranding,Hitte,Gas,Licht,Warmte
+Atomen,Elementen,Elektronen,Protonen,Neutronen,Kern
+Reactie,Katalysator,Concentratie,Evenwicht,Mechanisme,Energie
+Oxidatie,Elektrochemie,Reductie,Reactie,Verbranding,Elektronenoverdracht
+Stereoisomeer,Spiegelbeeld,Chiraliteit,Asymmetrie,Configuratie,Isomerie
+Eiwit,Aminozuur,Structuur,Enzym,Peptide,Polymeren
+Organische chemie,Koolstof,Reagentia,Synthese,Functionele groep,Isomeer
+Biochemie,Moleculair,Celsysteem,Biosynthese,Metabolieten,Enzymen
+Polymeren,Monomeer,Synthese,Plastic,Elastomeer,Additieven
+Periodieke trend,Periodiek systeem,Chemische eigenschappen,Elementen,Elektronegativiteit,Groep
+Elektrochemie,Batterij,Redoxreactie,Elektrode,Potentiaal,Elektrolyse
+Anorganische chemie,Mineralen,Metalen,Zouten,Chemisch,Organisch
+Chemisch evenwicht,Concentratie,Reactie,constanten,Le Châtelier,Omkeerbaarheid
+Element,Atoomnummer,Molecuul,Verbinding,Periodiek systeem,Elektron
+Molecule,Atoom,Element,Structuur,Binding,Verbinding
+Oplosmiddel,Water,Mengsel,Scheiding,Polarisatie,Zuiverheid
+pH,Zuurgraad,Zuur,Base,Neutraliteit,Buffer
+Valentieschil,Elektron,Atoom,Bindende elektronenpaar,Niet-bindend elektronenpaar,Lewisstructuur
+Ester,Zuur,Alcohol,Hydrolyse,Condensatie,Katalysator
+Reductie,Oxidatie,Elektron,Halfreactie,Elektronendonor,Redoxreactie
+Isomeer,Structuur,Molecuul,Positie-isomeer,Stereo-isomeer,Optische activiteit
+Endotherm,Warmte,Energie,Warmtecapaciteit,Katalysator,Exotherm
+Ketozuur,Keton,Carbonzuur,Zuur,Hydroxylgroep,Ketozuurderivaat
+Ionisch,Elektrovalentie,Kristal,Elektron,Uitwisselingsreactie,Ionenbinding
+Elektronegativiteit,Atoomradius,Ionisatie-energie,Elektronenaffiniteit,Pauling-schaal,Covalentie
+Enantiomeer,Optische activiteit,Stereochemie,Chiraliteit,Isomeer,Molecuul
+Dipoolmoment,Bijdrage,Polariteit,Covalente binding,Elektrische veldsterkte,Elektronegativiteit
+Waterstofbrug,Water,Binden,Atomen,Hydrogen bonding,Baggerschip
+Periodieke Tabel,Element,Groepen,Periode,Metalen,Ionen
+Elektronenconfiguratie,Orbitalen,Schillen,Valentie-elektronen,Spectroscopie,Spin
+Covalente binding,Elektronenpaar,Vast,Elektronegativiteit,Hybridisatie,Molecuulgeometrie
+Chemische reactie,Producten,Katalysator,Thermodynamica,Evenwicht,Spectroscopie
+Hydrolyse,Verbreken,Chemische reactie,Water,Zuur,Enzymen
+Ionische binding,Elektrostatisch,Elektronegativiteit,Metalen,Zouten,Ion
+Redox reactie,Oxidatie,Elektronenoverdracht,Reductie,Halfreactie,Voltage
+Entropie,Wanorde,Thermodynamica,Entalpie,Grootte,Gas
+Van der Waals krachten,Atomen,Moleculen,Dipolair,Sterisch,Covalent
+Polarisatie,Dipoolmoment,Ionen,Symmetrie,Elektronen,Sluiermodel
+Carbonaten,Koolstof,Geologie,Zuurgraad,Fossiel,Shell
+Titratie,Zuur,Base,Neutraal,pH,Analyse
+Elektrolyse,Elektroden,Reductie,Oxidatie,Stroom,Elektronen
+Atomaire emissiespectroscopie,Elektronen,Orbitalen,Spectroscopie,Licht,Energieovergang
+Halfwaardetijd,Radioactiviteit,Isotoop,Verval,Tijd,Straling
+Fosforylering,Energie,ADP,ATP,Kinase,Enzymen
+Moleculaire geometrie,Hybridisatie,Elektronenpaar,Lewisstructuur,Covalent,Vorm.
+Ion,Atomen,Elektrisch geladen,Elektronen,Molecuul,Neutron
+Plasma,Gas,Ionisatie,Geleidbaarheid,Bloed,Laser
+Ethanol,Alcohol,Drank,Brandstof,Vergisting,Vuur
+Periodate,Iodine,Oxidatie,Reductie,Reactie,Zuren
+Isopreen,Monomeer,Polymeer,Onverzadigd,Rubber,Butadieen
+Lood,Metaal,Vergiftiging,Batterijen,Kristallen,Zuren
+Neon,Edelgas,Lamp,Plasma,Kleurloos,Niet-reactief
+Glucose,Suiker,Koolhydraat,Energie,Cellen,Insuline
+Jodium,Halogeen,Desinfectiemiddel,Kleur,Thyroxine,Bleekmiddel
+Goud,Edelmetaal,Sieraad,Monetaire waarde,Elektroden,Vergulden
+Nucleïnezuur,DNA,RNA,Chromosomen,Genen,Coderen
+Nitriet,Stikstof,Levensmiddelenadditief,Kleurloos,Toxiciteit,Bacteriën
+Osmose,Diffusie,Concentratie,Membraan,Geleidend,Water
+Zin,Element,Bruikbaarheid,Sporenelement,Beschermlaag,Voedingsmiddelen
+Alkaan,Organisch,Petroleum,Verschillende bindingsstructuren,Gas,Vloeistof
+Katalysatorzym,Eiwit,Enzym,Reactiemechanisme,Substraat,Stereoselectief
+Radium,Radioactief,Alfastraling,Atoommodel,Jodieke verstrooiing,Elementair
+Vlamtest,Spectroscopie,Emissie,Atomen,Analyse,Vlam
+Reactiesnelheid,Kinetiek,Tijd,Enzym,Concentratie,Vertraging
+Mol,Atoom,Molecuul,Gram,Deeltjes,Stofmoleculen
+Grondstof,Materiaal,Chemie,Product,Synthese,Halffabricaat
+Reactor,Kernenergie,Controle,Fusie,Splijting,Ruimte
+Chemische binding,Ionen,Covalent,Elektronen,Molecuul,Valentieschil
+Polyethyleen,Kunststof,Polymeer,Synthese,Molecuul,Samengesteld
+Zilver,Edelmetaal,Materiaal,Chemie,Elektrisch,Zuiverheid
+Structuurformule,Molecule,Chemie,Formule,Structuur,Tekenen
+Explosief,Ontploffing,Veiligheid,Buskruit,Dynamiet,Werking
+Gaswet,Druk,Volume,Temperatuur,Wet,Ideaal gas
+Middeleeuwen,Ridders,Kasteel,Toverdrank,Boogschutter,Zwaard
+De Vikingen,Noormannen,Drakkar,Plunderen,Thor,Scandinavië
+De Koude Oorlog,Spionage,Kernwapen,Berlijnse Muur,Cuba Crisis,McCarthyisme
+De Franse Revolutie,Louis XVI,Guillotine,Terreur,Republiek,Napoleon Bonaparte
+De Grote Piramide,Oudheid,Egypte,Farao,Grafkamer,Bouwwerk
+De Slag bij Waterloo,Napoleon,Wellington,Cavalerie,Pruisen,Veldslag
+De Industriële Revolutie,Stoommachine,Massaproductie,Trein,Spinning Jenny,Katoenfabrieken
+De ontdekking van Amerika,Columbus,Indiaan,Ontdekkingsreizen,Nieuwe Wereld,Conquistador
+Adolf Hitler,Nazi,Oorlog,Holocaust,Mein Kampf,Dictator
+De Verenigde Staten van Amerika,Onafhankelijkheid,Burgerrechten,Revolutie,Grondwet,Westward Expansion
+De Renaissance,Kunst,Humanisme,Italië,Vrijheid,Michelangelo
+De Oude Grieken,Olymische Spelen,Socrates,Filosofie,Mythologie,Tempels
+De Egyptische farao's,Piramide,Mummie,Sphinx,Nijl,Farao's
+Het Wilde Westen,Cowboys,Indianen,Saloons,Pistolen,Buffalo Bill
+Het Romeinse Rijk,Julius Ceasar,Gladiatoren,Legioenen,Colosseum,Pax Romana
+De Eerste Wereldoorlog,Loopgraven,Atilla de Hun,Wapens,Duitsland,Oostenrijk
+Het oude China,Confucianisme,Taoïsme,Keizers,Zijderoute,Mandarijnen
+Het oude Egypte,Mummie,Nijl,Hieroglyfen,Farao's,Tombe
+De Maya-beschaving,Tikal,Kalender,Offeren,Tempels,Chichén Itzá
+Het Colosseum,Rome,Amfitheater,Gladiatoren,Keizer,Arena
+Jane Austen,Drama,Manuscript,Roman,Mr. Darcy,Regency
+De renaissance,Leonardo da Vinci,Kunst,Humanisme,Wetenschap,Italiaans
+Het riddertijdperk,Kasteel,Zwaard,Kruistocht,Ridderschap,Pijl en boog
+De Grote Chineze Muur,Peking,Verdediging,Ming-dynastie,Lengte,Toerisme
+De Eerste Maanlanding,Apollo 11,Armstrong,Ruimtevaart,Vlag,Houston
+De Inca-cultuur,Machu Picchu,Quechua,Zonnetempel,Cuzco,Pizarro
+De industriële revolutie,Stoommachine,Machines,Textielfabrieken,James Watt,Manchester
+De Vrijheidsbel,Onafhankelijkheid,Philadelphia,Liberty Bell,Founding Fathers,Geschiedenis
+De Melkweg,Sterren,Zonnestelsel,Astronomie,Ruimte,Galaxies
+De Zijderoute,Handel,Karavaan,Oost en West,Merchants,Paarden
+De Maya-ark,Midden-Amerika,Geheimzinnig,Machu Picchu,Bouwwerk,Esoterie
+Het Bijbelverhaal van David en Goliath,Filistijnen,Slag,Steen,Bijbel,Geloven
+De Grote Depressie,Wereldwijde economie,Wall Street Crash,President Roosevelt,Werkeloosheid,1930's
+De Azteken,Montezuma,Tenochtitlán,Offerfeesten,Quetzalcoatl,Tempel van de Zon
+De ontdekking van de theorie van de evolutie,Charles Darwin,Natuurselectie,Soort,Arya,Evolutie
+De Amerikaanse Burgeroorlog,Lincoln,Zuiden,Gettysburg,Slavernij,Lee
+Heksenjacht,Bijgeloof,Toverij,Bezeten,Vervolging,Verbranding
+De uitvinding van de telefoon,Bell,Bellen,Alexander,Uitvinding,Communicatie
+Piraterij,Zeerovers,Schedel en beenderen,Schatkaarten,Schip enteren,Boekaniers
+De Amerikaanse Onafhankelijkheidsoorlog,Revolutionair,George Washington,Engeland,Boston Tea Party,Vrijheidsstrijd
+De middeleeuwse pest,Zwarte dood,Ziekte,Epidemie,Bacterie,Europa
+Het oude Indië,Boeddha,Hindoeïsme,Kastenstelsel,Meditatie,Yoga
+De Russische Revolutie,Lenin,Tsarina,Bolsjewieken,Rode Leger,Oktoberrevolutie
+De Griekse mythologie,Mythen,Goden,Olympos,Troje,Helden
+De middeleeuwse kruistochten,Heilige Oorlog,Jodenhaat,Religie,Jerusalem,Tempeliers
+De Maanlanding van 1969,Apollo,Neil Armstrong,NASA,Ruimtevaart,Maan
+De Aswoestijn van Pompeii,Vulkanische uitbarsting,Lava,Pompeii,Romeinen,Ramp
+De Keltische cultuur,Druiden,Offer,Koning Arthur,Mystiek,Tatoeages
+De Franse adel,Lodewijk XIV,Versailles,Boudoir,Pétards,Aristocratie
+De Chinese Muur,China,Lengte,Verdediging,Torens,Wandelen
+Het Leven van Julius Caesar,Rome,Caesar,Dictator,Senaat,Ides van Maart
+Het oude Rome,Colosseum,Caesar,Keizer,Legioen,Senaat
+De Franse ontdekkingsreizigers,Jacques Cartier,Samuel de Champlain,Nieuw-Frankrijk,Quebec,Exploratie
+De Burgerrechtenbeweging in de VS,Martin Luther King Jr.,Segregatie,Racisme,Protest,Mars
+Dinosaurussen,Fossielen,Meteoriet,Uitgestorven,Tijdperk,Evolutie
+De Titanic,IJsberg,Schipbreuk,Passagiers,Oceaan,Southampton
+De Russische tsaar Nicolaas II,Bolsjewieken,Februari-revolutie,Geëxecuteerd,Hemofilie,Raspoetin
+De Maya-kalender,Apocalyps,Tempels,Voorspellingen,Maya-cultuur,Zonnestelsel
+De Ontdekkingsreizigers van de Nieuwe Wereld,Columbus,Conquistadores,Azteken,Inca's,Navigatie
+De oprichting van de Verenigde Naties,Wereldoorlog II,Churchill,Roosevelt,Charter,Veiligheidsraad
+Het verdrag van Versailles,Eerste Wereldoorlog,Vredesovereenkomst,Duitsland,Reparaties,Wilson
+De uitvinding van de drukpers,Gutenberg,Boeken,Inkt,Gutenbergbijbel,Massaproductie
+Het oude Griekse Olympische Spelen,Atleten,Zeus,Altis,Corinthische zuilen,Atheense democratie
+De Inquisitie,Marteling,Ketterij,Rooms-Katholieke Kerk,Heilige Officie,Heksenprocessen
+De middeleeuwse kathedralen,Gotiek,Kapittel,Byrgien,Boogspant,Heilige Maagd Maria
+Tsaar Peter de Grote,Sint-Petersburg,Russische Marine,Groot Hertog,Peterhof,Modernisering
+Noormannen,Oostzee,Scandinavië,Vikingen,Schepen,Handel
+De hongerwinter,Tweede Wereldoorlog,Bezetting,Rantsoen,Voedseltekort,Honger
+De Gouden Eeuw,Nederland,Handel,Rembrandt,Delfts Blauw,Gewesten
+Het oude Perzië,Cyrus de Grote,Persepolis,Satrapie,Sassanidische Rijk,Achaemenidische Rijk
+De Atomaire Bombardementen op Japan,Hiroshima,Nagasaki,Tweede Wereldoorlog,Kernwapens,Truman
+De Dinosaurussen,Uitgestorven,Paleontologie,Fossielen,Jura-tijdperk,T-Rex
+De Mayabeschaving,Oerwoud,Tempels,Hiërogliefen,Getallenstelsel,Balspel
+De Verlichting,Kant,Rousseau,Verdraagzaamheid,Rede,Mensenrechten
+De ontdekking van Australië,Aboriginals,James Cook,Terra Incognita,Kangoeroes,Botany Bay
+Het Oude Egypte,Farao's,Polytheïsme,Mummificatie,Nijl,Pyramides
+De Middeleeuwse Ridders,Harnas,Kasteel,Zwaardvechten,Kruistocht,Jousting
+De Holocaust,Auschwitz,Concentratiekampen,Fascisme,Joden,Hitler
+De Europese Ontdekkingsreizen,Columbus,Vasco da Gama,Zeeweg naar India,Marco Polo,Conquistadores
+Piramide,Egypte,Graf,Mummie,Sphinx,Faraon
+Romeinse soldaat,Gladiator,Julius Caesar,Colosseum,Legioen,Keizer
+Vikinghelm,Noormannen,Drakkar,Helm,Scandinavië,Plunderen
+Grieks theater,Sophocles,Aeschylus,Athene,Drama,Maskers
+Darwin's evolutietheorie,Natuurlijke selectie,Ontwikkeling,Soorten,Adaptatie,Charles Darwin
+Columbus,Amerika,Ontdekking,Zeereizen,Spanje,Santo Domingo
+Middeleeuws kasteel,Koude oorlog,Ridders,Moat,Vesting,Torens
+Egyptische goden,Osiris,Ra,Anubis,Mythologie,Horus
+Napoleon's Waterloo,Wellington,Frankrijk,Leidende rol,Verlies,Europese oorlog
+Heksenprocessen,Salem,Ketterij,Toverij,Vervolging,Duivels
+Oude Maya-tempel,Kalender,Copan,Stèles,Glyphen,Tikal
+Het gouden tijdperk van Griekenland,Alexander de Grote,Mycene,Athene,Sparta,Filosofen
+Rusland's Tsaren,Romanov,Peter de Grote,Winterpaleis,Kiev,Regentes
+De Japanse shoguns,Tokugawa,Samurai,Feodalisme,Edo,Slagzwaard
+Middeleeuwse hoefsmid,Smederij,Gereedschap,Paarden,Steekwagen,Smid
+De Franse Drie-eenheid,Liberté,Égalité,Fraternité,Vlag,Marianne
+Apollo 11,Maan,Ruimtevaart,Armstrong,NASA,Lancering
+De Grote Muur van China,Chinese Muur,Bouwwerk,Veldslagen,Keizer,Azië
+De Middeleeuwen,Tijdperk,Kasteel,Ridders,Feodaal systeem,Zwaardgevechten
+De Gouden Eeuw in Nederland,Schilderkunst,Handel,Koloniën,Scheepvaart,Oranje
+Kathedraal van Notre-Dame,Parijs,Religie,Gotische architectuur,Quasimodo,Brand
+Het Rijk van Mali,Mansa Musa,Goud,Timboektoe,Islam,Sahara-woestijn
+De Middeleeuwse kruistochten,Heilige oorlog,Jeruzalem,Tempeliers,Richard Leeuwenhart,Moslims
+De Oude Egyptische farao's,Ramses,Cleopatra,Nijl,Anubis,Mummificatie
+Churchill,Engels,Premier,Oorlog,Sigaret,Londen
+Mondkapje,Virus,Pandemie,Gezondheid,Neus,Mond
+Kathedraal,Kerk,Geloof,Gebouw,Gebed,Bisschop
+Geisha,Japan,Kimono,Thee,Dans,Traditioneel
+Gouden Eeuw,Nederland,Handel,Schilderijen,Kunst,Zeevaart
+Renaissance,Kunst,Italië,Vernieuwing,Humanisme,Barok
+Vikingen,Schip,Strijders,Noorwegen,Scandinavië,Helmen
+Montgolfier,Ballonvaart,Aerostat,Vuur,Lucht,Frankrijk
+Griekse mythologie,Goden,Olympus,Helden,Mythen,Trojaanse oorlog
+Holocaust,Joden,Auschwitz,Concentratiekampen,Hitler,Genocide
+Berlijnse Muur,Koude Oorlog,Duitsland,Grens,Muur,Oost-West
+Ghandi,Onafhankelijkheid,India,Vrijheid,Geweldloosheid,Groot-Brittannië
+De Amerikaanse Revolutie,Onafhankelijkheid,Oorlog,George Washington,Britten,Theepartij
+Gouden Koets,Koninklijk,Feestdag,Nederland,Rijtuig,Oranje
+Zonnekoning,Versailles,Frankrijk,Lodewijk XIV,Hof,Koning
+Titanic,Boot,IJsberg,Jack,Rose,Leonardo DiCaprio
+Slavernij,Mensenhandel,Plantage,Vrijheid,Kolonie,Afrika
+Vietnamoorlog,Amerika,Protest,Guerrilla,Agent Orange,Communisten
+De Neanderthalers,Prehistorie,Evolutie,Jager-verzamelaar,Uitgestorven,Mensachtigen
+De Holle Bolle Gijs,Efteling,Attractie,Sprookjesbos,Ton,Papier-maché
+De Toren van Pisa,Schuin,Italië,Architectuur,Kathedraal,Toscane
+De Kelten,Druïden,Ogham,Mythen,Ierland,Goudsmeden
+De Honderdjarige Oorlog,Frankrijk,Engeland,Jeanne d'Arc,Nationale symbolen,Vrede
+De Karolingische Renaissance,Karel de Grote,Latijn,Benedictijnen,Alcuin,Paltskapel
+De Oude Romeinen,Cicero,Centurio,Senaat,Gladius,Legioen
+De Maya-tempels,Centraal-Amerika,Beschaving,Offeren,Kalender,Piramide
+De Vietnamoorlog,Guerrillaoorlog,Protests,Luchtbombardement,Conflict,VS
+De Slavernij,Mensenhandel,Kolonialisme,Trans-Atlantische,Racisme,Abolitionisme
+De Zonnekoning,Lodewijk XIV,Versailles,Absolute monarchie,Hofhouding,Oorlog
+De Gouden Koets,Koningshuis,Prinsjesdag,Vandalisme,Goud,Kritiek
+Verboden woorden: China,Muur,Keizerrijk,Bevelhebber,Bouwwerk
+Verboden woorden: Fabrieken,Machines,Textiel,Handwerk,Stoommachine
+Verboden woorden: Rassenscheiding,Bussen,Rosa Parks,Malcolm X,Martin Luther King
+Verboden woorden: Goden,Olympus,Mythen,Hades,Zeus
+Verboden woorden: Heilige Land,Tempeliers,Jerusalem,Paus,Sultanaat
+Verboden woorden: Athene,Sparta,Pericles,Peloponnesische Oorlog,Democratisch
+Verboden woorden: Meso-Amerika,Guatemala,Mexico,Krijgers,Schrift
+Verboden woorden: Efteling,Afval,Prullenbak,Stem,Sprookje
+Verboden woorden: Italië,Schuine,Duomo,Campanile,Toscane
+Verboden woorden: Evolutie,Homo Sapiens,Jager-verzamelaars,Uitgestorven,Prehistorie
+Verboden woorden: Engeland,Frankrijk,Joan of Arc,Karel de Grote,Huwelijksverdrag
+Verboden woorden: David,Sixtijnse Kapel,Beeldhouwer,Schilder,Renaissance
+Verboden woorden: Karel de Grote,Heilige Roomse Rijk,Schriftcultuur,Bibliotheek,Kloosters
+Verboden woorden: Gladiatoren,Julius Caesar,Colosseum,Legioenen,Keizers
+Verboden woorden: Versailles,Lodewijk XIV,Absolutisme,Hovenier,Hoofdsteun
+Verboden woorden: VS,Guerrilla,Agent Orange,Ho Chi Minh,Tet-offensief
+Verboden woorden: Mensenhandel,Apartheid,Plantages,Transatlantische,Racisme
+Verboden woorden: Meisje met de Parel,Delft,Hollandse Meesters,Camera Obscura,Lichtinval
+Verboden woorden: Rembrandt,VOC,Amsterdam,Zeehandel,Tulpenmanie
+Verboden woorden: Symfonieën,Doven,Piano,Duitsland,Componist
+De Berlijnse Muur,Koude Oorlog,Duitsland,Communisten,Grens,Muur
+De Middeleeuwse Heksenjacht,Vervloeking,Bezetenheid,Magie,Brandstapel,Duivel
+De Egyptische Pyramides,Graf,Mummie,Farao,Nijl,Tempel
+De Slag bij Stalingrad,Operatie Barbarossa,Rode leger,Wolga,Maxim,Churchill
+Het Byzantijnse Rijk,Constantijn,Istanbul,Keizer,Grieks,Orthodoxie
+De Franse Koningen,Lodewijk,Versailles,Bourbon,Revolutie,Adel
+Het Oude Griekenland,Zeus,Olympische spelen,Athene,Mythen,Filosofie
+De Middeleeuwse Kathedralen,Gotiek,Relikwie,Glas-in-lood,Kapittel,Toren
+Het Romeinse Keizerrijk,Caesar,Colosseum,Julius,Legioen,Pax Romana
+Het leven van Cleopatra,Ptolemaeus,Antony,Egypte,Nefertiti,Farao
+De Franse Ontdekkingsreizigers,Champlain,La Salle,Marquette,Louisiana,Canada
+Mozart,Opera,Muzikaal genie,Oostenrijk,Pianist,Componist
+Apollo 13,De maan,Ruimte,Missie,Astronauten,Houston
+De Middeleeuwse hoefsmid,Ambacht,Paard,Harnas,Zwaard,Zoömorfisme
+De Vikinghelm,Drakkar,Berserkers,Rode baard,Thor,Odin
+Klimaatverandering,Opwarming van de aarde,Broeikaseffect,CO2-uitstoot,Smeltend ijs,Extreme weersomstandigheden
+Verkiezingen,Stemmen,Campagne,Partij,Kandidaat,Stemhokje
+Brexit,Europa,Verenigd Koninkrijk,Referendum,Akkoord,Nigel Farage
+Communisme,Kapitalisme,Marxistisch,Leninisme,Sovjet-Unie,Collectief
+Populisme,Charisma,Demagogie,Nationalisme,Anti-establishment,Leider
+Liberale democratie,Vrijheid van meningsuiting,Grondwet,Parlement,Rechtsstaat,Verkiezingen
+Sociale zekerheid,Uitkering,Solidariteit,Zorgstelsel,Werkloosheid,Verzekering
+Vluchtelingen,Migranten,Asielzoekers,Grenzen,Integratie,Oorlog
+Europese Unie,Euro,Schengen,Verdrag van Maastricht,Commissie,Europarlement
+Nationalisme,Patriottisme,Onafhankelijkheid,Identiteit,Grenzen,Cultureel
+Corruptie,Omkoping,Misbruik van macht,Fraude,Witwassen,Schandalen
+Abortus,Pro-life,Zwangerschapsonderbreking,Vrouwenrechten,Wetgeving,Fetus
+Palestijnse kwestie,Bezetting,Tweestatenoplossing,Intifada,Gaza,Oslo-akkoord
+Handelsbeleid,Globalisering,Tarieven,Vrijhandel,Protectionisme,Export
+Diversiteit,Inclusie,Tolerantie,Pluriformiteit,Multiculturalisme,Discriminatie
+Populaire democratie,Directe democratie,Burgerinitiatief,Constitutie,Referendum,Volksvertegenwoordiging
+Coalitie,Samenwerking,Partijen,Breekpunt,Kabinet,Regering
+Stem,Siberisch potlood,Urne,Verkiezingen,Campagne,Democratisch proces
+Diplomatie,Verdragen,Politiek,Buitenland,Ambassadeur,Ministerie
+Dissident,Regime,Vrijheid van meningsuiting,Censuur,Activisme,Demonstratie
+Staten,Territorium,Staatshoofd,Grondwet,Federatie,Parlement
+Lobby,Belangenbehartiging,Druk uitoefenen,Lobbyisten,Corporation,Sponsor
+Machtsverhouding,Hiërarchie,Dominantie,Positie,Autoriteit,Overheersing
+Wetgeving,Artikel,Regelingen,Amendement,Staatssecretaris,Kamerstuk
+Beleid,Programma,Agenda,Doelen,Maatregelen,Uitvoering
+Parlement,Volksvertegenwoordiging,Tweede Kamer,Senaat,Plenaire vergadering,Voorzitter
+Diplomaat,Buitenlandse zaken,Ambassadeur,Onderhandelingen,Oorlogsvoering,Protocol
+Verdrag,Internationaal,Ondertekening,Overeenkomst,Verdragspartij,Uitvoerbaarheid
+Politici,Carrière,Verkiezing,Partijdiscipline,Kiezers,Regeringsverantwoordelijkheid
+Burgerrechten,Discriminatie,Gelijkheid,Grondwet,Persoonlijke vrijheid,Mensenrechten
+Terrorismebestrijding,Veiligheid,Terrorisme,Strafrechtelijke vervolging,Intel,Inlichtingendienst
+Rechten van minderheden,Tegengestelde posities,Intolerantie,Etnische groepen,Culturele rechten,Ontwikkelingslanden
+Diplomatieke betrekkingen,Vertegenwoordiging,Ambassades,Grensoverschrijdende samenwerking,Souvereiniteit,Allianties
+Protocol,Bepalingen,Vastleggen protocollen,Agenda's,Bureaucratie,Hiërarchie
+Kiesstelsel,Evenredige vertegenwoordiging,Meerderheidsstelsel,Politieke partijen,Stemmen,Kiesdistricten.
+Obama,Democraten,Republikeinen,President,Amerika,Witte Huis
+Premier,Regering,Minister,Kabinet,Kiesdistrict,Kiescampagne
+Veto,Blokkeren,Besluit,Rechten,Wetsvoorstel,Beslissing
+Stemrecht,Verkiezingen,Politiek,Stemmen,Verkiezingsuitslag,Burger
+Verenigde Naties,Wereldorde,Mensenrechtenraad,Internationaal recht,Duurzame ontwikkeling,Veto
+Burgemeester,Gemeente,College,Raad,Verkiezingen,Ambtenaar
+Nobelprijs,Literatuur,Vrede,Economie,Fysica,Geneeskunde
+Publiek debat,Discussies,Argumenten,Meningsverschillen,Scherpslijperij,Ruzie
+Europese Raad,Europese Commissie,Parlement,Verdrag van Lissabon,Euro,Migratie
+Diversiteit op de werkvloer,Discriminatie,Quotum,Gelijke kansen,HRM,Carrière
+Dictator,Totalitarisme,Onderdrukking,Indoctrinatie,Mensenrechten,Revolutie
+Landbouwbeleid,Voedselzekerheid,Subsidies,Milieu,Export,Gewassen
+Veiligheidsraad van de VN,Internationale veiligheid,VN-vredesmissies,Kernwapens,Terreur,Conflict
+Budget voor ontwikkelingssamenwerking,Hulporganisaties,Geopolitiek,Afrika,Azië,Oxfam
+Energiebeleid,Fossiele brandstoffen,Duurzame energie,Klimaatverandering,CO2-uitstoot,Energieakkoord
+Noodtoestand,Terreur,Burgeroorlog,Sabotage,Staatsgreep,Ramp
+Lobbyen,Belangenbehartiging,Corruptie,Transparantie,Politieke invloed,Bestuurskunde
+Gemiddelde,Statistiek,Mediaan,Modus,Berekening,Getal
+Staafdiagram,Grafiek,Balken,Data,Diagram,Cijfers
+Variantie,Standaarddeviatie,Spreiding,Data,Statistieken,Analyse
+Correlatie,Relatie,Data,Verband,Grafiek,Statistieken
+Percentiel,Rangorde,Getal,Waarde,Cijfers,Statistieken
+Statistische significantie,Betrouwbaarheid,P-waarde,Steekproef,Data,Statistieken
+Histogram,Grafiek,Balken,Data,Diagram,Cijfers
+Genormaliseerd,Standaardisatie,Z-score,Data,Statistieken,Berekening
+Steekproefomvang,Populatie,Data,Statistieken,Aselect,Onderzoek
+R²,Correlatie,Variatie,Statistieken,Regressie,Verklaring
+Variantie-analyse,F-toets,ANOVA,Statistieken,Vergelijking,Onderzoek
+Biased,Onjuist,Vertekend,Selectie,Statistieken,Data
+Outliers,Uitschieters,Extreme waarden,Data,Statistieken,Analyse
+Standaardafwijking,Variantie,Spreiding,Statistieken,Berekening,Data
+Chi-kwadraat,Test,Goedheid-van-fit,Verdeling,Statistieken,Data
+Regressierekening,Voorspelling,Variabele,Analyse,Statistieken,Lineair
+Betrouwbaarheidsinterval,Onzekerheid,Onnauwkeurigheid,Steekproef,Statistieken,Data
+Notatie,Schrijfwijze,Cijfers,Statistieken,Presentatie,Getallen
+Stochastisch,Toeval,Kans,Willekeurig,Statistieken,Data.
+Tornado,Windhoos,Draaikolk,Verwoestend,Natuurramp,Wervelwind
+Zonsverduistering,Maan,Schaduw,Zon,Hemellichaam,Donker
+Hailstorm,Hagel,Ijs,Neerslag,Neerstorten,Buien
+Gammastraling,Energie,Elektromagnetisch,Radioactief,Schadelijk,Gevaar
+Orkaan,Tornado,Regen,Wind,Natuurramp,Schade
+Sterrenstelsel,Galaxie,Hemellichaam,Melkweg,Sterren,Ruimte
+Blikseminslag,Elektriciteit,Onweer,Flits,Elektromagnetisch,Schade
+Meteoor,Ruimtepuin,Vuurpijl,Asteroid,Komeet,Hemellichaam
+Regenboog,Kleuren,Licht,Spectrum,Hemel,Optiek
+Kometenstaart,Ijs,Stof,Hemellichaam,Komeet,Zonnevlammen
+Luchtdruk,Barometer,Kilopascal,Hectopascal,Hoogte,Weerkaart
+Supernova,Sterrenexplosie,Zwaartekracht,Witte dwerg,Sterrenstelsel,Dood
+Windvlaag,Bries,Windstilte,Storm,Klimaat,Weerbericht
+Melkwegstelsel,Sterrenstelsel,Hemellichaam,Galaxie,Bar,Zwaartekracht
+Perihelium,Zonnewende,Aarde,Planeet,Orbit,Zonnestelsel
+Klimaatzones,Tropen,Woestijn,Gematigd,Poolgebied,Klimaatverandering
+Dampkring,Luchtlagen,Vochtigheid,Gassen,Broeikaseffect,Temperatuur
+Regen,Neerslag,Water,Buien,Druppels,Nat
+Maan,Himmelsk body,Zwaartekracht,Nacht,Derde,Gloed
+Weerkaart,Front,Isobaren,Neerslag,Koud,Warm
+Sterrenbeeld,Draak,Waterman,Scorpius,Steenbok,Tweelingen
+Tropische storm,Cycloon,Orkaan,Depressie,Regen,Wind
+Pluto,Dwerg,Planeet,Kuipergordel,New Horizons,Charon
+Zonnestelsel,Planeten,Sterren,Zon,Melkweg,Kosmisch
+Mars,Rood,Rover,Missie,Grond,Ruimte
+Zonsondergang,Avond,Horizon,Kleuren,Ondergaan,Rood
+Sterrenkunde,Telescoop,Hemel,Planeten,Onderzoek,Ontdekking
+Stratosfeer,Ozon,Hoogte,Bescherming,Lagen,Dikte
+Saturnus,Planeet,Ringen,Gasreus,Titan,Maan
+Volle maan,Nacht,Licht,Zee,Reflecteren,Supermaan
+Atmosferische druk,Hoog,Laag,Luchtdruk,Weersvoorspelling,Kilopascal
+Komeet,IJzig,Stofdeeltjes,Staart,Halley,Botsing
+Zonnefakkels,Zonnevlekken,Erupties,Zonne-energie,Brand,Warmte
+Poollicht,Aurora,Groen,Magnetisch veld,Bovenpool,Zonnevlammen
+Troposfeer,Lucht,Atmosfeer,Bovenkant,Hemel,Waterdamp
+Maanlanding,Apollo,Ruimte,Neil Armstrong,Buzz Aldrin,Lanceerplatform
+Regenjas,Water,Kleding,Nat,Bescherming,Hiking
+Donderwolk,Onweer,Bliksem,Regen,Grijs,Zware lucht
+Zonsopgang,Ochtend,Zon,Heuvel,Horizont,Eerste licht
+Komeetstaart,Ijs,Stof,Lang,Achtervolger,Hete kern
+Poolcirkel,Boven de 66,5e breedtegraad,Winter,Sneeuw,Noordpool,Zuidpool
+Ozonlaag,Broeikaseffect,Ultraviolet,Bescherming,Molecuul,Luchtvervuiling
+Neptunus,Planeet,Blauw,Gasgigant,Triton,Stormen
+Perigeum,Maan,Apogeum,Ovaal,Fases,Nabijheid
+Minuscule,Kleiner dan klein,Macroscopische wereld,Elektronen,Quarks,Atomen
+Zonnevlammen,Magnetosfeer,Flare,Zonnefysica,Aurora,Stroomuitbarsting
+Zonnebril,Ogen,Bescherming,Zon,Glazen,Vliegen
+Cumulonimbus,Donderwolk,Regen,Bliksem,Hernaam,Hoog
+Ruimtestation,ISS,Zwaartekracht,Astronauten,Orbital,Wetenschappers
+Saturnusring,Gasreus,Planeet,Ionen,Gravitatie,Partikelen.
+Leeuw,Koning der dieren,Grommen,Safari,Wild,De jungle
+Egel,Prikkels,Stekels,Zoogdier,Nachtdier,Eekhoorn
+Konijn,Bont,Gras,Oren,Weide,Hondenvoer
+Hamster,Wiel,Harig,Schattig,Huisdier,Graaf
+Papegaai,Vogel,Snavel,Kleurrijk,Intelligent,Klaar
+Octopus,Tentakels,Inkvis,Onderwater,Hersenen,Zuignappen
+Olifant,Slurf,Groot,Sterk,Grijpen,Aziatisch
+Kangoeroe,Buidel,Springen,Beest,Kalf,Australië
+Kip,Vogel,Haan,Eieren,Snavel,Pluimen
+Panda,Zwart,Wit,Bamboe,Dier,Beren
+Gorilla,Aap,Regenwoud,Zwaar,Sterk,Bos
+Haai,Jaws,Water,Grote witte,Indrukwekkend,Oceaan
+Mier,Insect,Kolonie,Werkzaam,Optimist,Zwart
+Vlinder,Rups,Fladderen,Tijd van het jaar,Kleurrijk,Stuifmeel
+Walvis,Zeeonderzoeker,Oceaanreus,Vissen,Waterzoogdier,Jacht
+Beer,Bos,Klauwen,Vlees,Honing,Knuffelen
+Tijger,Kat,Roofdier,Gestreept,Jungle,Klauwen
+Luipaard,Wild,Vlekken,Roofdier,Boom,Snelheid
+Pinguïn,Antarctica,Vliegen,Vogel,Koud,Zwemmen
+Struisvogel,Groot,Eieren,Vleugels,Zand,Pluimen
+Eend,Kwaken,Gefokt,Zwemmen,Water,Vleugels
+Slang,Sissen,Gif,Schubben,Reptiel,Adder
+Zwaluw,Vogel,Vleugels,Trekvogel,Nest,Blauw
+Muis,Computer,Klikken,Cursor,Bewegen,Draadloos
+Kameel,Woestijn,Bulten,Dier,Hump,Reizen
+Zeepaardje,Hippocampus,Oceaan,Vissen,Kleine,Staart
+Kikkerdril,Dikkopje,Kikkervisje,Water,Eitjes,Kikker
+Walrus,Tanden,IJs,Maritiem,Snorharen,Hoektanden
+Vos,Bos,Jagen,Welpen,Burcht,Nachtelijke
+Neushoorn,Hoorn,Zwart,Groot,Zuid-Afrika,Dik
+Flamingo,Roze,Vogel,Benen,Vliegen,Zonsondergang
+Pauw,Vogel,Poot,Veren,Tropisch,Blauw
+Krab,Scharen,Strand,Schelpen,Zoetwater,Staart
+Nachtegaal,Vogel,Zingen,Lente,Struikgewas,Veren
+Aap,Zoogdier,Boom,Handen,Intelligent,Baviaan
+Wesp,Bij,Zoemen,Steken,Geel,Nest
+Maki,Lemur,Madagaskar,Staart,Leaping,Bush
+Vleermuis,Zoogdier,Nacht,Vliegen,Grot,Oren
+Honingbij,Zoemen,Bloem,Bestuiving,Bijenkorf,Steken
+Luiaard,Boom,Zuid-Amerika,Sloth,Tak,Traag
+Kamelen,Bulten,Woestijn,Zand,Hump,Dromedaris
+Stokstaartje,Mongoose,Graven,Borstel,Afrikaans,Woestijn
+Zeester,Zee,Vissen,Oceaan,Lichtroze,Arm
+Schaap,Zoogdier,Wol,Herder,Boerderij,Lammetje
+Ezel,Hoefdier,lastdier,Boerderij,Grijs,Balken
+Gans,Vogel,Snavel,Vliegen,Grazend,Eend
+Nijlpaard,Muddy,Huge,Gras,Water,River Horse
+Kwal,Zeedier,Tentakels,Giftig,Zeeanemoon,Vis
+Slak,Langzaam,Huisdier,Schelp,Glijden,Tuin
+Kangoeroemuis,Spring,Australië,Tasmanian,Omnivore,Little
+Wasbeer,Masker,Bomen,Ringtail,Invasief,Noord-Amerikaans
+Eland,Geweien,Bomen,Weide,Groot,Noord-Amerikaans
+Reuzenpanda,Bamboe,China,Zwart-wit,Beer,Endemisch
+Orang-oetan,Aap,Banaan,Bos,Roodbruin,Primaten
+Kaketoe,Vogel,Papegaai,Fluiten,Veren,Australië
+Zee-egel,Zeedier,Stekels,Zeebodem,Schildpad,Koraal
+Luipaardzeehond,Zeezoogdier,Antarctica,Zwart-wit,Roofdier,Walvis
+Otter,Zoogdier,Water,Schelpen,Bruin,Staart
+Koala,Buideldier,Eucalyptus,Australië,Klimmen,Schattig
+Lynx,Wild,Gestreept,Katachtig,Bos,Oren
+Zwaan,Wit,Water,Romeo en Julia,Gratie,Vleugels
+Vlieg,Insect,Vleugels,Vies,Vliegenmepper,Zoemend
+Zeeleeuw,Zoogdier,Oceaan,Vin,IJs,Blaffen
+Kameleon,Reptiel,Kleuren,Tong,Ogen,Camoufleren
+Meeuw,Vogel,Strand,Vliegen,Wit,Vis
+Neanderthaler,Prehistorie,Mensachtige,Grot,Oertijd,Uitgestorven
+Salamander,Staart,Vochtig,Gewervelde,Huid,Waterleven
+Spin,Weefsel,Poten,Web,Achterlijk
+Kever,Insect,Vleugels,Eten,Kruipen,Scarabee
+Dingo,Wolf,Australië,Hond,Jackal,Rode aarde
+Rendier,Kerstman,Slee,Gewei,Koud,Lapland
+Koraal,Zee,Steen,Gewerveld,Kleurrijk,Oceaan
+Gnoe,Afrika,Horen,Steppe,Groot,Kudde
+Poema,Leeuw,Kat,Wild,Zuid-Amerika,Krachtig
+Krabben,Scharen,Maui,Kliffen,Pincers,Razende
+Rups,Insect,Vlinder,Kruipen,Blad,Tros
+Geit,Schaap,Boerderij,Melk,Wol,Hoorn
+Zeevis,Saltwater,Oceaan,Zwemmen,Visserij,Anemoonvis
+Giraf,Langnek,Afrika,Safari,Geel,Vlekken
+Haan,Vogel,Kraaien,Pluimen,Hanengevecht,Kippenren
+Stinkdier,Gestreept,Geur,Nacht,Grond,Bos
+Tulp,Bloem,Nederlands,Bollen,Tuin,Grond
+Eekhoorn,Boom,Noot,Staart,Groen,Knaagdier
+Bananenboom,Vrucht,Bladeren,Tropisch,Klimmen,Fruit
+Roos,Bloem,Geur,Stengel,Doornen,Rood
+Girafganger,Neus,Hoog,Groot,Afrikaans,Dierentuin
+Jachtluipaard,Snel,Luipaard,Jagen,Afrikaans,Vlekken
+Roze flamingo,Vogel,Snavel,Lang been,Zuid-Amerika,Beesten
+Kers,Fruit,Rood,Zoet,Boom,Sap
+Rog,Vis,Oceanic,Vinnen,Glider,Sting
+Hagedis,Kruipen,Staart,Vierpoten,Zon,Hagedis
+Wortel,Groente,Oranje,Grond,Karroten,Gezond
+Pijnboom,Boom,Naalden,Kerstmis,Groen,Den
+Mais,Gewas,Geel,Planten,Popcorn,Maïskolf
+Kool,Groene,Plant,Bladeren,Groente,Sla
+Bison,Wild,Groot,Amerika,Hoorn,Dier
+Spinazie,Bladgroen,Groente,Salade,Popeye,Koken
+Antilope,Dier,Afrikaans,Hoorn,Springen,Gazelle
+Krokus,Bloem,Lente,Bol,Paars,Saffraan
+Tarwe,Graan,Brood,Akker,Oogst,Meel
+Orchidee,Bloemen,Elegantie,Tropisch,Geurig,Tuinen
+Halve maan,Maan,Nacht,Sterren,Geluk,Middernacht
+Varen,Plant,Groen,Bladeren,Bosgrond,Schaduw
+Appelboom,Boomgaard,Fruit,Bladeren,Krokant,Plukken
+Paprika,Groente,Rood,Pittig,Keuken,Paprikapoeder
+Gras,Plant,Groen,Maaien,Picknicken,Weide
+Gepard,Luipaard,Snel,Gespikkeld,Afrika,Jacht
+IJsbeer,Noordpool,Wit,Jagen,Inheems,Lichaam
+Rode octopus,Inkvis,Verstoppertje,Zacht,Sucker,Zee
+Tuimelaar,Dolfijn,Zee,Waterpark,Springen,Flipperen
+Kamperfoelie,Witte bloemen,Gekruld,Klimplant,Smaak,Houtachtige
+Kogelvis,Opblaasbaar,Japans,Dood,Exotisch,Visserij
+Kolibrie,Fladderen,Snel,Snater,Kleurrijk,Tropisch
+Ratelslang,Sissen,Giftig,Rattler,Reptiel,Bos
+Gigantische panda,Bamboe,Beer,zwart en wit,Lichaam,Jungle
+Rode kardinaal,Vogel,Rood,Zaad,Vleugels,Snavel
+Orka,Oceaan,Zwart en wit,Jagen,Zoogdier,Zee
+Goudsbloem,Bloem,Geel,Tuin,Zoet,Medicinaal
+Spinneweb,Spin,Vlieg,Plakkerig,Insectenval,Draden
+Bijenkorf,Honing,Geel,Steken,Zoemen,Bijenwas
+Paddenstoel,Schimmel,Bos,Giftig,Voedsel,Vliegenzwam
+Varken,Dier,Vlees,Krulstaart,Slachten,Knorren
+Duizendpoot,Poten,Veel,Kruipen,Wurm,Giftig
+Rode kool,Groente,Paars,Zuurkool,Winter,Vezels
+Zonnevis,Vis,Zon,Oceanen,Lepelaar,Diepte
+Kastanje,Boom,Noten,Herfst,Bladeren,Woud
+Functioneringsgesprek,Evaluatie,Werknemer,Beoordeling,Gesprek,Manager
+Marketingplan,Strategie,Doelgroep,Campagne,Positionering,Promotie
+Time management,Productiviteit,Deadlines,Prioriteiten,Taken,Planning
+Human resources,Recrutering,Ontslag,Arbeidsvoorwaarden,Diversiteit,Opleiding
+Financieel plan,Begroting,Balans,Resultatenrekening,Investering,Cashflow
+Sterkte-zwakte analyse,Kansen,Bedreigingen,Voor- en nadelen,SWOT-analyse,Interne en Externe factoren
+Bedrijfsstrategie,Missie,Visie,Doelen,Waardepropositie,Concurrentieel voordeel
+Klachtenbehandeling,Klacht,Ombudsman,Customer service,Verbetering,Oplossing
+Benchmarking,Metingen,Vergelijking,Concurrerend,Score,Prestatie
+Contractonderhandeling,Overeenkomst,Voorwaarden,Onderhandelen,Juridisch,Handtekening
+Werksfeer,Collegialiteit,Samenwerking,Communicatie,Tolerantie,Werkomgeving
+Supply Chain Management,Voorraad,Distributie,Levering,Logistiek,Netwerk.
+Team,Werknemers,Personeel,Collega's,Organisatie,Afdeling
+Procesverbetering,Efficiëntie,Optimalisatie,Workflow,Lean,Six Sigma
+Doelstellingen,Targets,Resultaten,Prestaties,KPI's,Doelen
+Besluitvorming,Beslissing,Stelling,Standpunt,Conclusie,Oordeel
+Projectplanning,Taakverdeling,Deadlines,Gantt-chart,Planningstool,Deadline
+Samenwerking,Teamwork,Synergie,Samenwerken,Coöperatie,Alliantie
+Budgetbeheer,Uitgaven,Financiën,Begroting,Kasboek,Balans
+Functioneringsverbetering,Ontwikkelgesprek,Feedbackformulier,Persoonlijke ontwikkeling,Beoordeling,Coaching
+Risicobeheer,Bedreiging,Kwetsbaarheid,Risicoanalyse,Mitigatie,Schadebeperking
+Stakeholders,Belanghebbenden,Klanten,Leveranciers,Investeerders,Partners
+Leervermogen,Innovatie,Competentieontwikkeling,Kennis,Educatie,Opleiding
+Prestatiebeheer,Beoordelingsgesprek,Prestatiedoelen,Prestatierapport,Performance management,Evaluatie
+Employer branding,Werkgeversmerk,Imago,Arbeidsvoorwaarden,Sponsoring,Promotie
+Verandermanagement,Veranderstrategie,Transformatie,Veranderingsteams,Communicatieplan,Change agents
+Productiviteit,Efficiëntie,Effectiviteit,Output,Arbeidsproductiviteit,Capaciteit
+Leiderschapstijlen,Leiderschapsgedrag,Directief leiderschap,Coachend leiderschap,Participatief leiderschap,Situationeel leiderschap
+Getuige,Verklaren,Rechtszaak,Bewijs,Betrokken,Oproepen
+Verdachte,Aanhouden,Schuldig,Beklaagde,Politie,Misdaad
+Pleidooi,Advocaten,Verdediging,Strafrecht,Bepleiten,Rechtbank
+Strafblad,Opgepakt,Delict,Misstap,Registreren,Vergrijp
+Dagvaarding,Oproep,Betekenen,Rechtbank,Voorlopige hechtenis,Rechtszaak
+Jurisprudentie,Rechtspraak,Precedent,Recht,Zaak,Wetgeving
+Geschil,Ruzie,Conflict,Rekening,Aanklacht,Verliezen
+Huiszoekingsbevel,Inspectie,Doorzoeking,Magistraat,Exacteren,Wetshandhaving
+Gerechtsdeurwaarder,Executie,Beslagleggen,Deurwaardersexploot,Betekenis,Schuldeisers
+Strafbaar feit,Wetsovertreding,Vergrijp,Strafrechtelijke,Fout,Boete
+Pleiten,Advocatuur,Rechtspraak,Verklaren,Betoog,Punten
+Staatsrecht,Regering,Grondwet,Politiek,Wet,Overheid
+Geschilbeslechting,Arbitrage,Verzoening,Rechtszaak,Mediation,Oordeel
+Huurrecht,Verhuurder,Huurder,Huurcontract,Huurbescherming,Opzegtermijnen
+Wetsvoorstellen,Parlement,Kamer,Ministerie,Amendement,Goedkeuring
+Verjaringstermijn,Verlopen,Strafvervolging,Rechtsvordering,Overschrijden,Onrechtmatig
+Gratie,Kwijtschelding,Clementie,Straf,Koninklijk,Profijt
+Advocatuur,Advocaat,Rechtsbijstand,Procederen,Raadsman,Geschil
+Arrest,Oordeel,Vonnis,Uitspraak,Straf,Beroep
+Bewijs,Getuigenis,Bekentenis,Getuige,Alibi,Recherche
+Bureau Jeugdzorg,Kinderbescherming,Voogdij,Ontheffing,Gesloten jeugdzorg,Ouders
+Civielrecht,Contract,Rechtspersoon,Verbintenis,Nakoming,Vordering
+Gerechtshof,Rechter,Rechtbank,Juridisch,Hoger beroep,Uitspraak
+Insolventie,Faillissement,Schuldsanering,Boedel,Curator,WSNP
+Politie,Wetshandhaver,Arrestatie,Gevangenis,Boete,Handboeien
+Huwelijksrecht,Trouwakte,Scheiding,Alimentatie,Huwelijkse voorwaarden,Echtscheiding
+Slachtoffer,Schadevergoeding,Getuigenverklaring,Verwonding,Aanslag,Letsel
+Strafrecht,Misdaad,Gevangenisstraf,Verdachte,Halt,Opsluiting
+Rechtspraak,Jurist,Hof,Beoordeling,Procedure,Geschil
+Verzekeringsrecht,Polisvoorwaarden,Premie,Schade,Verzekeraar,Riscioanalyse
+Mediation,Geschil,Rechtsbijstand,Advocatuur,Bemiddeling,Juridisch
+Nalatenschap,Erfgenamen,Executeur,Legaat,Stichting,Ouderlijk huis
+Ondernemingsrecht,BV,NV,Inkoop,Onderhandse lening,Jaarrekening
+Vonnis,Rechter,Juridisch,Strafbaar,Advocaat,Pleidooi
+Bestuursrecht,Wetgeving,Overheid,Beleid,Burger,Rechtsstaat
+Hof van Justitie,Rechter,Europees,Verdrag,Arrest,EU
+Kinderbeschermingsmaatregelen,Bureau Jeugdzorg,Voogdij,Kind,Ondertoezichtstelling,Jeugdzorgwerker
+Alimentatie,Scheiding,Onderhoudsplicht,Partner,Alimentatiegerechtigde,Kinderen
+Wetboek van Strafrecht,Strafbaar feit,Juridisch,Rechter,Gevangenisstraf,Misdaad
+Arbeidsrecht,Werkgever,Werknemer,Ontslag,Arbeidsovereenkomst,Loon
+Merkregistratie,Octrooi,Intellectueel eigendom,Handelsnaam,Patent,Licentie
+Immigratie,Verblijfsvergunning,Vluchteling,Migratie,Asielzoeker,Nederlands staatsburgerschap
+Strafproces,Verdachte,Getuige,Rechtszaak,Dagvaarding,Bewijs
+Huwelijksvermogensrecht,Trouwen,Trouwakte,Trouwboekje,Gemeenschap,Huwelijkse voorwaarden
+Onrechtmatige daad,Schadevergoeding,Aansprakelijkheid,Juridisch,Ongeval,Verzekering
+Huurwetgeving,Huurder,Verhuurder,Huurprijs,Huurcontract,Woning
+Erfrecht,Testament,Nalatenschap,Erfgenaam,Executeur,Legitieme portie
+Wet op de privacy,AVG,Persoonsgegevens,Privacyrecht,Datalek,Autoriteit Persoonsgegevens
+Zwerfafval,Afval,Litter,Rommel,Verontreiniging,Wegwerpen
+Plastic tas,Tas,Draagtas,Milieuonvriendelijk,Afval,Niet biologisch afbreekbaar
+Broeikaseffect,Klimaatverandering,Opwarming van de aarde,Milieuprobleem,CO2-uitstoot,Smeltende ijskappen
+Glastuinbouw,Kas,Kweken,Landbouw,Serre,Broeikas
+Biologisch afbreekbaar,Niet-biologisch afbreekbaar,Milieuvriendelijk,Afvalverwerking,Ecomaterialen,Verpakkingen
+Duurzaamheid,Milieuvriendelijk,Groen,Eco,Recyclebaar,Cradle to cradle
+Kooldioxide,CO2,Broeikasgas,Klimaatverandering,Uitstoot,Fossiele brandstoffen
+Oceaanvervuiling,Zeeafval,Plastic soep,Drijvend vuilnis,Visnetten,Chemicaliën
+Compost,Organisch afval,Tuinafval,Gft-afval,Mest,Bodemverbeteraar
+Duurzame ontwikkeling,Milieubewustzijn,Innovatie,Ecologisch,Economisch,Sociaal
+Milieuvriendelijk,Duurzaam,Groen,Eco,Biologisch afbreekbaar,Cradle to cradle
+Klimaatadaptatie,Klimaatverandering,Overstromingen,Dijken,Waterberging,Hittegolven
+Energiebesparing,Zuinig,Duurzaam,Milieuvriendelijk,LED-verlichting,Isolatiemateriaal
+Milieuvervuiling,Verontreiniging,Chemisch afval,Luchtvervuiling,Bodemvervuiling,Watervervuiling
+Zonnepaneel,Duurzame energie,Zonne-energie,Alternatieve energie,Groene energie,Fotovoltaïsch
+Scheiden van afval,Sorteren,Recycling,Milieu,Gescheiden inzamelen,Grofvuil
+Waterbesparing,Zuinig,Duurzaam,Milieuvriendelijk,Spaardouchekop,Regenton
+Milieubescherming,Natuurbehoud,Biodiversiteit,Milieubeleid,Afvalverwerking,Duurzame ontwikkeling
+Groen,Natuur,Kleur,Planten,Tuingereedschap,Omgeving
+Elektrische auto,Opladen,Batterij,Stroom,Elektrisch,Autoweg
+Luchtvervuiling,Fijnstof,Rook,Uitlaatgassen,Smog,Stank
+Vervuiling,Afval,Chemisch,Toxines,Vies,Bevuilen
+Duurzame transportmiddelen,Elektrische fiets,Trein,Bus,Tram,Milieuvriendelijk
+Natuurrampen,Tornado,Orkaan,Aardbeving,Overstroming,Tsunami
+Afvalrecycling,Stortplaats,Afvalverbranding,Milieustraat,Hergebruik,Composteerbaar
+Windenergie,Windmolens,Turbines,Energieopwekking,Groene energie,Windturbines
+Luchtverfrisser,Geur,Frisheid,Parfum,Spray,Stank
+Zelfvoorzienend,Onafhankelijkheid,Eigen productie,Autarkisch,Zonnepanelen,Waterput
+Milieuvriendelijke verpakking,Plastic,Houtvezel,Styrofoam,Bioplastic,Verpakkingsafval
+Milieubewustzijn,Bewustwording,Duurzaam,Groen,Bewustzijn,Milieu-overtuiging
+Waterzuivering,Waterreiniging,Waterfilter,Rioolwater,Drinkwater,Afvalwater
+Recreatiegebied,Natuurpark,Recreatiegebieden,Vakantie,Picknick,Boswandeling
+Water,Drinken,Zwemmen,Vis,Strand,Boot
+Bossen,Bomen,Houtkap,Bladeren,Natuur,Park
+Klimaat,Weer,Temperatuur,Regen,Zonneschijn,Wind
+Stromend water,Beek,Rivier,Zee,Vissen,Dijk
+Energiezuinig,Stroom,Wasmachine,Lamp,Apparatuur,Isolatie
+Wouden,Bomen,Dieren,Houtkap,Regenwoud,Natuur
+Duurzaam,Herbruikbaar,Recyclebaar,Milieuvriendelijk,Compost,Eco-vriendelijk
+Zeeleven,Vissen,Oceaandieren,Zeevruchten,Haai,Koraalrif
+Milieuvriendelijke vervoersmiddelen,Elektrisch,Hybride auto,Fietser,Openbaar vervoer,Vliegtuig
+Geothermische energie,Stoom,Vulkanen,Warmte,Aardbeving,Energiebron
+Zuinige apparaten,Energie besparend,Groene technologie,Hernieuwbare energie,Zonne-energie,Duurzaamheid
+Afval,Stortplaats,Vuilnisbelt,Stinkend,Plastic,Verbrander
+Biodiversiteit,Soorten,Ecosystemen,Habitat,Dieren,Planten
+Schone lucht,Verontreinigd,Stikstof,Smog,Fijnstof,Ozon
+Klimaatmaatregelen,Reductie,Koolstof,Emissies,Adaptatie,Mitigatie
+Mount Everest,Hoogste punt,Bergbeklimmen,Nepal,Gletsjer,Sneeuw
+Rio de Janeiro,Stad,Brazilië,Christusbeeld,Carnaval,Strand
+Sahara,Woestijn,Zand,Hitte,Kamelen,Oost-Afrika
+Amsterdam,Stad,Grachten,Fietsen,Museum,Anne Frank
+Grote Muur van China,Chinese architectuur,Burcht,Muren,Wandelen,Toeristisch
+Taj Mahal,Mausoleum,India,Agra,Wit marmer,Shah Jahan
+Los Angeles,Californische stad,Hollywood,Strand,Uitzicht,Santa Monica Pier
+Kilimanjaro,Berg,Tanzania,Afrika,Hoogte,Klimmen
+Grand Canyon,Colorado River,Arizona,Natuurwonder,Wandelen,Zonsondergang
+Sydney Opera House,Australisch bouwwerk,Haven,Architectuur,Uitzicht,Podium
+The Great Barrier Reef,Australisch rif,Koraal,Vissen,Duiken,Sneeuwkappen
+Machu Picchu,Peru,Incas,Bergen,Monument,Ruïnes
+New York City,Stad met veel wolkenkrabbers,Central Park,Statuut van de Vrijheid,Empire State Building,Times Square
+Victoria Falls,Zambiaans/Zimbabwaans waterval,Zambezi rivier,Druppeling,Waanzinnig uitzicht,Regenjas
+De Zwitserse Alpen,Bergketen,Skiën,Kabelbaan,Wintersport,Natuurlijke gem
+Rio Tibet,Chinese stad,Tempel,Hoge altitudes,Sneeuw,Gebedsvlaggen
+Old Faithful,Yellowstone geyser,Heetwaterbronnen,Natuurlijke attractie,Zwavelgeur,Geysers
+The Sahara,Grote woestijn,Zand,Oase,Hitte,Toeristische attractie.
+Vulkanen,Lava,Uitbarsting,Rook,Krater,Magma
+Woestijn,Zand,Hitte,Droogte,Cactus,Oasis
+Rivier,Stroom,Water,Delta,Brug,Boot
+Milieu,Natuur,Recycling,CO2,Broeikaseffect,Duurzaamheid
+Gletsjer,Sneeuw,IJs,Koud,Berg,Smelten
+Tropisch Regenwoud,Jungle,Natuur,Bomen,Dieren,Amazonewoud
+Geografie,Kaart,Topografie,Hoogte,Afstand,Breedtegraad
+Eilanden,Zee,Strand,Boot,Palmen,Vakantie
+Bergen,Top,Hoogte,Klimmen,Landschap,Gletsjer
+Continent,Land,Gebied,Aarde,Oceanen,Globale
+Toendra,Sneeuw,Permafrost,IJsbeer,Koud,Pool
+Watervallen,Hoogte,Stroming,Natuur,Neerstorten,Stroomafwaarts
+Bodem,Grond,Aarde,Landbouw,Graven,Cultiveren
+Landbouw,Boerderij,Oogst,Gewassen,Vee,Tractor
+Tijdzones,GMT,Greenwich,Klok,AM,PM
+Goudmijn,Edelmetaal,Mijnwerker,Pikhouweel,Schacht,Goudkoorts
+Delta,Rivier,Water,Zee,Monding,Land.
+Kremlin,Rusland,Moskou,Paleis,Regering,Binnenhof
+Nairobi,Kenia,Hoofdstad,Wilde dieren,Savanne,Maasai
+Outback,Australië,Woestijn,Aboriginals,Kangaroo,Uluru
+Toronto,Canada,CN Tower,Hockey,Niagara Falls,STC
+Andesgebergte,Bergen,Zuid-Amerika,Hoogte,Inca Trail,Sneeuw
+Parijs,Frankrijk,Eiffeltoren,Champs-Élysées,Louvre,Baguette
+Grote Meren,Verenigde Staten,Canada,Michigan,Superior,Huron
+Suezkanaal,Egypte,Ismailia,Schepen,Brug,Rood-Zee
+Kaap de Goede Hoop,Zuid-Afrika,Kaapstad,Zeestromen,Victoriaans,Felix
+Himalaya,Bergen,Nepal,Hoogte,Klimmen,Sneeuw
+Venetië,Gondel,Canal Grande,Burano,San Marco,Carnaval
+Amazoneregenwoud,Regen,Brazilië,Bos,Toucan,Jaguar
+Hawaii,Verenigde Staten,Honolulu,Surfen,Maui,Vulkanen
+Moskou,Rusland,Rode Plein,Kremlingevel,Sint-Basiliuskathedraal,Oeral
+IJsland,Reykjavik,Gletsjer,Geisers,Blue Lagoon,Noorderlicht
+Mont Blanc,Frankrijk,Alpen,Hoogste,Sneeuw,Skiën
+Gele Rivier,China,Huanghe,Meanderen,Verontreiniging,Dam
+Londen,Engeland,Theems,Buckingham Palace,Tube,Big Ben
+Berlijn,Duitsland,Muur,Brandenburger Tor,Currywurst,Reichstag
+Chicago,Windy City,Lake Michigan,Skyline,Deep Dish Pizza,Cubs
+Ganges,Rivier,India,Heilig,Religie,Boeddha
+San Francisco,Golden Gate,Cable Car,Alcatraz,Bay Bridge,Chinatown
+Istanbul,Turkije,Blauwe Moskee,Bosporus,Topkapi Paleis,Hagia Sophia
+Florida,Alligator,Miami,Disney World,Key West,Everglades
+Hawaiiaanse eilanden,Honolulu,Vulkaan,Surfing,Hula,Luau
+Tokio,Japan,Shibuya Crossing,Meiji Shrine,Sushi,Sumoworstelen
+Rode Zee,Egypte,Zwemmen,Snorkelen,Koraal,Scheepswrak
+Sicilië,Italië,Mount Etna,Taormina,Arancini,Maffia
+Galapagoseilanden,Ecuador,Darwin,Rotsformaties,Reuzenschildpad,Blue-footed Booby
+Kruger National Park,Zuid-Afrika,Safari,Leeuw,Olifant,Neushoorn
+Praag,Tsjechië,Karlsbrug,Burcht van Praag,Kafka,Pilsner bier
+Niagara Falls,Canada,Waterval,Boottocht,Maid of the Mist,Regenboog
+Algarve,Portugal,Zon,Strand,Visgrill,Golfen
+Tsunami,Golf,Natuurramp,Aarde,Zee,Ramp
+Inca's,Peru,Machu Picchu,Geschiedenis,Cultuur,Mysterieus
+Toren van Pisa,Italië,Scheef,Toeristisch,Monument,Architectuur
+Barrier Reef,Koraal,Australië,Duiken,Oceaan,Vis
+Noordpool,Sneeuw,IJs,Koud,Poolcirkel,Eskimo's
+Azië,Continent,China,India,Cultuur,Grootste
+Thames,Rivier,Londen,Engeland,Brug,Wisselen
+Amerika,Continent,Verenigde Staten,Canada,Cultuur,Indianen
+Stonehenge,Engeland,Monument,Oudheid,Mysterieus,Stenen
+Jungle,Regenwoud,Tropisch,Dieren,Vegetatie,Bomen
+Peking,China,Hoofdstad,Verboden Stad,Olympische Spelen,Regering
+Australië,Down Under,Kangaroo,Boemerang,Sydney,Barrier Reef
+Lissabon,Portugal,Fado,Kust,Tram,Brug
+Antarctica,Zuidpool,IJs,Pinguïns,Sneeuw,Barre
+New Delhi,India,Taj Mahal,Curry,Ganges,Regering
+Scandinavië,Noord-Europa,Vikingen,Fjorden,Ikea,Aurora Borealis
+Niagarawatervallen,Canada,Amerika,Natuur,Barrière,Toeristisch
+Jordanië,Petra,Woestijn,Oudheid,Rode Zee,Koning
+Kathmandu,Nepal,Everest,Honger,Backpacken,Stupa's
+Zuid-Korea,Seoul,K-Pop,Samsung,Kimchi,Taekwondo
+Mediterraan,Zee,Olijven,Vis,Zon,Kust
+Oostzee,Baltisch,Zeilen,Kust,Steden,Zonsondergang
+Victoria Meer,Afrika,Nijl,Tanzania,Lake,Vissen
+Buenos Aires,Argentinië,Tango,Eva Perón,Boca Juniors,Stad
+Spitsbergen,Noorwegen,IJsbeer,Arctisch,Klimaat,Expeditie
+Rio de la Plata,Uruguay,Argentinië,Delta,Vis,Steden
+Koninkrijk Saudi-Arabië,Riyadh,Islam,Olie,Woestijn,Kameel
+Star Wars,Jedi,Lichtzwaard,The Force,Darth Vader,Luke Skywalker
+Friends,Sitcom,Ross,Chandler,Joey,Monica
+The Lion King,Simba,Rafiki,Hakuna Matata,Mufasa,Pride Rock
+Breaking Bad,Meth,Crystal,Heisenberg,Jesse,Walter White
+The Avengers,Marvel,Superhelden,Iron Man,Hulk,Thor
+Jurassic Park,Dinosaurussen,T-Rex,Steven Spielberg,Hammond,Velociraptor
+The Walking Dead,Rick,Zombies,Alexandria,Negan,Michonne
+Pirates of the Caribbean,Schat,Johnny Depp,Black Pearl,Zeilen,Elizabeth Swann
+The Simpsons,Springfield,Homer,Bart,Marge,Lisa
+Stranger Things,Upside Down,80's,Demogorgon,Dungeons and Dragons,Hawkins
+The Matrix,Keanu Reeves,Virtual Reality,Morpheus,Trinity,Neo
+Forrest Gump,Tom Hanks,Shrimp,Pingpong,Bubba,Jenny
+The Big Bang Theory,Sheldon,Leonard,Penny,Raj,Howard
+The Godfather,Vito Corleone,Michael,Mafia,Marlon Brando,Coppola
+Indiana Jones,Archeologie,Zweep,Tempel,Indy,Harrison Ford
+La Casa de Papel,Bankroof,Professor,De Rode Overval,Tokio,Nairobi
+The Shawshank Redemption,Gevangenis,Ontsnappen,Tim Robbins,Morgan Freeman,Onrechtvaardigheid
+Detective,Krimi,Moord,Onderzoek,Crime,Spanning
+Zeemeermin,Onderwater,Vissenstaart,Ariël,Disney,Zee
+Superheld,Vliegen,Kracht,Cape,Strijden,Marvel
+Toren,Gebouw,Hoogte,Trappen,Lift,Uitzicht
+Fee,Sprookje,Toverstaf,Vleugels,Peter Pan,Magie
+Musical,Toneelstuk,Zang,Dans,Acteur,Broadway
+Spion,Geheimen,Missie,James Bond,Verklikker,Undercover
+Zeerover,Schip,Zwaard,Schat,Piraten,Caribisch
+Trein,Spoor,Station,Conducteur,Wagons,Rails
+Pony,Dier,Paard,Staart,Galop,Manege
+Bob-lijn,Haar,Kapper,Stijl,Trend,Mode
+Zanger(es),Optreden,Microfoon,Muziek,Artiest,Concert
+Rodeo,Stier,Arena,Cowboy,Lasso,Paardrijden
+Strand,Zand,Golven,Zon,Zwemmen,Vakantie
+Weerwolf,Vampier,Maanlicht,Transformatie,Griezel,Mythe
+Ontsnapping,Vrijheid,Gevangenis,Bevrijden,Handboeien,Vluchten
+Batman,Joker,DC Comics,Masker,Vleermuis,Crimefighter
+The Office,Scranton,Michael Scott,Jim,Dwight,Pam
+James Bond,MI6,Aston Martin,Walther PPK,Onconventionele gadgets,Miss Moneypenny
+Harry Potter and the Chamber of Secrets,Zweinstein,Basilisk,Tom Riddle,Ron's gebroken toverstok,Gevangenismaaltijd
+The Crown,Elizabeth II,Buckingham Palace,Buckingham,Royals,Queen
+The Truman Show,Christof,Reality-tv-show,Seahaven,Verborgen camera's,Het einde
+The Devil Wears Prada,Miranda Priestly,Andy,Fashion,Runway,Anne Hathaway
+Desperate Housewives,Wisteria Lane,Huwelijkscrisis,Moord,Gossip,Bree Van de Kamp
+The Silence of the Lambs,Lecter,Seriemoordenaar,Hannibal,Buffalo Bill,FBI
+Friends with Benefits,Seks,Vrienden,Geen relaties,Justin Timberlake,Mila Kunis
+Mean Girls,Plastic,Regina George,Burn Book,Bestempeld als,Roze op woensdag
+The Revenant,Leonardo DiCaprio,Bomen,Grizzlybeer,Vechten voor overleving,Oskar
+Black Mirror,Technologie,Dystopie,Sci-fi,Donkere toekomst,Schrikbeeld
+Notting Hill,Julia Roberts,Hugh Grant,Boekwinkel eigenaar,Politiek journalist,Blauwe deur
+E.T.,Alien,Phone Home,Drew Barrymore,Fietstocht,Steven Spielberg
+The Prestige,Twee goochelaars,David Bowie,Wanhoop,Tweeling,Magie
+La La Land,Jazz,Ryan Gosling,Emma Stone,Audities,Mooi Los Angeles
+Tijdmachine,Reizen,Sciencefiction,Doctor Who,H.G. Wells,Futuristisch
+Magie,Toverstaf,Tovenarij,Harry Potter,Hocus Pocus,Spreuken
+Horror,Gruwelijk,Bloed,Zombie,Paranormaal,Schrikken
+Komedie,Grappig,Lachen,Humor,Sitcom,Cliché
+Super Mario,Paddenstoel,Loodgieter,Nintendo,Prinses Peach,Bowser
+Jurassic World,Dino's,Fossielen,Chris Pratt,Indominus Rex,Oerwoud
+Shrek,Oger,Fiona,Ezel,Swamps,Lord Farquaad
+Star Trek,Warp Drive,Beam me up,Spock,USS Enterprise,Captain Kirk
+The Great British Bake Off,Cupcakes,Taarten,Paul Hollywood,Prue Leith,Bakken
+Westworld,A.I.,Menselijke robots,Entertainment,Thandie Newton,Geweld
+Doctor Strange,Tijdsverdraaiing,Benedict Cumberbatch,Magnus Opus,Marvel Universe,Magische artefacten
+The Shape of Water,Visman,Guillermo del Toro,Liefde,Experiment,Koude Oorlog
+Black Panther,Wakanda,T'Challa,Killmonger,Vibranium,Dora Milaje
+Grey's Anatomy,Chirurgie,Seattle,Meredith Grey,Patrick Dempsey,Medische Drama
+How to Get Away With Murder,Rechtszaak,Moord,Annalise Keating,Scandals,Gebroken gezin
+Alien,Buitenaards,Vreemd wezen,UFO,Sciencefiction
+Wizard of Oz,Tovenaar,Gele weg,Magie,Vogelverschrikker,Laffe leeuw
+Finding Nemo,Clownvis,Oceaan,Haai,Koraalrif,Vissen
+Back to the Future,DeLorean,1955,Doc Brown,Marty McFly,Time travel
+The Notebook,Romantiek,Brief,Dementie,Liefde,Drama
+Mockingjay,Districten,Arena,Overlevingsstrijd,Revolutionair,Katniss
+The Dark Knight,Batman,Gotham,Joker,Harvey Dent,Bane
+The Little Mermaid,Zeemeermin,Onderwater,Triton,Schelpen,Oceaan
+Ghostbusters,Slimer,Ecto-1,Proton Pack,Stay Puft,Venkman
+Jaws,Haai,Strand,Duiken,Bloed,Boot
+Indiana Jones and the Last Crusade,Schat,Avontuur,Heilige graal,Nazi's,Harrison Ford
+The Karate Kid,Karate,Mr. Miyagi,Cobra Kai,Winnen,Vechten
+Dirty Dancing,Dansen,Resort,Zomer,Liefde,Patrick Swayze
+The Sound of Music,Maria,Austria,Von Trapp,Julie Andrews,Singing
+Avengers,Iron Man,Captain America,Hulk,Thor,Black Widow
+Netflix,Streaming,Abonnement,Binge,Series,Films
+Frozen,Elsa,Olaf,Anna,Kristoff,Arendelle
+Toy Story,Woody,Buzz,Andy,Bo Peep,Mr. Potato Head
+The Sopranos,Tony,Mafia,New Jersey,Carmela,Dr. Melfi
+Gossip Girl,Serena,Blair,Upper East Side,Chuck,Nate
+The Good Place,Eleanor,Chidi,Tahani,Jason,Afterlife
+Avatar,Pandora,Na'vi,James Cameron,Jake Sully,Floating Mountains
+Metro,Ondergronds,Metrostation,Passeenger,Subway,Rails
+Helikopter,Vliegen,Hoogte,Propellers,Luchtvaart,Rotorbladen
+Boot,Schip,Vaartuig,Kapitein,Varen,Water
+Motorfiets,Tweewieler,Helm,Benzine,Stuur,Gas
+Vrachtwagen,Groot voertuig,Laadruimte,Vervoer,Chauffeur,Dieplader
+Scooter,Bromfiets,Helm,Elektrisch,Gas,Tweewieler
+Bus,Passagiers,Halte,Openbaar vervoer,Chauffeur,Streekvervoer
+Baggermachine,Graafmachine,Modder,Grond,Lading,Baggerschip
+Segway,Elektrisch,Balans,Stuur,Accu,Verplaatsen
+Zeilboot,Mast,Wind,Water,Kapitein,Zeilen
+Traktor,Landbouw,Boer,Aanhangwagen,Motor,Groen
+Slede,Sneeuw,Hond,Glijden,Musher,Husky
+Elektrische step,Accu,Vouwbaar,Rem,Opladen,Elektrisch
+Scootmobiel,Mobiliteit,Ouderen,Stoel,Elektrisch,Bestuurder
+Crossmotor,Off-road,Motor,Helm,Snelheid,Terrein
+Fietskar,Kinderen,Bagage,Trekhaak,Fiets,Trailer
+Strandbuggy,Zand,Strand,Off-road,Auto,Buggy
+Verkeersbord,Verkeer,Weg,Route,Signalen,Begeleiden
+Roltrap,Bewegen,Trappen,Stilstand,Lift,Treden
+Zebrapad,Voetganger,Oversteken,Straat,Strepen,Verkeer
+Caravan,Kamperen,Vakantie,Vervoer,Trekhaak,Slaapplek
+Skateboardpark,Skaten,Trucs,Wielen,Rampen,Park
+Taxi,Passagier,Vervoer,Chauffeur,Auto,Tarieven
+Vorkheftruck,Magazijn,Heffen,Pallets,Transport,Bestuurder
+Ondergrondse metro,Station,Spoor,Passagiers,Elektrisch,Conductor
+Hellingbaan,Rolstoelen,Toegankelijkheid,Schuin,Boven,Draaiplateau
+Verkeerslicht,Stoppen,Groen,Rood,Weggebruikers,Reguleren
+Step,Voortbewegen,Trap,Treden,Sport,Skateboard
+Zeppelin,Luchtvaartuig,Drijfvermogen,Hindenburg,Gas,Passagiers
+Tram,Rails,Passagiers,Bestuurder,Openbaar vervoer,Station
+Motorboot,Snelle boot,Motor,Waterskiën,Vissen,Visserij
+Vliegveld,Landingsbaan,Vliegtuigen,Terminal,Bagage,Reizen
+Verkeersvliegtuig,Vliegen,Piloot,Luchthaven,Passagiers,Luchtvaartmaatschappij
+Speedboot,Water,Windscherm,Stuur,Motor,Golven
+Treintje,Station,Rails,Passagiers,Locomotief,Wagon
+Fietskarretje,Fiets,Bagage,Trekhaak,Kinderen,Achterwiel
+Veerpont,Water,Overtocht,Passagiers,Stuur,Aanmeren
+Huifkar,Paard,Wagen,Hobbels,Stal,Boerderij
+Sneeuwscooter,Winter,Snelheid,Stuur,Sneeuw,Motor
+Oceaanstomer,Zee,Passagiers,Kapitein,Cruise,Hut
+Gondel,Water,Roeispaan,Brug,Stuurman,Zanger
+Rolstoelbus,Gehandicapten,Vervoer,Rijbewijs,Parkeerplaats,Oprijplaat
+Shuttlebus,Vliegveld,Passagiers,Bestemming,Chauffeur,Bagage
+Politieauto,Sirene,Aanhouden,Verkeersovertreding,Agent,Achtervolgen
+Vrachtvliegtuig,Lading,Piloten,Vliegen,Vracht,Luchthaven
+Vue bioscoopbus,Film,Bioscoop,Entree,Chauffeur,Passagiers
+Helibus,Lucht,Hoogte,Helikopter,Passagiers,Landing
+Cruiseboot,Passagiers,Kapitein,Zee,Cruise,Luxe
+Wegwerkersbus,Wegwerkzaamheden,Verkeer,Aannemer,Chauffeur,Verkeerskegel
+Mountainbike,Fiets,Pad,Stuur,Versnelling,Bospad
+Laptop,Computer,Scherm,Muis,Toetsenbord,Microsoft
+Koptelefoon,Oortjes,Draadloos,Muziek,Geluid,Luidspreker
+Camera,Foto,Lens,Zoom,Opname,Fototoestel
+MP3-speler,Muziek,Draagbaar,Audio,Opnemen,Bestanden
+Gaming console,Spelen,Controller,Scherm,Console,Videogames
+GPS,Navigatie,Kaart,Locatie,Route,Cot
+Smartwatch,Horloge,Armband,Wearable,Verbinden,Fitness
+DVD-speler,Video,Schijf,Afspeelapparaat,Film,Streaming
+Virtual reality headset,VR,Bril,Beleving,360 graden,Oculus
+Elektrische tandenborstel,Tanden,Opladen,Sonicare,Oral-B,Poetsen
+Airconditioner,Koelen,Lucht,Temperatuur,Thermostaat,Compressor
+Elektrische sleeptrein,Trein,Spoor,Passagier,Vervoer,Conducteur
+Smart home hub,Alexa,Google Home,Assistent,Apparaat,Smart
+Elektrisch scheerapparaat,Scheren,Baard,Haar,Baardtrimmer,Braun
+Elektrische kookplaat,Koken,Pannen,Inductie,Fornuis,Keukenapparatuur
+Geavanceerde afstandsbediening,TV,Audio,Remote,Bedienen,Apparaat
+Elektrische deken,Warmte,Slaap,Nacht,Stroom,Schakelaar
+Rookmelder,Brand,Vuur,Alarm,Brandweer,Blussen
+Afstandsbediening,TV,Zappen,Kanaal,Volume,Knoppen
+Blender,Mixer,Sap,Smoothie,Hakken,Messen
+Webcam,Videochat,Camera,Beeld,Microfoon,Opnemen
+Oplader,Stroom,Batterij,Kabel,Adapter,Opladen
+Harde schijf,Opbergen,Bestanden,Gegevens,Extern,Back-up
+Koptelefoonversterker,Muziek,Geluid,Hoofdtelefoon,Versterken,Audio
+Videocamera,Filmen,Beeld,Opnemen,Statief,Cameraman
+Elektrische tandenborstel-oplader,Tandenborstel,Opladen,Poetsen,Accu,Batterij
+Electric schroevendraaier,Schroeven,Klussen,Boren,Accu,Elektrisch
+Elektronische piano,Toetsen,Muziek,Piano,Keyboard,Klank
+Powerbank,Opladen,Telefoon,Batterij,Mobiel,Draagbaar
+Elektronica gereedschapset,Knoppen,Dioden,Kabels,Multimeter,Oscilloscoop
+Elektrische grasmaaier,Gras,Maaien,Stroom,Accu,Gazon
+Elektronische weegschaal,Gewicht,Meten,Digitaal,BMI,Vetpercentage
+Draadloze koptelefoon,Bluetooth,Geluid,Muziek,Headset,Wireless
+Smart speaker,Siri,Alexa,Google Assistant,Speaker,Stemassistent
+Elektrische fiets,Accu,Trapondersteuning,Fiets,Snelheid,Opladen
+Action camera,Film,Beelden,Actie,Sport,Waterdicht
+Elektrische sigaret,Roken,Nicotine,Dampen,E-sigaret,Tank
+Slimme thermostaat,Temperatuur,Verwarming,Nest,Slim,Energie
+Slim horloge,Wearable,Apple Watch,Tracker,Polsband,Smartwatch
+Drone,Vliegen,Camera,Helikopter,Afstandsbediening,Quadcopter
+Elektrische deurbel,Signaal,Draadloos,Klop,Geluid,Bel
+Elektronische stappenteller,Fitbit,Beweging,Activiteit,Lopen,Calorieën
+Elektronische personenweegschaal,Gewicht,BMI,Digitaal,Vetpercentage,Weegschaal
+Action cam,Camera,Film,Beelden,Actie,Sport
+Koorts,Temperatuur,Thermometer,Ziekte,Warm,Griep
+Vaccinatie,Inenting,Spuit,Immunisatie,Injectie,Preventie
+Operatie,Chirurgie,Mes,Anesthesie,Incisie,Medisch
+Hartinfarct,Beroerte,Cardiologie,Blokkade,Hartaanval,Vasculair
+Hersenschudding,Hoofdletsel,Neurologie,Concussie,Trauma,Cranium
+Allergie,Overgevoeligheid,Immune,Reactie,Histamine,Huiduitslag
+Diabetes,Bloedsuiker,Insuline,Glucose,Endocrinologie,Pancreas
+Stethoscoop,Auscultatie,Hartslag,Longen,Medisch instrument,Auscultatie
+Verstuiking,Blessure,Enkel,Spieren,Pijn,Revalidatie
+Astma,Ademhaling,Ontsteking,Inhalator,Luchtwegen,Bronchiale
+Blindheid,Visie,Retina,Oogaandoening,Gezichtsvermogen,Nederlander
+Cholesterol,Lipiden,LDL,HDL,Atherosclerose,Hart- en vaatziekten
+Wratten,HPV,Huidvirus,Infectie,Besmettelijk,Derma
+SARS-CoV-2,Coronavirus,Pandemie,Mondkapje,Quarantaine,Ziekte
+Nierfalen,Dialyse,Nefrologie,Bloeddruk,Nierstenen,Ureum
+Depressie,Stemming,Psychologie,Medicatie,Psychiatrisch,Therapie
+Kramp,Spier,Convulsie,Pijn,Contractie,Reflex
+Bloedarmoede,Anemie,Hemoglobine,Ferritine,Vermoeidheid,Bleek
+Verkoudheid,Neus,Keel,Symptomen,Besmettelijk,Rhinovirus
+Anesthesie,Verdoving,Operatie,Narcose,Pijn,Sedatie
+Verband,Wond,Bloeden,Pleister,Zwachtel,Breuk
+Pleister,Verband,Wond,Plakken,Bescherming,Genezing
+Antibioticum,Medicijn,Ziektekiemen,Penicilline,Resistentie,Dosering
+Chirurgie,Operatie,Snijden,Litteken,Narcose,Hechtingen
+Pijnstiller,Medicijn,Pijn,Ontsteking,Tablet,Capsule
+Bloeddruk,Hartslag,Cardiovasculair,Systolisch,Diastolisch,Hypertensie
+Röntgenfoto,Beeld,Straling,Botbreuk,Diagnostisch,Apparaat
+Hoesten,Keel,Slijm,Kriebel,Luchtwegen,Influenza
+Hersenen,Zenuwen,Gedachten,Cognitie,Geest,Psychiatrie
+Huiduitslag,Dermatologisch,Eczeem,Jeuk,Schilferen,Allergie
+Koortslip,Herpes,Lippen,Infectie,Blaasjes,Pijnlijk
+Gehoorverlies,Doofheid,Oor,Audiologie,Geluid,Beperking
+Neusverstopping,Allergie,Influenza,Slijm,Ademhalingsprobleem,Sinusitis
+Antibacteriële zeep,Handhygiëne,Ontsmetten,Infectiepreventie,Bacteriën,Schimmels
+Migraine,Hoofdpijn,Aura,Medicatie,Misselijkheid,Fotofobie
+Hallucinatie,Psychose,Waanideeën,Drugs,Schizofrenie,Ilusie
+Astma-inhalator,Luchtwegen,Medicatie,Piepen,Ontstekingsremmer,Verstuiven
+Tandarts,Gebit,Kies,Verdoving,Boren,Controle.
+Griep,Virus,Verkoudheid,Hoesten,Koorts,Neusverkoudheid
+Infuus,Naald,Vloeistof,Medicatie,Injectie,Intraveneus
+Hartslag,Pompen,Bloed,Cardiovasculair,Slagader,Elektrocardiogram
+Griepvaccin,Immuniteit,Injectie,Besmetting,Afweersysteem,Inenting
+Tandheelkundig,Kiespijn,Tandbederf,Orthodontie,Wortelkanaalbehandeling,Kaak
+Breuk,Bot,Fractuur,Gips,Anatomie,Arm
+Allergieën,Reactie,Jeuk,Histamine,Hooikoorts,Antihistaminicum
+Verlamming,Neuropathie,Spieren,Zenuw,CVA,Hersenletsel
+Operatiekamer,Chirurgie,Sterilisatie,Anesthesie,Scalpel,Medisch instrumentarium
+Bloedstolling,Trombose,Antistollingsmiddel,Proteïne,Fibrine,Stolsel
+Huidkanker,Melanoom,Littekens,Dermatoloog,Zon,Tumor
+Psychotherapie,Gedrag,Therapeutisch,Cognitief,Behandeling,Emotie
+Hartchirurgie,Coronair,Hartklep,Pericard,Bypass,Myocard
+Oogheelkundig,Netvlies,Staar,Bril,Ooglid,Hoornvlies
+Meningitis,Hersenvlies,Koorts,Hersenen,Infectie,Bacterie
+Revalidatie,Fysiotherapie,Herstel,Oefening,Mobiliteit,Therapeut
+Bloedtransfusie,Bloedgroep,Antistoffen,Hemoglobine,Donor,Ontvanger
+Psychiatrie,Therapie,Medicatie,Stoornis,Psychiatrisch,Psychose
+Schilderij,Kunstwerk,Doek,Canvas,Borstel,Kleuren
+Beeldhouwwerk,Kunstenaar,Steen,Klei,Vorm,Hakken
+Muzieknoten,Bladmuziek,Piano,Gitaar,Zingen,Componeren
+Klassieke kunst,Grieks,Romeins,Beeldhouwkunst,Renaissance,Barok
+Straatkunst,Graffiti,Mural,Tag,Spuitbus,Muur
+Abstracte kunst,Interpretatie,Geometrie,Vormen,Kleuren,Lijnenspel
+Pop-art,Andy Warhol,Marilyn Monroe,Comic,Stripboek,Massacultuur
+Streethockey,Hockey,Stick,Schieten,Puck,IJshockey
+Graffiti,Spuitbus,Street art,Muur,Tags,Schetsen
+Dichtkunst,Vers,Poëzie,Rijm,Dichter,Gedicht
+Installatiekunst,Ruimte,Objecten,Conceptueel,Installatie,Museum
+Hiphop,Rap,Breakdancen,Beatboxen,MC,Graffiti
+Zingen,Stem,Lied,Zanger,Microfoon,Noten
+Schrijverschap,Boek,Schrijven,Verhaal,Pen,Roman
+Potloodtekening,Schets,Figuur,Lijnen,Grijs,Papier
+Beeld,Standbeeld,Sculptuur,Klei,Gips,Vorm
+Gitaar,Snaarinstrument,Akoestisch,Elektrisch,Muziek,Optreden
+Olieverfschilderij,Verf,Canvas,Kwast,Portret,Stilleven
+Regisseur,Film,Acteur,Camera,Script,Scènes
+Modeontwerper,Kleding,Textiel,Stijl,Collectie,Catwalk
+Klassiek concert,Orkest,Dirigent,Solist,Symfonie,Uitvoering
+Abstract schilderij,Vormen,Kleuren,Interpretatie,Geometrisch,Expressionisme
+Popzanger,Zang,Hit,Album,Optreden,Publiek
+Scenograaf,Decorontwerp,Ruimte,Bühne,Rekwisieten,Lichtplan
+Filmacteur,Rol,Scène,Camera,Script,Filmset
+Performancekunstenaar,Live,Publiek,Conceptueel,Theatraal,Improvisatie
+Stripverhaal,Tekenen,Balloons,Superhelden,Graphic novel,Stilistiek
+Pianist,Toetsen,Klassiek,Virtuoos,Concert,Improvisatie
+Straatfotografie,Stadsleven,Candid,Shutter,Moment,Straatbeeld
+Pop-art schilderij,Felle kleuren,Comics,Massaproductie,Iconisch,Kunststijl
+Zanger/songwriter,Liedteksten,Melodie,Gitaar,Studio,Tournee
+Action painting,Verfspetters,Gooien,Lagen,Gevoelsuiting,Abstractie
+Standbeeld,Beeldhouwwerk,Steen,Monument,Sculptuur,Kunstwerk
+Trompet,Instrument,Blazen,Muziek,Jazz,Concert
+Dans,Beweging,Choreografie,Ballet,Musiceren,Lichaam
+Streetdance,Hip-hop,Dansen,Beweging,Ritme,Straatcultuur
+Strijkkwartet,Muziekstuk,Klassieke muziek,Viool,Cello,Concert
+Cello,Instrument,Strijkstok,Muziek,Klassieke muziek,Orkest
+Cabaret,Humor,Theater,Stand-up,Grappen,Publiek
+Pianoles,Keyboard,Muziekles,Noten,Spelen,Oefenen
+Sculptuur,Beeld,Materiaal,Kunstwerk,Beeldhouwen,Vormgeven
+Fotoboek,Foto,Boek,Album,Print,Herinnering
+Acrylverf,Verf,Schilderij,Kunst,Kleur,Penselen
+Flamenco,Dansen,Gitaar,Spanje,Castagnetten,Passie
+Symphony,Muziekstuk,Orkest,Klassieke muziek,Dirigeren,Concert
+Mime,Stilte,Beweging,Acteren,Theater,Gezichtsuitdrukking
+Zangkoor,Zingen,Ensemble,Muziek,Klassieke muziek,Concert
+Afrikaans masker,Beeldhouwen,Tropisch,Folklore,Houtsnijwerk,Tribaal
+Mona Lisa,Schilderij,Vrouw,Lach,Olieverf,Leonardo da Vinci
+Rome,Stad,Colosseum,Italië,Geschiedenis,Monument
+Picasso,Schilder,Kunstschilder,Spanje,Guernica,Kubisme
+Filmster,Acteur,Beroemd,Hollywood,Film,Rode loper
+Cartoons,Animatie,Blijspel,Stripverhaal,Disney,Grappig
+Barok,Stijl,Kunst,Versiering,Rococo,Geometric
+Hiphopdanser,Muziek,Bewegingen,Breakdance,Rappen,Stijl
+Vivaldi,Componist,Muziek,Italië,Viool,Concerti
+Spoken word,Gedichten,Optreden,Slam,Rijm,Woorden
+Klassieke dans,Ballet,Choreografie,Tutu,Zwaan,Coppélia
+Henri Matisse,Schilder,Kunstenaar,Kleurrijk,Frankrijk,Papierknipkunst
+Jazz,Muziek,Trompet,Saxofoon,Improvisatie,New Orleans
+Popart,Schilderkunst,Kunststroming,Marilyn Monroe,Warhol,Kleurrijk
+Ierse stepdance,Dans,Ierland,Jig,Gekleed,Voetenwerk
+Caravaggio,Schilderij,Italië,Barok,Meesterwerk,Jezus
+Cabaretier,Grappen,Comedy,Optreden,Publiek,Cabaletti
+Balletschoenen,Dansen,Ballerina,Spitzen,Kostuum,Tutu
+Popmuziek,Zanger,Radio,Hit,Album,R&B
+Fashion Week,Modellen,Catwalk,Designer,Trends,Stijl
+Stripverhaalheld,Superheld,Comic,Tekenaar,Marvel,Kapitein
+Grafisch ontwerp,Visuele communicatie,Illustrator,Adobe,Logo,Typografie
+Iers volksliedje,Folk,Snaarinstrument,Keltisch,Jig,Traditioneel
+Acrylverfschilderij,Kleuren,Canvas,Abstract,Expressief,Vermengen
+Cabaretgroep,Grappen,Publiek,Satire,Theater,Comedy
+Mime-kunstenaar,Gebaren,Stilte,Beweging,Expressie,Frans
+Pianoconcert,Klassiek,Solist,Toonsoort,Sonata,Dirigent
+Caravaggio-schilderij,Barok,Olieverf,Renaissance,Chiaroscuro,Italië
+Modeontwerpstijl,Minimalistisch,Vintage,Couture,Haute,Grunge
+Beethoven-symfonie,Klassiek,Componist,Noten,Dirigent,Orkest
+Vrijheidsbeeld,Beeld,New York,Koper,Hoogte,Ellis Island
+Het Zwanenmeer,Ballet,Tsjaikovski,Witte zwaan,Odette,Europese dans
+De Grote Golf van Kanagawa,Schilderij,Japan,Ukiyo-e,Hokusai,Watergolven
+Het Laatste Avondmaal,Schilderij,Da Vinci,Jezus,Discipelen,Muurschildering
+The Beatles,Popgroep,John Lennon,Paul McCartney,Abbey Road,Yellow Submarine
+De Denker,Beeldhouwwerk,Rodin,Filosoof,Naakt,Franse kunst
+Bebop,Jazz,Muziekstijl,Charlie Parker,Snelle ritmes,Improvisatie
+Het Rijksmuseum,Museum,Amsterdam,Kunstcollectie,Rembrandt,Nachtwacht
+Flashdance,Film,Dans,Water,Jennifer Beals,Maniac
+De Notenkraker,Ballet,Tsjaikovski,Suikerfee,Clara,Winter
+Broadway,Theater,New York,Musical,Annie,Times Square
