@@ -5,6 +5,7 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
+import android.text.TextUtils;
 import android.util.Log;
 
 import java.io.BufferedReader;
@@ -37,22 +38,24 @@ public class TabooWordsDbHelper extends SQLiteOpenHelper {
             while ((line = reader.readLine()) != null) {
                 // Split the line into the guess word and taboo words
                 String[] words = line.split(",");
-                String guessWord = words[0];
-                String tabooWord1 = words[1];
-                String tabooWord2 = words[2];
-                String tabooWord3 = words[3];
-                String tabooWord4 = words[4];
-                String tabooWord5 = words[5];
+                if (words.length == 6) {
+                    String guessWord = words[0];
+                    String tabooWord1 = words[1];
+                    String tabooWord2 = words[2];
+                    String tabooWord3 = words[3];
+                    String tabooWord4 = words[4];
+                    String tabooWord5 = words[5];
 
-                // Insert the words into the database
-                ContentValues values = new ContentValues();
-                values.put("guess_word", guessWord);
-                values.put("taboo_word_1", tabooWord1);
-                values.put("taboo_word_2", tabooWord2);
-                values.put("taboo_word_3", tabooWord3);
-                values.put("taboo_word_4", tabooWord4);
-                values.put("taboo_word_5", tabooWord5);
-                db.insert("taboo_words", null, values);
+                    // Insert the words into the database
+                    ContentValues values = new ContentValues();
+                    values.put("guess_word", guessWord);
+                    values.put("taboo_word_1", tabooWord1);
+                    values.put("taboo_word_2", tabooWord2);
+                    values.put("taboo_word_3", tabooWord3);
+                    values.put("taboo_word_4", tabooWord4);
+                    values.put("taboo_word_5", tabooWord5);
+                    db.insert("taboo_words", null, values);
+                }
             }
 
             reader.close();
@@ -83,9 +86,18 @@ public class TabooWordsDbHelper extends SQLiteOpenHelper {
         return tabooWords;
     }
 
-    public String getRandomGuessWord() {
+    public String getRandomGuessWord(String[] excludedWords) {
         SQLiteDatabase db = getReadableDatabase();
-        Cursor cursor = db.rawQuery("SELECT guess_word FROM taboo_words ORDER BY RANDOM() LIMIT 1", null);
+
+        // Build the selection clause to exclude previously selected guess words
+        String selection = null;
+        if (excludedWords != null && excludedWords.length > 0) {
+            selection = "guess_word NOT IN ('" + TextUtils.join("','", excludedWords) + "')";
+        }
+
+        // Build the query to select a random guess word
+        Cursor cursor = db.query("taboo_words", new String[]{"guess_word"}, selection, null, null, null, "RANDOM()", "1");
+
         String guessWord = null;
         if (cursor.moveToFirst()) {
             guessWord = cursor.getString(0);
@@ -93,5 +105,6 @@ public class TabooWordsDbHelper extends SQLiteOpenHelper {
         cursor.close();
         return guessWord;
     }
+
 
 }

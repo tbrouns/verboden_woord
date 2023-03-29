@@ -1,15 +1,21 @@
 package com.example.verboden_woord;
 
+import android.content.Context;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 public class MainActivity extends AppCompatActivity {
+    private SharedPreferences sharedPreferences;
 
+    private HashSet<String> excludedGuessWords = new HashSet<>();
     TabooWordsDbHelper dbHelper = new TabooWordsDbHelper(this);
 
     private TextView wordTextView;
@@ -17,6 +23,14 @@ public class MainActivity extends AppCompatActivity {
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+        // Initialize SharedPreferences
+        sharedPreferences = getPreferences(Context.MODE_PRIVATE);
+
+        // Load excluded guess words from SharedPreferences
+        Set<String> excludedGuessWordsSet = sharedPreferences.getStringSet("excluded_guess_words", new HashSet<>());
+        excludedGuessWords.addAll(excludedGuessWordsSet);
 
         // Set layout stuff
         setContentView(R.layout.activity_main);
@@ -43,7 +57,29 @@ public class MainActivity extends AppCompatActivity {
 
     private String getRandomGuessWord() {
         TabooWordsDbHelper dbHelper = new TabooWordsDbHelper(this);
-        String guessWord = dbHelper.getRandomGuessWord();
+
+        String guessWord;
+        while (true) {
+            guessWord = dbHelper.getRandomGuessWord(excludedGuessWords.toArray(new String[excludedGuessWords.size()]));
+            if (guessWord == null) {
+                // Reset the excluded guess words set
+                excludedGuessWords.clear();
+            } else {
+                break;
+            }
+        }
+
+        // Add the new guess word to the excluded set
+        excludedGuessWords.add(guessWord);
+
+        // Save excluded guess words to SharedPreferences
+        SharedPreferences.Editor editor = sharedPreferences.edit();
+        editor.putStringSet("excluded_guess_words", excludedGuessWords);
+        editor.apply();
+
+        // Substitute `_`
+        guessWord = guessWord.replace('_', '\'');
+
         return guessWord;
     }
 

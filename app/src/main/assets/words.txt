@@ -379,7 +379,7 @@ Marinehaven,Schepen,Haven,Onderhoud,Marine,Oorlogsschip
 Schietbaan,Wapens,Pistool,Schieten,Doel,Concentratie
 Schild,Bescherming,Leger,Materiaal,Valt,Zwaar
 Patriot,Liefde,Trots,Geschiedenis,Moraal,Nationaal
-Militaire academie,Opleiding,Officieren,Theorie,Training,Collega's
+Militaire academie,Opleiding,Officieren,Theorie,Training,Collega_s
 Marineuniform,Kleding,Marine,Kostuum,Bescherming,Herkenning
 Tankstation,Brandstof,Voertuig,Leger,Tankstation,Olie
 Luchtafweergeschut,Wapen,Luchtafweer,Bescherming,Vliegtuig,Gevaar
@@ -400,7 +400,7 @@ Getaltheorie,Priemgetal,Deler,GCD,LCM,Modulair
 Algebra,Variabele,Vergelijking,Combinatie,Coëfficiënt,Term
 Limiet,Oneindig,Benaderen,Tegenwaarde,Grens,Continuïteit
 Vector,Kracht,Magnitude,Richting,Eenheid,Resultant
-Puzzel,Sudoku,Schaken,Rubik's Cube,Moeilijk,Oplossen
+Puzzel,Sudoku,Schaken,Rubik_s Cube,Moeilijk,Oplossen
 Matrix,Rij,Kolom,Determinant,Inverse,Transponeren
 Kromme,Parabool,Hyperbool,Ellips,Asymptoot,Raaklijn.
 Kansrekening,Gokken,Winnen,Verliezen,Weddenschap,Casino
@@ -677,7 +677,7 @@ Ophaalbrug,Verkeer,Water,Voetgangers,Openen,Sluiten
 Onderzeeër,Duikboot,Marine,Diepzee,Apparatuur,Sonar
 Warmtepomp,Verwarming,Energiezuinig,Installatie,Airconditioner,Duurzaamheid.
 Lady Gaga,Zangeres,Born This Way,Bradley Cooper,Poker Face,Chromatica
-George Clooney,Acteur,The Ocean's Eleven,ER,Nespresso,Casamigos
+George Clooney,Acteur,The Ocean_s Eleven,ER,Nespresso,Casamigos
 Princess Diana,Koninklijk,Charles,William,Harry,Charity
 Donald Trump,Amerikaans,President,Twitter,Witte Huis,Impeachment
 Angelina Jolie,Brad Pitt,Tomb Raider,Adoptie,Actrice,Humanitarisme
@@ -688,7 +688,7 @@ Oprah Winfrey,The Oprah Winfrey Show,Harpo Productions,OWN,The Color Purple,Phil
 Taylor Swift,Shake It Off,Lover,Kanye West,1989,Red
 Princess Kate,Hertogin,Moeder,The Duchess of Cambridge,William,Kensington Palace
 Tom Cruise,Acteur,Mission Impossible,Scientology,Risky Business,Top Gun
-Beyoncé,Zangeres,Destiny's Child,Lemonade,Jay-Z,Tour
+Beyoncé,Zangeres,Destiny_s Child,Lemonade,Jay-Z,Tour
 Ryan Reynolds,Deadpool,Blake Lively,Green Lantern,Van Wilder,Vancouver
 Jennifer Aniston,Actrice,Friends,Rachel Green,Hollywood,Justin Theroux
 Justin Bieber,Zanger,Baby,Yummy,Selena Gomez,Purpose
@@ -696,16 +696,16 @@ Johnny Depp,Acteur,Pirates of the Caribbean,Tim Burton,Winona Ryder,Amber Heard
 Scarlett Johansson,Black Widow,Avengers,Vrouwelijke Superheld,Actrice,Marriage Story
 Prince,Muzikant,Purple Rain,The Revolution,Paisley Park,Minnesota
 Will Smith,Acteur,The Fresh Prince of Bel-Air,Men in Black,Jada Pinkett-Smith,The Pursuit of Happyness
-Brad Pitt,Fight Club,Mr. & Mrs. Smith,Angelina Jolie,Troy,Ocean's Eleven
+Brad Pitt,Fight Club,Mr. & Mrs. Smith,Angelina Jolie,Troy,Ocean_s Eleven
 Albert Einstein,Wetenschap,Relativiteitstheorie,Nobelprijs,Beroemdheid,Zwitserland
 Jennifer Lawrence,Katniss,Mystique,The Hunger Games,Silver Linings Playbook,American Hustle
 Barack Obama,President,Witte Huis,Verenigde Staten,Democratie,Michelle Obama
-Queen Elizabeth II,Koningin,Engeland,Buckingham Palace,Koninginmoeder,Corgi's
+Queen Elizabeth II,Koningin,Engeland,Buckingham Palace,Koninginmoeder,Corgi_s
 Michael Jordan,Basketbal,Chicago Bulls,The Last Dance,Air Jordan,Scottie Pippen
 Serena Williams,Tennis,Wimbledon,Grand Slam,Nummer 1,Zusters
-Elvis Presley,Zanger,Rock-'n-roll,Memphis,Gitaar,"The King"
+Elvis Presley,Zanger,Rock-_n-roll,Memphis,Gitaar,"The King"
 Bill Gates,Microsoft,Windows,Billionair,Seattle,Philanthropist
-Audrey Hepburn,Actrice,Breakfast at Tiffany's,Givenchy,Roman Holiday,My Fair Lady
+Audrey Hepburn,Actrice,Breakfast at Tiffany_s,Givenchy,Roman Holiday,My Fair Lady
 Steve Jobs,Apple,Innovatie,IPhone,Pixar,NeXT
 Princess Leia,Star Wars,Carrie Fisher,Galactic Empire,The Force,Jabba the Hut
 Muhammad Ali,Boksen,The Greatest,Rumble in the Jungle,Parkinson,Float like a Butterfly,sting like a bee
@@ -735,7 +735,7 @@ Balletdanser,Klassiek,Spitzen,Tutu,Choreografie,Dansen
 Tom Hanks,Forrest Gump,Cast Away,Philadelphia,Acteur,Oscars
 Tiger Woods,Golf,Masters,Caddy,Scandal,PGA Tour
 Federico Fellini,Italiaans,Regisseur,La Dolce Vita,Nino Rota,Roma
-Michelle Obama,First Lady,Becoming,Barack Obama,White House,Let's Move!
+Michelle Obama,First Lady,Becoming,Barack Obama,White House,Let_s Move!
 Frida Kahlo,Mexicaanse kunstenaar,Vrouw,Surrealisme,Polio,Diego Rivera
 Julia Roberts,Actrice,Pretty Woman,Erin Brockovich,Hollywood,Richard Gere
 Leonardo da Vinci,Kunstenaar,Uitvinder,Mona Lisa,Renaissance,Anatomie
@@ -748,7 +748,7 @@ Emma Watson,Hermione Granger,Harry Potter,UN Women,HeForShe,Belle
 Ellen Page,Juno,X-Men,Actress,LGBT,Inception
 Freddie Mercury,Zanger,Queen,Bohemian Rhapsody,Legende,We will rock you
 Greta Thunberg,Climate change,Activist,Sweden,Fridays for Future,United Nations
-Jack Nicholson,The Shining,Joker,Actor,Academy Awards,One Flew Over the Cuckoo's Nest
+Jack Nicholson,The Shining,Joker,Actor,Academy Awards,One Flew Over the Cuckoo_s Nest
 Jennifer Lopez,Zangeres,Actrice,Bronx,Alex Rodriguez,Selena
 Kanye West,Rapper,Kim Kardashian,Fashion,El Gordo,Album
 Katherine Johnson,NASA,Hidden Figures,Mathematician,John Glenn,Langley Research Center
@@ -757,8 +757,8 @@ Lin-Manuel Miranda,Schauspieler,Hamilton,In the Heights,Moana,Puerto Rico
 Malala Yousafzai,Nobel Prijs,Vrouwenrechten,Taliban,Vedergewicht,Pakistaans
 Mark Zuckerberg,Facebook,Harvard,Silicon Valley,The Social Network,Privacy
 Neil Armstrong,Maanlanding,Astronaut,Apollo 11,Ruimtevaart,Armstrong Effect
-Stephen Hawking,A Brief History of Time,Lou Gehrig's disease,black holes,The Theory of Everything,cosmology
-Steven Spielberg,Jaws,E.T.,Jurassic Park,Schindler's List,Hollywood
+Stephen Hawking,A Brief History of Time,Lou Gehrig_s disease,black holes,The Theory of Everything,cosmology
+Steven Spielberg,Jaws,E.T.,Jurassic Park,Schindler_s List,Hollywood
 Usain Bolt,World Records,Jamaica,Olympics,Sprinting,Puma
 Arnold Schwarzenegger,Terminator,California Governor,Bodybuilding,Kindergarten Cop,Austria
 Emma Stone,La La Land,Easy A,The Help,Birdman,Academy Awards
@@ -768,8 +768,8 @@ Ryan Gosling,Acteur,The Notebook,La La Land,Canada,Dancing
 Cristiano Ronaldo,Voetballer,Real Madrid,Champions League,Portugal,Goals
 Barrack Obama,President,Witte Huis,Change,Michelle Obama,Democratie
 Jackie Chan,Acteur,Drunken Master,Rush Hour,Martial Arts,Hong Kong
-Billie Eilish,Bad Guy,When We All Fall Asleep,Ocean Eyes,Finneas O'Connell,Grammy Awards
-Sofia Vergara,Modern Family,Colombia,America's Got Talent,Pepsi,Actress
+Billie Eilish,Bad Guy,When We All Fall Asleep,Ocean Eyes,Finneas O_Connell,Grammy Awards
+Sofia Vergara,Modern Family,Colombia,America_s Got Talent,Pepsi,Actress
 Adele,Hello,Someone Like You,Rolling in the Deep,British,Grammy
 Elon Musk,Ondernemer,Tesla,SpaceX,PayPal,Neuralink
 Justin Timberlake,*NSYNC,Trolls,Bye Bye Bye,Sing,Mirrors
@@ -777,11 +777,11 @@ Queen,Bohemian Rhapsody,Freddie Mercury,We Will Rock You,British,Rock band
 Michael Jackson,Popmuziek,Zanger,Danser,Billie Jean,Thriller
 Kim Kardashian,Reality-ster,Familie,Kanye West,Social media,Mode
 Tom Hardy,Acteur,Venom,The Dark Knight Rises,Mad Max: Fury Road,Peaky Blinders
-Freddie Prinze Jr.,Acteur,She's All That,Scooby-Doo,Buffy the Vampire Slayer,Sarah Michelle Gellar
+Freddie Prinze Jr.,Acteur,She_s All That,Scooby-Doo,Buffy the Vampire Slayer,Sarah Michelle Gellar
 Billie Holiday,Jazz,Strange Fruit,Lady Sings the Blues,Singer,Harlem
 Emma Roberts,Actrice,American Horror Story,Scream Queens,Aquamarine,Nerve
 Martin Luther King Jr.,Burgerrechten,Vrijheid,Leider,Discriminatie,Racisme
-Ryan Seacrest,American Idol,Live with Kelly and Ryan,E! News,Host,Ryan's Roses
+Ryan Seacrest,American Idol,Live with Kelly and Ryan,E! News,Host,Ryan_s Roses
 Joaquin Phoenix,Joker,Acteur,Veganisme,Gladiator,Walk the Line
 Steve Irwin,Crocodile Hunter,Animal Planet,Australia,Wildlife,Conservation
 Kate Winslet,Titanic,The Reader,British,Academy Awards,Revolutionary Road
@@ -800,10 +800,10 @@ Tom Brady,New England Patriots,Tampa Bay Buccaneers,Super Bowl,Gisele,Quarterbac
 Kamala Harris,Vice President,Joe Biden,California,Prosecutor,Howard University
 Harry Styles,Zanger,One Direction,Watermelon Sugar,Fine Line,Sign of the Times
 George Michael,Popster,Last Christmas,Wham!,Careless Whisper,Faith
-Winnie Harlow,Model,Canada,Anti-pigmentatie,America's Next Top Model,Werkzaam met Tyra Banks
+Winnie Harlow,Model,Canada,Anti-pigmentatie,America_s Next Top Model,Werkzaam met Tyra Banks
 Jamie Oliver,Koken,Naked Chef,Engels,Voeding,Restaurant
 Justin Trudeau,Canada,Premier,Politiek,Fietsie,Liberal Party
-Gigi Hadid,Model,Zayn Malik,Victoria's Secret,Kendall Jenner,IMG
+Gigi Hadid,Model,Zayn Malik,Victoria_s Secret,Kendall Jenner,IMG
 Dua Lipa,Zangeres,New Rules,Future Nostalgia,Grammy,IDGAF
 Benedict Cumberbatch,Acteur,Dr. Strange,Sherlock,Imitation Game,Emmy
 Viola Davis,Actrice,How to Get Away With Murder,The Help,Fences,Emmy
@@ -836,8 +836,8 @@ Jonah Hill,Schauspieler,Superbad,Wolf of Wall Street,Seth Rogen,Komödie
 Jennifer Hudson,Sängerin,American Idol,Dreamgirls,Beyoncé,Weight Watchers
 Mahershala Ali,Acteur,Moonlight,True Detective,Green Book,House of Cards
 Lizzo,Sängerin,Flute,Truth Hurts,Body Positivity,Juice
-Dave Chappelle,Komiker,Chappelle's Show,Netflix,Stand-up,Half Baked
-Lupita Nyong'o,Schauspielerin,Us,12 Years a Slave,Black Panther,Kenia
+Dave Chappelle,Komiker,Chappelle_s Show,Netflix,Stand-up,Half Baked
+Lupita Nyong_o,Schauspielerin,Us,12 Years a Slave,Black Panther,Kenia
 Chrissy Teigen,Model,Kochbuch,Twitter,John Legend,Lip Sync Battle
 John Boyega,Schauspieler,Star Wars,Attack the Block,London,Nigeria
 Mindy Kaling,Schauspielerin,The Office,The Mindy Project,Buchautorin,Indien
@@ -848,7 +848,7 @@ John Legend,Sänger,All of Me,The Voice,Chrissy Teigen,EGOT
 Phoebe Waller-Bridge,Schauspielerin,Fleabag,Killing Eve,Buchautorin,Britisch
 Rami Malek,Schauspieler,Bohemian Rhapsody,Mr. Robot,Ägypten,Oscar
 Tom Holland,Acteur,Spider-Man,Spider-Man: No Way Home,The Impossible,British
-Awkwafina,Schauspielerin,Crazy Rich Asians,Ocean's 8,Rapperin,Komikerin
+Awkwafina,Schauspielerin,Crazy Rich Asians,Ocean_s 8,Rapperin,Komikerin
 Prince William,Kate Middleton,Prins,Koninklijk,Duke of Cambridge,Diana
 Natalie Portman,Actrice,Black Swan,Star Wars,V voor Vendetta,Harvard
 Eiffeltoren,Parijs,Frankrijk,Monument,Staal,Bouwkunde
@@ -940,7 +940,7 @@ Foton,Licht,Elektromagnetisch,Energie,Golf,Deeltje
 Kracht,Massa,Impuls,Koppel,Gewicht,F = ma
 Kinetische energie,Energie,Beweging,Potentiële energie,Wet van behoud van energie,Snelheid
 Golven,Frequenties,Amplitude,Trillingen,Geluid,Licht
-Brekingsindex,Breking,Optica,Licht,Prisma,Snell's Law
+Brekingsindex,Breking,Optica,Licht,Prisma,Snell_s Law
 Zuurgraad,Neutralisatie,pH,Basen,Indicator,Buffer
 Ohm,Elektrische weerstand,Spanning,Stroomsterkte,Wet van Ohm,Elektriciteitswetten
 Koudemiddel,Koelmachine,Verdampen,Compressor,Warmtewisselaar,Koeling
@@ -950,7 +950,7 @@ Atmosfeer,Lucht,Dampkring,Ozonlaag,Gas,Atmosferische
 Krachtveld,Magnetische kracht,Elektrostatische kracht,Coulomb,Lorentz-kracht,Velden
 Torsie,Draaikracht,Torsiemoment,Stijfheid,Verdraaiing,Buiging
 Oscillatie,Trilling,Slag,Periode,Trillingsfrequentie,Resonantie
-Dichtheid,Massa,Volume,Drijven,Archimedes' principe,Waterverplaatsing
+Dichtheid,Massa,Volume,Drijven,Archimedes_ principe,Waterverplaatsing
 Ionisatie,Elektronen,Straling,Energie,Atoom,Ionisatie-energie
 Snelheid,Afstand,Tijd,Beweging,Traject,Versnelling
 Blackbox,Onbekend,Informatie,Systeem,Input,Output
@@ -1103,7 +1103,7 @@ Seks,Intiem,Passie,Seksualiteit,Orgasme,Liefde
 Cultuur,Kunst,Muziek,Toneel,Film,Literatuur
 Communicatie,Overleg,Contact,Interactie,Feedback,Dialoog
 Armoede,Geld,Arm,Bijstand,Voedselbank,Rijkdom
-Werk,Carrière,Salaris,Baan,Kantoor,Collega's
+Werk,Carrière,Salaris,Baan,Kantoor,Collega_s
 Familie,Ouders,Broers,Zussen,Kinderen,Familiedrama
 Magazijn,Opslagruimte,Voorraad,Logistiek,Distributie,Pallets
 Verpakking,Doos,Pakken,Verzenden,Transport,Bubble wrap
@@ -1161,7 +1161,7 @@ Orderverwerking,Orderpicking,Verzamelen,Bestelproces,Orderbevestiging,Verwerking
 Ondernemersplan,Businessplan,Strategie,Doelstellingen,Marktanalyse,Financieel plan
 Verkopen,Omzet,Verkoopgesprek,Acquisitie,Commerciële vaardigheden,Deal
 Commissie,Percentage,Provisie,Beloning,Verkoopbonus,Vergoeding
-Distributienetwerk,Distributiekanalen,Distributeur,Overeenkomst,Samenwerking,Verkoopregio's
+Distributienetwerk,Distributiekanalen,Distributeur,Overeenkomst,Samenwerking,Verkoopregio_s
 Voorraadrotatie,Uitverkoop,Haltbarkeit,Houdbaarheid,Seizoensgebonden,Vervangende producten
 Gedicht,Vers,Rijm,Woorden,Dichter,Stijl
 Boekwinkel,Literatuur,Lezen,Boeken,Schrijver,Roman
@@ -1281,8 +1281,8 @@ Zoekmachine,Google,Bing,Zoeken,Resultaten,Ranking
 Hacken,Cybercrime,Inbreken,Beveiliging,Computervredebreuk,Wachtwoord
 Virtual reality,3D,Headset,Simulatie,Virtueel,Immersie
 IT-afdeling,Helpdesk,Technische ondersteuning,Infrastructuur,Servers,Netwerk
-Big data,Grote gegevens,Data-analyse,Business intelligence,Computerprogramma's,Data mining
-Programmatuur,Software,Computercode,Programma's,Ontwikkeling,Taal
+Big data,Grote gegevens,Data-analyse,Business intelligence,Computerprogramma_s,Data mining
+Programmatuur,Software,Computercode,Programma_s,Ontwikkeling,Taal
 Cyberaanval,Hacken,Malware,Virus,DoS-aanval,Phishing
 Robotica,Kunstmatige intelligentie,Machine learning,Robot,Besturingssysteem,Automatisering
 Tablet,Computer,Draagbaar,Scherm,App,Internet
@@ -1367,7 +1367,7 @@ Gehaktbal,Vlees,Rond,Stoofpot,Ballen,Jus
 Aspergesoep,Groente,Romig,Soep,Hollandse keuken,Wit
 Zuurkool,Kool,Stamppot,Winter,Zuur,Hollands
 Fruitsalade,Gezond,Lekker,Zomer,Vers,Mix
-Pindasoep,Surinaams,Pittig,Soep,Pinda's,Ei
+Pindasoep,Surinaams,Pittig,Soep,Pinda_s,Ei
 Spekkoek,Indonesisch,Laagjes,Zoet,Kruidig,Gebak
 Pestosaus,Saus,Groen,Pasta,Knoflook,Basilicum
 Ice tea,Frisdrank,Thee,Zomer,Koud,Lemon
@@ -1441,9 +1441,9 @@ The Catcher in the Rye,Holden,Fonebone,New York City,Censorship,Coming-of-age
 De Avonden,Gerard Reve,Oud en Nieuw,Amsterdam,Verveling,Ironie
 1984,Big Brother,Doublethink,Room 101,Newspeak,Winston
 De Reünie,Sabine,Nijmegen,Stad,Ouderlijk huis,Afgunst
-Het Achterhuis,Anne Frank,Holocaust,Bezetting,Nazi's,Joden
+Het Achterhuis,Anne Frank,Holocaust,Bezetting,Nazi_s,Joden
 De Aanslag,Anton,Oorlog,Verzet,Tram,Karakter
-Ender's Game,Bugger,Battle school,Petra,Bonzo,Xenocide
+Ender_s Game,Bugger,Battle school,Petra,Bonzo,Xenocide
 De Ontdekking van de Hemel,Mulisch,Goddelijke Moeder,Onsterfelijkheid,Filosofie,Auschwitz
 Pride and Prejudice,Jane Austen,Mr. Darcy,Conflicten,Huwelijk,Romantiek
 Moby-Dick,Ahab,Walvis,Pequod,Ishmael,Nantucket
@@ -1459,13 +1459,13 @@ The Lion,the Witch and the Wardrobe,Narnia,Wardrobe,Aslan,Edmund,Tumnus
 To Kill a Mockingbird,Scout,Atticus,Maycomb,Racisme,Boo Radley
 The Hunger Games,Katniss,Peeta,Districts,Capitol,President Snow
 A Tale of Two Cities,Franse Revolutie,Londen,Sydney Carton,Charles Darnay,Madame Defarge
-The Magician's Nephew,Charn,Deur,Polly,Digory,Jadis
+The Magician_s Nephew,Charn,Deur,Polly,Digory,Jadis
 The Catch-22,Wereldoorlog II,Luitsenant,Milo Minderbinder,Yossarian,Majoor Major Major Major
 Little Women,Meg,Jo,Beth,Amy,Liefde
 The Picture of Dorian Gray,Ontbinding,Portret,Narcisme,Basiel Hallward,Lord Henry Wotton
 Heart of Darkness,Congo River,Kurtz,Imperialisme,Donkere ziel,Marlow
 The Sound and the Fury,Compson Family,Jessica Rabbit,Benjy,Quentin,Jason
-The Hitchhiker's Guide to the Galaxy,Douglas Adams,Ruimte,Handdoek,Marvin,Don't Panic
+The Hitchhiker_s Guide to the Galaxy,Douglas Adams,Ruimte,Handdoek,Marvin,Don_t Panic
 The Stranger,Maman is dood,Meursault,Arabier,Zonlicht,Rechtbank
 The Bell Jar,Sylvia Plath,Esther Greenwood,Krankzinnigheid,Psychiatrische inrichting,College
 The Old Man and the Sea,Ernest Hemingway,Santiago,Grote vis,Cuba,Joseph Waldmeir
@@ -1482,7 +1482,7 @@ Jane Eyre,Orphan,Rochester,Thornfield Hall,Bertha,Ingenuity
 The Chronicles of Narnia,Lucy Pevensie,Narnia,Aslan,Toverwereld,Witte Heks
 Wuthering Heights,Earnshaw,Hareton,Moors,Cathy,Linton
 Anna Karenina,Overspel,Spoorlijn,Vronsky,Graaf Karenin,Russische adel
-The Handmaid's Tale,Bevalling,Alleenstaande vrouwen,Elisabeth Moss,Romantiek,Morele plicht
+The Handmaid_s Tale,Bevalling,Alleenstaande vrouwen,Elisabeth Moss,Romantiek,Morele plicht
 The Diary of a Young Girl (Anne Frank),Holocaust,Keizersgracht,Joden,Achterhuis,Otto Frank
 The Alchemist,Santiago,Schat,Andalusië,Samuel,Reis
 Pride of Baghdad,Leeuw,Oorlog,Bagdad,Natuur,Zoo
@@ -1546,7 +1546,7 @@ Fotosynthese,Zonlicht,Koolstofdioxide,Zuurstof,Chlorofyl,Glucose
 Insecten,Vleugels,Zes poten,Antenne,Exoskelet,Zoem
 Haaien,Vin,Vleesetend,Oceaan,Grote witte,Kraakbeenachtig
 Zintuigen,Smaken,Horen,Zien,Ruiken,Tast
-Foto's,Camera,Beelden,Print,Fotograferen,Scherpstellen
+Foto_s,Camera,Beelden,Print,Fotograferen,Scherpstellen
 Koraalrif,Oceaan,Kleurrijk,Vis,Kust,Zeeleven
 Mieren,Kolonie,Werker,Blad,Koningin,Zoetigheid
 Menselijk lichaam,Botten,Bloedsomloop,Spieren,Weefsels,Organen
@@ -1666,14 +1666,14 @@ John Locke,Filosoof,Politiek,Mensenrechten,Liberalisme,Verlichting
 John Keats,Dichter,Romantiek,Ode,Nachttegaal,Tuberculose
 Franz Kafka,Schrijver,Praag,Kafkaësk,Proces,Droom
 Che Guevara,Guerrilla,Cuba,Revolutionair,Marxist,Assassination
-John Brown,Abolitionist,Slavernij,Kansas,Harper's Ferry,Geëxecuteerd
-Empress Dowager Cixi,Keizerin,China,Boksen,Verboden Stad,Xi'an
+John Brown,Abolitionist,Slavernij,Kansas,Harper_s Ferry,Geëxecuteerd
+Empress Dowager Cixi,Keizerin,China,Boksen,Verboden Stad,Xi_an
 Ivan Pavlov,Fysioloog,Klassieke conditioneringsleer,Hond,Speeksel,Nobel
 Mary Wollstonecraft,Feminisme,Activist,Schrijver,Gelijke rechten,Frankrijk
 Simon Bolivar,Onafhankelijkheid,Zuid-Amerika,Caracas,Gran Colombia,Staatsman
 Henry David Thoreau,Schrijver,Walden Pond,Burgerlijke ongehoorzaamheid,Natuur,Transcendentalisme
 Mata Hari,Danseres,Spion,Nederland,Eerste Wereldoorlog,Fusillade
-Napoleon's tegenspeler,Wellington,Engeland,Brit,Waterloo,Blücher
+Napoleon_s tegenspeler,Wellington,Engeland,Brit,Waterloo,Blücher
 Egyptische vorstin,farao,Nijl,Cleopatra,Caesar,Rome
 Burgerrechtenactivist,segregatie,Amerika,Black,geweldloosheid,racistisch
 Renaissance kunstenaar,Schilder,Mona Lisa,Vitruvian man,Laatste Avondmaal,Florence
@@ -1692,7 +1692,7 @@ Amerikaanse politicus,grondwet,onafhankelijkheid,president,rivier,Unie
 Ruimtereiziger,Maan,Apollo,lanceerplatform,astronaut,ruimtevaart
 Mexicaanse schilderes,surrealistisch,zelfportretten,miskraam,Viva la Vida,Kahlo
 Romeinse politicus,senaat,Vestaalse maagden,dictatuur,Galliërs,censuur
-Napoleon's broer,Keizer,Bonaparte,Frankrijk,Strijder,Cursus
+Napoleon_s broer,Keizer,Bonaparte,Frankrijk,Strijder,Cursus
 Egyptische farao,Toetanchamon,Groot,Dodenmasker,Thebe,Vallei der Koningen
 Amerikaanse Founding Father,Onafhankelijkheid,Washington,President,Grondwet,Oorlog
 Renaissance schilder,Mona Lisa,Sfumato,Florence,Kunst,Meesterwerk
@@ -1819,12 +1819,12 @@ Adolf Hitler,Nazi,Oorlog,Holocaust,Mein Kampf,Dictator
 De Verenigde Staten van Amerika,Onafhankelijkheid,Burgerrechten,Revolutie,Grondwet,Westward Expansion
 De Renaissance,Kunst,Humanisme,Italië,Vrijheid,Michelangelo
 De Oude Grieken,Olymische Spelen,Socrates,Filosofie,Mythologie,Tempels
-De Egyptische farao's,Piramide,Mummie,Sphinx,Nijl,Farao's
+De Egyptische farao_s,Piramide,Mummie,Sphinx,Nijl,Farao_s
 Het Wilde Westen,Cowboys,Indianen,Saloons,Pistolen,Buffalo Bill
 Het Romeinse Rijk,Julius Ceasar,Gladiatoren,Legioenen,Colosseum,Pax Romana
 De Eerste Wereldoorlog,Loopgraven,Atilla de Hun,Wapens,Duitsland,Oostenrijk
 Het oude China,Confucianisme,Taoïsme,Keizers,Zijderoute,Mandarijnen
-Het oude Egypte,Mummie,Nijl,Hieroglyfen,Farao's,Tombe
+Het oude Egypte,Mummie,Nijl,Hieroglyfen,Farao_s,Tombe
 De Maya-beschaving,Tikal,Kalender,Offeren,Tempels,Chichén Itzá
 Het Colosseum,Rome,Amfitheater,Gladiatoren,Keizer,Arena
 Jane Austen,Drama,Manuscript,Roman,Mr. Darcy,Regency
@@ -1839,7 +1839,7 @@ De Melkweg,Sterren,Zonnestelsel,Astronomie,Ruimte,Galaxies
 De Zijderoute,Handel,Karavaan,Oost en West,Merchants,Paarden
 De Maya-ark,Midden-Amerika,Geheimzinnig,Machu Picchu,Bouwwerk,Esoterie
 Het Bijbelverhaal van David en Goliath,Filistijnen,Slag,Steen,Bijbel,Geloven
-De Grote Depressie,Wereldwijde economie,Wall Street Crash,President Roosevelt,Werkeloosheid,1930's
+De Grote Depressie,Wereldwijde economie,Wall Street Crash,President Roosevelt,Werkeloosheid,1930_s
 De Azteken,Montezuma,Tenochtitlán,Offerfeesten,Quetzalcoatl,Tempel van de Zon
 De ontdekking van de theorie van de evolutie,Charles Darwin,Natuurselectie,Soort,Arya,Evolutie
 De Amerikaanse Burgeroorlog,Lincoln,Zuiden,Gettysburg,Slavernij,Lee
@@ -1865,7 +1865,7 @@ Dinosaurussen,Fossielen,Meteoriet,Uitgestorven,Tijdperk,Evolutie
 De Titanic,IJsberg,Schipbreuk,Passagiers,Oceaan,Southampton
 De Russische tsaar Nicolaas II,Bolsjewieken,Februari-revolutie,Geëxecuteerd,Hemofilie,Raspoetin
 De Maya-kalender,Apocalyps,Tempels,Voorspellingen,Maya-cultuur,Zonnestelsel
-De Ontdekkingsreizigers van de Nieuwe Wereld,Columbus,Conquistadores,Azteken,Inca's,Navigatie
+De Ontdekkingsreizigers van de Nieuwe Wereld,Columbus,Conquistadores,Azteken,Inca_s,Navigatie
 De oprichting van de Verenigde Naties,Wereldoorlog II,Churchill,Roosevelt,Charter,Veiligheidsraad
 Het verdrag van Versailles,Eerste Wereldoorlog,Vredesovereenkomst,Duitsland,Reparaties,Wilson
 De uitvinding van de drukpers,Gutenberg,Boeken,Inkt,Gutenbergbijbel,Massaproductie
@@ -1882,7 +1882,7 @@ De Dinosaurussen,Uitgestorven,Paleontologie,Fossielen,Jura-tijdperk,T-Rex
 De Mayabeschaving,Oerwoud,Tempels,Hiërogliefen,Getallenstelsel,Balspel
 De Verlichting,Kant,Rousseau,Verdraagzaamheid,Rede,Mensenrechten
 De ontdekking van Australië,Aboriginals,James Cook,Terra Incognita,Kangoeroes,Botany Bay
-Het Oude Egypte,Farao's,Polytheïsme,Mummificatie,Nijl,Pyramides
+Het Oude Egypte,Farao_s,Polytheïsme,Mummificatie,Nijl,Pyramides
 De Middeleeuwse Ridders,Harnas,Kasteel,Zwaardvechten,Kruistocht,Jousting
 De Holocaust,Auschwitz,Concentratiekampen,Fascisme,Joden,Hitler
 De Europese Ontdekkingsreizen,Columbus,Vasco da Gama,Zeeweg naar India,Marco Polo,Conquistadores
@@ -1890,15 +1890,15 @@ Piramide,Egypte,Graf,Mummie,Sphinx,Faraon
 Romeinse soldaat,Gladiator,Julius Caesar,Colosseum,Legioen,Keizer
 Vikinghelm,Noormannen,Drakkar,Helm,Scandinavië,Plunderen
 Grieks theater,Sophocles,Aeschylus,Athene,Drama,Maskers
-Darwin's evolutietheorie,Natuurlijke selectie,Ontwikkeling,Soorten,Adaptatie,Charles Darwin
+Darwin_s evolutietheorie,Natuurlijke selectie,Ontwikkeling,Soorten,Adaptatie,Charles Darwin
 Columbus,Amerika,Ontdekking,Zeereizen,Spanje,Santo Domingo
 Middeleeuws kasteel,Koude oorlog,Ridders,Moat,Vesting,Torens
 Egyptische goden,Osiris,Ra,Anubis,Mythologie,Horus
-Napoleon's Waterloo,Wellington,Frankrijk,Leidende rol,Verlies,Europese oorlog
+Napoleon_s Waterloo,Wellington,Frankrijk,Leidende rol,Verlies,Europese oorlog
 Heksenprocessen,Salem,Ketterij,Toverij,Vervolging,Duivels
 Oude Maya-tempel,Kalender,Copan,Stèles,Glyphen,Tikal
 Het gouden tijdperk van Griekenland,Alexander de Grote,Mycene,Athene,Sparta,Filosofen
-Rusland's Tsaren,Romanov,Peter de Grote,Winterpaleis,Kiev,Regentes
+Rusland_s Tsaren,Romanov,Peter de Grote,Winterpaleis,Kiev,Regentes
 De Japanse shoguns,Tokugawa,Samurai,Feodalisme,Edo,Slagzwaard
 Middeleeuwse hoefsmid,Smederij,Gereedschap,Paarden,Steekwagen,Smid
 De Franse Drie-eenheid,Liberté,Égalité,Fraternité,Vlag,Marianne
@@ -1909,7 +1909,7 @@ De Gouden Eeuw in Nederland,Schilderkunst,Handel,Koloniën,Scheepvaart,Oranje
 Kathedraal van Notre-Dame,Parijs,Religie,Gotische architectuur,Quasimodo,Brand
 Het Rijk van Mali,Mansa Musa,Goud,Timboektoe,Islam,Sahara-woestijn
 De Middeleeuwse kruistochten,Heilige oorlog,Jeruzalem,Tempeliers,Richard Leeuwenhart,Moslims
-De Oude Egyptische farao's,Ramses,Cleopatra,Nijl,Anubis,Mummificatie
+De Oude Egyptische farao_s,Ramses,Cleopatra,Nijl,Anubis,Mummificatie
 Churchill,Engels,Premier,Oorlog,Sigaret,Londen
 Mondkapje,Virus,Pandemie,Gezondheid,Neus,Mond
 Kathedraal,Kerk,Geloof,Gebouw,Gebed,Bisschop
@@ -1932,7 +1932,7 @@ De Neanderthalers,Prehistorie,Evolutie,Jager-verzamelaar,Uitgestorven,Mensachtig
 De Holle Bolle Gijs,Efteling,Attractie,Sprookjesbos,Ton,Papier-maché
 De Toren van Pisa,Schuin,Italië,Architectuur,Kathedraal,Toscane
 De Kelten,Druïden,Ogham,Mythen,Ierland,Goudsmeden
-De Honderdjarige Oorlog,Frankrijk,Engeland,Jeanne d'Arc,Nationale symbolen,Vrede
+De Honderdjarige Oorlog,Frankrijk,Engeland,Jeanne d_Arc,Nationale symbolen,Vrede
 De Karolingische Renaissance,Karel de Grote,Latijn,Benedictijnen,Alcuin,Paltskapel
 De Oude Romeinen,Cicero,Centurio,Senaat,Gladius,Legioen
 De Maya-tempels,Centraal-Amerika,Beschaving,Offeren,Kalender,Piramide
@@ -2008,7 +2008,7 @@ Burgerrechten,Discriminatie,Gelijkheid,Grondwet,Persoonlijke vrijheid,Mensenrech
 Terrorismebestrijding,Veiligheid,Terrorisme,Strafrechtelijke vervolging,Intel,Inlichtingendienst
 Rechten van minderheden,Tegengestelde posities,Intolerantie,Etnische groepen,Culturele rechten,Ontwikkelingslanden
 Diplomatieke betrekkingen,Vertegenwoordiging,Ambassades,Grensoverschrijdende samenwerking,Souvereiniteit,Allianties
-Protocol,Bepalingen,Vastleggen protocollen,Agenda's,Bureaucratie,Hiërarchie
+Protocol,Bepalingen,Vastleggen protocollen,Agenda_s,Bureaucratie,Hiërarchie
 Kiesstelsel,Evenredige vertegenwoordiging,Meerderheidsstelsel,Politieke partijen,Stemmen,Kiesdistricten.
 Obama,Democraten,Republikeinen,President,Amerika,Witte Huis
 Premier,Regering,Minister,Kabinet,Kiesdistrict,Kiescampagne
@@ -2234,9 +2234,9 @@ Benchmarking,Metingen,Vergelijking,Concurrerend,Score,Prestatie
 Contractonderhandeling,Overeenkomst,Voorwaarden,Onderhandelen,Juridisch,Handtekening
 Werksfeer,Collegialiteit,Samenwerking,Communicatie,Tolerantie,Werkomgeving
 Supply Chain Management,Voorraad,Distributie,Levering,Logistiek,Netwerk.
-Team,Werknemers,Personeel,Collega's,Organisatie,Afdeling
+Team,Werknemers,Personeel,Collega_s,Organisatie,Afdeling
 Procesverbetering,Efficiëntie,Optimalisatie,Workflow,Lean,Six Sigma
-Doelstellingen,Targets,Resultaten,Prestaties,KPI's,Doelen
+Doelstellingen,Targets,Resultaten,Prestaties,KPI_s,Doelen
 Besluitvorming,Beslissing,Stelling,Standpunt,Conclusie,Oordeel
 Projectplanning,Taakverdeling,Deadlines,Gantt-chart,Planningstool,Deadline
 Samenwerking,Teamwork,Synergie,Samenwerken,Coöperatie,Alliantie
@@ -2414,10 +2414,10 @@ Praag,Tsjechië,Karlsbrug,Burcht van Praag,Kafka,Pilsner bier
 Niagara Falls,Canada,Waterval,Boottocht,Maid of the Mist,Regenboog
 Algarve,Portugal,Zon,Strand,Visgrill,Golfen
 Tsunami,Golf,Natuurramp,Aarde,Zee,Ramp
-Inca's,Peru,Machu Picchu,Geschiedenis,Cultuur,Mysterieus
+Inca_s,Peru,Machu Picchu,Geschiedenis,Cultuur,Mysterieus
 Toren van Pisa,Italië,Scheef,Toeristisch,Monument,Architectuur
 Barrier Reef,Koraal,Australië,Duiken,Oceaan,Vis
-Noordpool,Sneeuw,IJs,Koud,Poolcirkel,Eskimo's
+Noordpool,Sneeuw,IJs,Koud,Poolcirkel,Eskimo_s
 Azië,Continent,China,India,Cultuur,Grootste
 Thames,Rivier,Londen,Engeland,Brug,Wisselen
 Amerika,Continent,Verenigde Staten,Canada,Cultuur,Indianen
@@ -2431,7 +2431,7 @@ New Delhi,India,Taj Mahal,Curry,Ganges,Regering
 Scandinavië,Noord-Europa,Vikingen,Fjorden,Ikea,Aurora Borealis
 Niagarawatervallen,Canada,Amerika,Natuur,Barrière,Toeristisch
 Jordanië,Petra,Woestijn,Oudheid,Rode Zee,Koning
-Kathmandu,Nepal,Everest,Honger,Backpacken,Stupa's
+Kathmandu,Nepal,Everest,Honger,Backpacken,Stupa_s
 Zuid-Korea,Seoul,K-Pop,Samsung,Kimchi,Taekwondo
 Mediterraan,Zee,Olijven,Vis,Zon,Kust
 Oostzee,Baltisch,Zeilen,Kust,Steden,Zonsondergang
@@ -2449,7 +2449,7 @@ Jurassic Park,Dinosaurussen,T-Rex,Steven Spielberg,Hammond,Velociraptor
 The Walking Dead,Rick,Zombies,Alexandria,Negan,Michonne
 Pirates of the Caribbean,Schat,Johnny Depp,Black Pearl,Zeilen,Elizabeth Swann
 The Simpsons,Springfield,Homer,Bart,Marge,Lisa
-Stranger Things,Upside Down,80's,Demogorgon,Dungeons and Dragons,Hawkins
+Stranger Things,Upside Down,80_s,Demogorgon,Dungeons and Dragons,Hawkins
 The Matrix,Keanu Reeves,Virtual Reality,Morpheus,Trinity,Neo
 Forrest Gump,Tom Hanks,Shrimp,Pingpong,Bubba,Jenny
 The Big Bang Theory,Sheldon,Leonard,Penny,Raj,Howard
@@ -2476,9 +2476,9 @@ Ontsnapping,Vrijheid,Gevangenis,Bevrijden,Handboeien,Vluchten
 Batman,Joker,DC Comics,Masker,Vleermuis,Crimefighter
 The Office,Scranton,Michael Scott,Jim,Dwight,Pam
 James Bond,MI6,Aston Martin,Walther PPK,Onconventionele gadgets,Miss Moneypenny
-Harry Potter and the Chamber of Secrets,Zweinstein,Basilisk,Tom Riddle,Ron's gebroken toverstok,Gevangenismaaltijd
+Harry Potter and the Chamber of Secrets,Zweinstein,Basilisk,Tom Riddle,Ron_s gebroken toverstok,Gevangenismaaltijd
 The Crown,Elizabeth II,Buckingham Palace,Buckingham,Royals,Queen
-The Truman Show,Christof,Reality-tv-show,Seahaven,Verborgen camera's,Het einde
+The Truman Show,Christof,Reality-tv-show,Seahaven,Verborgen camera_s,Het einde
 The Devil Wears Prada,Miranda Priestly,Andy,Fashion,Runway,Anne Hathaway
 Desperate Housewives,Wisteria Lane,Huwelijkscrisis,Moord,Gossip,Bree Van de Kamp
 The Silence of the Lambs,Lecter,Seriemoordenaar,Hannibal,Buffalo Bill,FBI
@@ -2495,15 +2495,15 @@ Magie,Toverstaf,Tovenarij,Harry Potter,Hocus Pocus,Spreuken
 Horror,Gruwelijk,Bloed,Zombie,Paranormaal,Schrikken
 Komedie,Grappig,Lachen,Humor,Sitcom,Cliché
 Super Mario,Paddenstoel,Loodgieter,Nintendo,Prinses Peach,Bowser
-Jurassic World,Dino's,Fossielen,Chris Pratt,Indominus Rex,Oerwoud
+Jurassic World,Dino_s,Fossielen,Chris Pratt,Indominus Rex,Oerwoud
 Shrek,Oger,Fiona,Ezel,Swamps,Lord Farquaad
 Star Trek,Warp Drive,Beam me up,Spock,USS Enterprise,Captain Kirk
 The Great British Bake Off,Cupcakes,Taarten,Paul Hollywood,Prue Leith,Bakken
 Westworld,A.I.,Menselijke robots,Entertainment,Thandie Newton,Geweld
 Doctor Strange,Tijdsverdraaiing,Benedict Cumberbatch,Magnus Opus,Marvel Universe,Magische artefacten
 The Shape of Water,Visman,Guillermo del Toro,Liefde,Experiment,Koude Oorlog
-Black Panther,Wakanda,T'Challa,Killmonger,Vibranium,Dora Milaje
-Grey's Anatomy,Chirurgie,Seattle,Meredith Grey,Patrick Dempsey,Medische Drama
+Black Panther,Wakanda,T_Challa,Killmonger,Vibranium,Dora Milaje
+Grey_s Anatomy,Chirurgie,Seattle,Meredith Grey,Patrick Dempsey,Medische Drama
 How to Get Away With Murder,Rechtszaak,Moord,Annalise Keating,Scandals,Gebroken gezin
 Alien,Buitenaards,Vreemd wezen,UFO,Sciencefiction
 Wizard of Oz,Tovenaar,Gele weg,Magie,Vogelverschrikker,Laffe leeuw
@@ -2515,7 +2515,7 @@ The Dark Knight,Batman,Gotham,Joker,Harvey Dent,Bane
 The Little Mermaid,Zeemeermin,Onderwater,Triton,Schelpen,Oceaan
 Ghostbusters,Slimer,Ecto-1,Proton Pack,Stay Puft,Venkman
 Jaws,Haai,Strand,Duiken,Bloed,Boot
-Indiana Jones and the Last Crusade,Schat,Avontuur,Heilige graal,Nazi's,Harrison Ford
+Indiana Jones and the Last Crusade,Schat,Avontuur,Heilige graal,Nazi_s,Harrison Ford
 The Karate Kid,Karate,Mr. Miyagi,Cobra Kai,Winnen,Vechten
 Dirty Dancing,Dansen,Resort,Zomer,Liefde,Patrick Swayze
 The Sound of Music,Maria,Austria,Von Trapp,Julie Andrews,Singing
@@ -2526,7 +2526,7 @@ Toy Story,Woody,Buzz,Andy,Bo Peep,Mr. Potato Head
 The Sopranos,Tony,Mafia,New Jersey,Carmela,Dr. Melfi
 Gossip Girl,Serena,Blair,Upper East Side,Chuck,Nate
 The Good Place,Eleanor,Chidi,Tahani,Jason,Afterlife
-Avatar,Pandora,Na'vi,James Cameron,Jake Sully,Floating Mountains
+Avatar,Pandora,Na_vi,James Cameron,Jake Sully,Floating Mountains
 Metro,Ondergronds,Metrostation,Passeenger,Subway,Rails
 Helikopter,Vliegen,Hoogte,Propellers,Luchtvaart,Rotorbladen
 Boot,Schip,Vaartuig,Kapitein,Varen,Water
