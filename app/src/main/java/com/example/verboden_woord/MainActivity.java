@@ -49,9 +49,12 @@ public class MainActivity extends AppCompatActivity {
         String guessWord = getRandomGuessWord();
         // Get the taboo words for the guess word from the database
         List<String> tabooWords = dbHelper.getTabooWordsForGuessWord(guessWord);
+        String tabooWordsConcat = String.join("\n\n", tabooWords);
+        // Substitute `_`
+        guessWord = guessWord.replace('_', '\'');
+        tabooWordsConcat = tabooWordsConcat.replace('_', '\'');
         // Update TextViews
         wordTextView.setText(guessWord);
-        String tabooWordsConcat = String.join("\n\n", tabooWords);
         wordsTextView.setText(tabooWordsConcat);
     }
 
@@ -76,9 +79,6 @@ public class MainActivity extends AppCompatActivity {
         SharedPreferences.Editor editor = sharedPreferences.edit();
         editor.putStringSet("excluded_guess_words", excludedGuessWords);
         editor.apply();
-
-        // Substitute `_`
-        guessWord = guessWord.replace('_', '\'');
 
         return guessWord;
     }
