@@ -1,28 +1,21 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_centerVertical="true"
-    android:background="#101843"
-    android:gravity="center">
+    android:background="#101843">
 
     <LinearLayout
+        android:id="@+id/wordTextLayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_gravity="top"
-        android:orientation="horizontal"
         android:paddingLeft="@dimen/_24sdp"
         android:paddingRight="@dimen/_24sdp">
 
         <TextView
             android:id="@+id/wordTextView"
-            android:layout_alignParentTop="true"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:background="#0064FFDA"
-            android:foregroundTint="#64FFDA"
+            android:layout_height="wrap_content"
             android:paddingTop="@dimen/_50sdp"
             android:paddingBottom="@dimen/_50sdp"
             android:shadowColor="#000000"
@@ -30,23 +23,18 @@
             android:shadowDy="5"
             android:shadowRadius="10"
             android:text="WORD HERE"
-            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
             android:textAlignment="center"
             android:textColor="#448AFF"
-            android:textColorHighlight="#64FFDA"
             android:textIsSelectable="false"
             android:textSize="@dimen/_24sdp"
-            android:textStyle="bold"
-            android:typeface="normal"
-            app:drawableTint="#64FFDA" />
+            android:textStyle="bold" />
     </LinearLayout>
 
     <LinearLayout
+        android:layout_below="@+id/wordTextLayout"
         android:layout_above="@+id/buttonLayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:orientation="horizontal"
         android:paddingLeft="@dimen/_24sdp"
         android:paddingRight="@dimen/_24sdp"
         android:paddingBottom="@dimen/_24sdp">
@@ -54,11 +42,11 @@
         <TextView
             android:id="@+id/wordsTextView"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:text="5 WORDS HERE"
+            android:layout_height="fill_parent"
+            android:text="WORD 1 \n\n WORD 2 \n\n WORD 3 \n\n WORD 4 \n\n WORD 5"
             android:textAlignment="center"
             android:textColor="#40C4FF"
-            android:textSize="@dimen/_24sdp"
+            android:autoSizeTextType="uniform"
             android:typeface="normal" />
     </LinearLayout>
 
@@ -67,8 +55,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_gravity="bottom"
-        android:orientation="horizontal"
+        android:weightSum="2"
+        android:gravity="center_horizontal"
         android:paddingLeft="@dimen/_24sdp"
         android:paddingRight="@dimen/_24sdp"
         android:paddingBottom="@dimen/_24sdp">
@@ -76,15 +64,11 @@
         <Button
             android:id="@+id/nextButton"
             style="@style/Widget.AppCompat.Button"
-            android:layout_width="match_parent"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_centerHorizontal="true"
-            android:layout_centerVertical="true"
-            android:layout_gravity="center"
-            android:background="@color/teal_200"
-            android:gravity="center"
+            android:layout_weight="1"
             android:text="Next"
-            android:textSize="@dimen/_24sdp" />
+            android:textSize="@dimen/_16sdp" />
     </LinearLayout>
 
 
