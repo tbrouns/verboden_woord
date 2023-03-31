@@ -2,15 +2,14 @@ import configparser
 import csv
 import glob
 import os
-import openai
 import time
+
+import openai
 from tqdm import tqdm
 
-from utils import parse_txt, convert_to_dict, convert_dict_to_txt
-
+from utils import convert_dict_to_txt, convert_to_dict, parse_txt
 
 if __name__ == "__main__":
-
     # Read the config
     config_path = "config.ini"
     assert os.path.isfile(), f"No {config_path} present! Please create it."
@@ -28,7 +27,7 @@ if __name__ == "__main__":
     # Read the categories from the csv
     category_dict = {}
     with open("categories.csv", "r") as f:
-        reader = csv.reader(f, delimiter=';')
+        reader = csv.reader(f, delimiter=";")
         for line in reader:
             n_samples_for_category, category = line
             category_dict[category] = int(n_samples_for_category)
@@ -38,7 +37,6 @@ if __name__ == "__main__":
     # Generate words in each category using ChatGPT
 
     for category_index in tqdm(range(n_categories)):
-
         # Get the category and the number of words to generate
         category = categories[category_index]
         n_samples_for_category = category_dict[category]
@@ -59,7 +57,6 @@ if __name__ == "__main__":
         # Keep generating words in this category until ...
         # ... we get the minimum number of words, or we cannot generate any more words
         while True:
-
             if data_dict_existing is not None:
                 # Get existing words to not generate again
                 taboo_words = list(data_dict_existing.keys())
@@ -71,7 +68,10 @@ if __name__ == "__main__":
                 taboo_words = None
 
             # Check if we should stop processing
-            if n_samples >= n_samples_for_category or n_samples <= n_samples_old + n_cards // 2:
+            if (
+                n_samples >= n_samples_for_category
+                or n_samples <= n_samples_old + n_cards // 2
+            ):
                 print(
                     "\n"
                     f"Stopped processing...\n"
@@ -138,7 +138,7 @@ if __name__ == "__main__":
 
     # Combine all txt files into single txt
     txt_file_list = glob.glob(os.path.join(data_dir, "*.txt"))
-    with open("words.txt", 'w') as f:
+    with open("words.txt", "w") as f:
         data_dict = {}
         for txt_path in txt_file_list:
             data_dict = data_dict | parse_txt(txt_path)

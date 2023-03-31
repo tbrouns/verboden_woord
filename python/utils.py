@@ -34,7 +34,7 @@ def convert_to_dict(lines, min_chars=10):
                 guess_word = guess_word.split(": ")[-1]
                 # Get the taboo words
                 taboo_words = taboo_words.split(",")
-                taboo_words = [w.rstrip('\n').strip() for w in taboo_words]
+                taboo_words = [w.rstrip("\n").strip() for w in taboo_words]
             else:  # CSV structure
                 # Process the CSV line
                 words = line.split(",")
