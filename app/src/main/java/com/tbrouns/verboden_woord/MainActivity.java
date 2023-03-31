@@ -1,4 +1,4 @@
-package com.example.verboden_woord;
+package com.tbrouns.verboden_woord;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -7,8 +7,6 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
-
-import com.tbrouns.verboden_woord.R;
 
 import java.util.HashSet;
 import java.util.List;
