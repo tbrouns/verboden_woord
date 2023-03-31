@@ -8,6 +8,8 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.tbrouns.verboden_woord.R;
+
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
