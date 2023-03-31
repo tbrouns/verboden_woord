@@ -26,10 +26,12 @@ public class TabooWordsDbHelper extends SQLiteOpenHelper {
     }
 
     public void onCreate(SQLiteDatabase db) {
+
+        // Create table to hold the words
         db.execSQL("CREATE TABLE taboo_words (guess_word TEXT, taboo_word_1 TEXT, taboo_word_2 TEXT, taboo_word_3 TEXT, taboo_word_4 TEXT, taboo_word_5 TEXT)");
 
         try {
-            // Open the file containing the words
+            // Open the TXT file containing the words
             InputStream inputStream = context.getAssets().open("words.txt");
             BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
             String line;
@@ -75,7 +77,9 @@ public class TabooWordsDbHelper extends SQLiteOpenHelper {
         String[] columns = {"taboo_word_1", "taboo_word_2", "taboo_word_3", "taboo_word_4", "taboo_word_5"};
         String selection = "guess_word = ?";
         String[] selectionArgs = {guessWord};
+        // Query the database with the given guessWord
         Cursor cursor = database.query("taboo_words", columns, selection, selectionArgs, null, null, null);
+        // Get the taboo words from the queried data row
         List<String> tabooWords = new ArrayList<>();
         if (cursor.moveToFirst()) {
             for (int i = 0; i < cursor.getColumnCount(); i++) {
@@ -98,6 +102,7 @@ public class TabooWordsDbHelper extends SQLiteOpenHelper {
         // Build the query to select a random guess word
         Cursor cursor = db.query("taboo_words", new String[]{"guess_word"}, selection, null, null, null, "RANDOM()", "1");
 
+        // Get the guess word from the queried data row
         String guessWord = null;
         if (cursor.moveToFirst()) {
             guessWord = cursor.getString(0);

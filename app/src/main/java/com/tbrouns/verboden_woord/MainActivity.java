@@ -13,12 +13,20 @@ import java.util.List;
 import java.util.Set;
 
 public class MainActivity extends AppCompatActivity {
+
+    // For storing user data
     private SharedPreferences sharedPreferences;
 
+    // We use a hashmap to keep track of which words have already shown
     private HashSet<String> excludedGuessWords = new HashSet<>();
+
+    // Initialize database of words
     TabooWordsDbHelper dbHelper = new TabooWordsDbHelper(this);
 
+    // View to show the guess word
     private TextView wordTextView;
+
+    // View for the taboo words
     private TextView wordsTextView;
 
     protected void onCreate(Bundle savedInstanceState) {
@@ -36,11 +44,14 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         wordTextView = findViewById(R.id.wordTextView);
         wordsTextView = findViewById(R.id.wordsTextView);
+
+        // Create button
         Button nextButton = findViewById(R.id.nextButton);
         nextButton.setOnClickListener(v -> {
             setNewWords();
         });
 
+        // Initialize the words
         setNewWords();
     }
 
@@ -63,9 +74,11 @@ public class MainActivity extends AppCompatActivity {
 
         String guessWord;
         while (true) {
+            // Get a new guess word
             guessWord = dbHelper.getRandomGuessWord(excludedGuessWords.toArray(new String[excludedGuessWords.size()]));
             if (guessWord == null) {
-                // Reset the excluded guess words set
+                // If no new guess word can be found ...
+                // ... reset the excluded guess words set
                 excludedGuessWords.clear();
             } else {
                 break;
@@ -89,5 +102,3 @@ public class MainActivity extends AppCompatActivity {
         dbHelper.close();
     }
 }
-
-
