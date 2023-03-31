@@ -3,15 +3,23 @@ plugins {
 }
 
 android {
-    namespace 'com.example.verboden_woord'
+    signingConfigs {
+        release {
+            storeFile file('')
+            storePassword ''
+            keyPassword ''
+            keyAlias ''
+        }
+    }
+    namespace 'com.tbrouns.verboden_woord'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.verboden_woord"
+        applicationId "com.tbrouns.verboden_woord"
         minSdk 24
         targetSdk 33
-        versionCode 1
-        versionName "1.0"
+        versionCode 2
+        versionName "1.0-test"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }

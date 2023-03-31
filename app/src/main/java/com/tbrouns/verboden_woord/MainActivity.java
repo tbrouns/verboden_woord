@@ -1,4 +1,4 @@
-package com.example.verboden_woord;
+package com.tbrouns.verboden_woord;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -13,12 +13,20 @@ import java.util.List;
 import java.util.Set;
 
 public class MainActivity extends AppCompatActivity {
+
+    // For storing user data
     private SharedPreferences sharedPreferences;
 
+    // We use a hashmap to keep track of which words have already shown
     private HashSet<String> excludedGuessWords = new HashSet<>();
+
+    // Initialize database of words
     TabooWordsDbHelper dbHelper = new TabooWordsDbHelper(this);
 
+    // View to show the guess word
     private TextView wordTextView;
+
+    // View for the taboo words
     private TextView wordsTextView;
 
     protected void onCreate(Bundle savedInstanceState) {
@@ -36,11 +44,14 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         wordTextView = findViewById(R.id.wordTextView);
         wordsTextView = findViewById(R.id.wordsTextView);
+
+        // Create button
         Button nextButton = findViewById(R.id.nextButton);
         nextButton.setOnClickListener(v -> {
             setNewWords();
         });
 
+        // Initialize the words
         setNewWords();
     }
 
@@ -49,9 +60,12 @@ public class MainActivity extends AppCompatActivity {
         String guessWord = getRandomGuessWord();
         // Get the taboo words for the guess word from the database
         List<String> tabooWords = dbHelper.getTabooWordsForGuessWord(guessWord);
+        String tabooWordsConcat = String.join("\n\n", tabooWords);
+        // Substitute `_`
+        guessWord = guessWord.replace('_', '\'');
+        tabooWordsConcat = tabooWordsConcat.replace('_', '\'');
         // Update TextViews
         wordTextView.setText(guessWord);
-        String tabooWordsConcat = String.join("\n\n", tabooWords);
         wordsTextView.setText(tabooWordsConcat);
     }
 
@@ -60,9 +74,11 @@ public class MainActivity extends AppCompatActivity {
 
         String guessWord;
         while (true) {
+            // Get a new guess word
             guessWord = dbHelper.getRandomGuessWord(excludedGuessWords.toArray(new String[excludedGuessWords.size()]));
             if (guessWord == null) {
-                // Reset the excluded guess words set
+                // If no new guess word can be found ...
+                // ... reset the excluded guess words set
                 excludedGuessWords.clear();
             } else {
                 break;
@@ -77,9 +93,6 @@ public class MainActivity extends AppCompatActivity {
         editor.putStringSet("excluded_guess_words", excludedGuessWords);
         editor.apply();
 
-        // Substitute `_`
-        guessWord = guessWord.replace('_', '\'');
-
         return guessWord;
     }
 
@@ -89,5 +102,3 @@ public class MainActivity extends AppCompatActivity {
         dbHelper.close();
     }
 }
-
-

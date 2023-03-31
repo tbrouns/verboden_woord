@@ -1,4 +1,4 @@
-package com.example.verboden_woord;
+package com.tbrouns.verboden_woord;
 
 import org.junit.Test;
 
