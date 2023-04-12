@@ -2,6 +2,9 @@
 *.ini
 __pycache__
 data
+/build
+/release
+app/build.gradle
 
 # Gradle files
 .gradle/
