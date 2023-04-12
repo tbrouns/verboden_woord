@@ -2,13 +2,12 @@
 *.ini
 __pycache__
 data
-/build
-/release
+app/build
+app/debug
+app/release
 app/build.gradle
-
-# Gradle files
-.gradle/
-build/
+app/.gradle/
+.gradle
 
 # Local configuration file (sdk path, etc)
 local.properties
